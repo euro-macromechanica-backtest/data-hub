@@ -1,0 +1,279 @@
+datetime_utc,event,country,impact,certainty,ticker,source_url,notes
+2003-01-01T09:00:00+00:00,Eurozone Manufacturing PMI — January 2003,EA,medium,confirmed,EA:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 1st business day, 10:00 CET/CEST."
+2003-01-01T09:30:00+00:00,UK Manufacturing PMI — January 2003,UK,medium,confirmed,UK:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 1st business day 09:30 UK time (official PMI schedule).
+2003-01-01T15:00:00+00:00,ISM Manufacturing PMI — January 2003,US,high,confirmed,US:ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 1st business day at 10:00 ET.
+2003-01-02T09:30:00+00:00,UK Construction PMI — January 2003,UK,medium,confirmed,UK:PMI_CONS,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 2nd business day 09:30 UK time (official PMI schedule).
+2003-01-03T09:00:00+00:00,Eurozone Composite PMI — January 2003,EA,medium,confirmed,EA:PMI_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,Released with Services PMI.
+2003-01-03T09:00:00+00:00,Eurozone Services PMI — January 2003,EA,medium,confirmed,EA:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 3rd business day, 10:00 CET/CEST."
+2003-01-03T09:30:00+00:00,UK Services PMI — January 2003,UK,medium,confirmed,UK:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 3rd business day 09:30 UK time (official PMI schedule).
+2003-01-03T15:00:00+00:00,ISM Non-Manufacturing PMI — January 2003,US,high,confirmed,US:ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 3rd business day at 10:00 ET.
+2003-01-09T12:00:00+00:00,BoE MPC Rate Decision — Jan 2003,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/news/2002/september/mpc-dates-2003,Official MPC dates; announcement on Thursday at 12:00.
+2003-01-09T12:45:00+00:00,ECB Rate Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pressreleases/2003/html/index.en.html,Governing Council monetary policy decision; time 13:45 CET/CEST.
+2003-01-09T13:30:00+00:00,ECB Press Conference (Introductory Statement),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2003/html/is030109.en.html,Press conference ~14:30 CET/CEST with Introductory Statement.
+2003-01-10T13:30:00+00:00,Employment Situation — January 2003,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-01-14T13:30:00+00:00,"Advance Monthly Retail Sales — release Jan 14, 2003",US,high,confirmed,US:RETAIL,https://www2.census.gov/historical/marts/rs0211.txt,nan
+2003-01-15T13:30:00+00:00,"PPI — release Jan 15, 2003",US,high,confirmed,US:PPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-01-16T13:30:00+00:00,"CPI — release Jan 16, 2003",US,high,confirmed,US:CPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-01-29T19:15:00+00:00,FOMC Rate Decision (no change),US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Policy decision time ~2:15pm ET (pre-2013 convention).
+2003-01-29T19:15:00+00:00,FOMC Statement,US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Published with the decision.
+2003-01-30T13:30:00+00:00,GDP (Q4 2002) — Advance,US,high,confirmed,US:GDP,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-01-31T13:30:00+00:00,"Personal Income & Outlays — release Jan 31, 2003",US,high,confirmed,US:PCE,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-02-03T09:00:00+00:00,Eurozone Manufacturing PMI — February 2003,EA,medium,confirmed,EA:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 1st business day, 10:00 CET/CEST."
+2003-02-03T09:30:00+00:00,UK Manufacturing PMI — February 2003,UK,medium,confirmed,UK:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 1st business day 09:30 UK time (official PMI schedule).
+2003-02-03T15:00:00+00:00,ISM Manufacturing PMI — February 2003,US,high,confirmed,US:ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 1st business day at 10:00 ET.
+2003-02-04T09:30:00+00:00,UK Construction PMI — February 2003,UK,medium,confirmed,UK:PMI_CONS,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 2nd business day 09:30 UK time (official PMI schedule).
+2003-02-04T10:00:00+00:00,Euro area HICP (flash) — January 2003,EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: STAT_03_14
+2003-02-05T09:00:00+00:00,Eurozone Composite PMI — February 2003,EA,medium,confirmed,EA:PMI_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,Released with Services PMI.
+2003-02-05T09:00:00+00:00,Eurozone Services PMI — February 2003,EA,medium,confirmed,EA:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 3rd business day, 10:00 CET/CEST."
+2003-02-05T09:30:00+00:00,UK Services PMI — February 2003,UK,medium,confirmed,UK:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 3rd business day 09:30 UK time (official PMI schedule).
+2003-02-05T15:00:00+00:00,ISM Non-Manufacturing PMI — February 2003,US,high,confirmed,US:ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 3rd business day at 10:00 ET.
+2003-02-06T12:00:00+00:00,BoE MPC Rate Decision — Feb 2003,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/news/2002/september/mpc-dates-2003,Official MPC dates; announcement on Thursday at 12:00.
+2003-02-06T12:45:00+00:00,ECB Rate Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pressreleases/2003/html/index.en.html,Governing Council monetary policy decision; time 13:45 CET/CEST.
+2003-02-06T13:30:00+00:00,ECB Press Conference (Introductory Statement),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2003/html/is030206.en.html,Press conference ~14:30 CET/CEST with Introductory Statement.
+2003-02-07T13:30:00+00:00,Employment Situation — February 2003,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-02-12T10:30:00+00:00,BoE Press Conference (Inflation Report — February 2003),UK,medium,confirmed,UK:BOE_CONF,https://www.bankofengland.co.uk/sitemap/inflation-report,IR publication day; presser ~10:30 UK time.
+2003-02-13T13:30:00+00:00,"Advance Monthly Retail Sales — release Feb 13, 2003",US,high,confirmed,US:RETAIL,https://www2.census.gov/historical/marts/rs0211.txt,nan
+2003-02-20T13:30:00+00:00,"PPI — release Feb 20, 2003",US,high,confirmed,US:PPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-02-21T13:30:00+00:00,"CPI — release Feb 21, 2003",US,high,confirmed,US:CPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-02-28T10:00:00+00:00,Euro area HICP (final) — Jan 2003,EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-02-28T10:00:00+00:00,Euro area HICP (flash) — February 2003,EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: STAT_03_21
+2003-02-28T13:30:00+00:00,GDP (Q4 2002) — Second,US,high,confirmed,US:GDP,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-02-28T13:30:00+00:00,"Personal Income & Outlays — release Feb 28, 2003",US,high,confirmed,US:PCE,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-03-03T09:00:00+00:00,Eurozone Manufacturing PMI — March 2003,EA,medium,confirmed,EA:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 1st business day, 10:00 CET/CEST."
+2003-03-03T09:30:00+00:00,UK Manufacturing PMI — March 2003,UK,medium,confirmed,UK:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 1st business day 09:30 UK time (official PMI schedule).
+2003-03-03T15:00:00+00:00,ISM Manufacturing PMI — March 2003,US,high,confirmed,US:ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 1st business day at 10:00 ET.
+2003-03-04T09:30:00+00:00,UK Construction PMI — March 2003,UK,medium,confirmed,UK:PMI_CONS,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 2nd business day 09:30 UK time (official PMI schedule).
+2003-03-04T10:00:00+00:00,Euro area Unemployment — Jan 2003,EA,high,confirmed,EA:UNEMP,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-03-05T09:00:00+00:00,Eurozone Composite PMI — March 2003,EA,medium,confirmed,EA:PMI_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,Released with Services PMI.
+2003-03-05T09:00:00+00:00,Eurozone Services PMI — March 2003,EA,medium,confirmed,EA:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 3rd business day, 10:00 CET/CEST."
+2003-03-05T09:30:00+00:00,UK Services PMI — March 2003,UK,medium,confirmed,UK:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 3rd business day 09:30 UK time (official PMI schedule).
+2003-03-05T15:00:00+00:00,ISM Non-Manufacturing PMI — March 2003,US,high,confirmed,US:ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 3rd business day at 10:00 ET.
+2003-03-06T08:30:00+00:00,SNB policy rate change (extraordinary),CH,medium,confirmed,CH:SNB_RATE,https://www.snb.ch/public/publication/en/www-snb-ch/publications/communication/press-releases/2003/pre_20030306/0_en/pre_20030306.en.pdf,Decision/assessment date per SNB press release; time set to 09:30 local.
+2003-03-06T12:00:00+00:00,BoE MPC Rate Decision — Mar 2003,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/news/2002/september/mpc-dates-2003,Official MPC dates; announcement on Thursday at 12:00.
+2003-03-06T12:45:00+00:00,ECB Rate Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pressreleases/2003/html/index.en.html,Governing Council monetary policy decision; time 13:45 CET/CEST.
+2003-03-06T13:30:00+00:00,ECB Press Conference (Introductory Statement),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2003/html/is030306.en.html,Press conference ~14:30 CET/CEST with Introductory Statement.
+2003-03-07T13:30:00+00:00,Employment Situation — March 2003,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-03-13T13:30:00+00:00,"Advance Monthly Retail Sales — release Mar 13, 2003",US,high,confirmed,US:RETAIL,https://www2.census.gov/historical/marts/rs0211.txt,nan
+2003-03-14T13:30:00+00:00,"PPI — release Mar 14, 2003",US,high,confirmed,US:PPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-03-18T10:00:00+00:00,Euro area HICP (final) — Feb 2003,EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-03-18T19:15:00+00:00,FOMC Rate Decision (no change),US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Policy decision time ~2:15pm ET (pre-2013 convention).
+2003-03-18T19:15:00+00:00,FOMC Statement,US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Published with the decision.
+2003-03-20T08:30:00+00:00,SNB Monetary Policy Assessment — March 2003,CH,medium,confirmed,CH:SNB_RATE,https://www.snb.ch/public/publication/en/www-snb-ch/publications/communication/press-releases/2003/pre_20030320/0_en/pre_20030320.en.pdf,Decision/assessment date per SNB press release; time set to 09:30 local.
+2003-03-20T09:00:00+00:00,SNB Press Conference — March 2003,CH,medium,confirmed,CH:SNB_CONF,https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy/decisions,News conference after assessment (official policy).
+2003-03-20T19:00:00+00:00,"Minutes for Jan 28–29, 2003 meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Release time approximated at 2:00pm ET; date per Fed historical page.
+2003-03-21T13:30:00+00:00,"CPI — release Mar 21, 2003",US,high,confirmed,US:CPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-03-25T16:00:00+00:00,FOMC Conference Call (unscheduled),US,high,confirmed,US:FOMC_CONF_CALL,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Telephone conference call; exact time not specified (placeholder).
+2003-03-27T13:30:00+00:00,GDP (Q4 2002) — Third (Final),US,high,confirmed,US:GDP,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-03-28T13:30:00+00:00,"Personal Income & Outlays — release Mar 28, 2003",US,high,confirmed,US:PCE,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-03-31T09:00:00+00:00,Euro area HICP (flash) — March 2003,EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: STAT_03_38
+2003-04-01T08:00:00+00:00,Eurozone Manufacturing PMI — April 2003,EA,medium,confirmed,EA:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 1st business day, 10:00 CET/CEST."
+2003-04-01T08:30:00+00:00,UK Manufacturing PMI — April 2003,UK,medium,confirmed,UK:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 1st business day 09:30 UK time (official PMI schedule).
+2003-04-01T09:00:00+00:00,Euro area Unemployment — Feb 2003,EA,high,confirmed,EA:UNEMP,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-04-01T15:00:00+00:00,ISM Manufacturing PMI — April 2003,US,high,confirmed,US:ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 1st business day at 10:00 ET.
+2003-04-01T16:00:00+00:00,FOMC Conference Call (unscheduled),US,high,confirmed,US:FOMC_CONF_CALL,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Telephone conference call; exact time not specified (placeholder).
+2003-04-02T08:30:00+00:00,UK Construction PMI — April 2003,UK,medium,confirmed,UK:PMI_CONS,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 2nd business day 09:30 UK time (official PMI schedule).
+2003-04-03T08:00:00+00:00,Eurozone Composite PMI — April 2003,EA,medium,confirmed,EA:PMI_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,Released with Services PMI.
+2003-04-03T08:00:00+00:00,Eurozone Services PMI — April 2003,EA,medium,confirmed,EA:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 3rd business day, 10:00 CET/CEST."
+2003-04-03T08:30:00+00:00,UK Services PMI — April 2003,UK,medium,confirmed,UK:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 3rd business day 09:30 UK time (official PMI schedule).
+2003-04-03T11:45:00+00:00,ECB Rate Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pressreleases/2003/html/index.en.html,Governing Council monetary policy decision; time 13:45 CET/CEST.
+2003-04-03T12:30:00+00:00,ECB Press Conference (Introductory Statement),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2003/html/is030403.en.html,Press conference ~14:30 CET/CEST with Introductory Statement.
+2003-04-03T15:00:00+00:00,ISM Non-Manufacturing PMI — April 2003,US,high,confirmed,US:ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 3rd business day at 10:00 ET.
+2003-04-04T13:30:00+00:00,Employment Situation — April 2003,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-04-08T15:00:00+00:00,FOMC Conference Call (unscheduled),US,high,confirmed,US:FOMC_CONF_CALL,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Telephone conference call; exact time not specified (placeholder).
+2003-04-10T11:00:00+00:00,BoE MPC Rate Decision — Apr 2003,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/news/2002/september/mpc-dates-2003,Official MPC dates; announcement on Thursday at 12:00.
+2003-04-11T12:30:00+00:00,"Advance Monthly Retail Sales — release Apr 11, 2003",US,high,confirmed,US:RETAIL,https://www2.census.gov/historical/marts/rs0211.txt,nan
+2003-04-11T12:30:00+00:00,"PPI — release Apr 11, 2003",US,high,confirmed,US:PPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-04-16T09:00:00+00:00,Euro area HICP (final) — Mar 2003,EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-04-16T12:30:00+00:00,"CPI — release Apr 16, 2003",US,high,confirmed,US:CPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-04-16T15:00:00+00:00,FOMC Conference Call (unscheduled),US,high,confirmed,US:FOMC_CONF_CALL,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Telephone conference call; exact time not specified (placeholder).
+2003-04-25T12:30:00+00:00,GDP (Q1 2003) — Advance,US,high,confirmed,US:GDP,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-04-28T12:30:00+00:00,"Personal Income & Outlays — release Apr 28, 2003",US,high,confirmed,US:PCE,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-04-30T09:00:00+00:00,Euro area HICP (flash) — April 2003,EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: 2-30042003-AP
+2003-05-01T08:00:00+00:00,Eurozone Manufacturing PMI — May 2003,EA,medium,confirmed,EA:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 1st business day, 10:00 CET/CEST."
+2003-05-01T08:30:00+00:00,UK Manufacturing PMI — May 2003,UK,medium,confirmed,UK:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 1st business day 09:30 UK time (official PMI schedule).
+2003-05-01T14:00:00+00:00,ISM Manufacturing PMI — May 2003,US,high,confirmed,US:ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 1st business day at 10:00 ET.
+2003-05-02T08:30:00+00:00,UK Construction PMI — May 2003,UK,medium,confirmed,UK:PMI_CONS,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 2nd business day 09:30 UK time (official PMI schedule).
+2003-05-02T12:30:00+00:00,Employment Situation — May 2003,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-05-05T08:00:00+00:00,Eurozone Composite PMI — May 2003,EA,medium,confirmed,EA:PMI_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,Released with Services PMI.
+2003-05-05T08:00:00+00:00,Eurozone Services PMI — May 2003,EA,medium,confirmed,EA:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 3rd business day, 10:00 CET/CEST."
+2003-05-05T08:30:00+00:00,UK Services PMI — May 2003,UK,medium,confirmed,UK:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 3rd business day 09:30 UK time (official PMI schedule).
+2003-05-05T14:00:00+00:00,ISM Non-Manufacturing PMI — May 2003,US,high,confirmed,US:ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 3rd business day at 10:00 ET.
+2003-05-06T09:00:00+00:00,Euro area Unemployment — Mar 2003,EA,high,confirmed,EA:UNEMP,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-05-06T18:15:00+00:00,FOMC Rate Decision (no change),US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Policy decision time ~2:15pm ET (pre-2013 convention).
+2003-05-06T18:15:00+00:00,FOMC Statement,US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Published with the decision.
+2003-05-08T11:00:00+00:00,BoE MPC Rate Decision — May 2003,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/news/2002/september/mpc-dates-2003,Official MPC dates; announcement on Thursday at 12:00.
+2003-05-08T11:45:00+00:00,ECB Rate Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pressreleases/2003/html/index.en.html,Governing Council monetary policy decision; time 13:45 CET/CEST.
+2003-05-08T12:30:00+00:00,ECB Press Conference (Introductory Statement),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2003/html/is030508.en.html,Press conference ~14:30 CET/CEST with Introductory Statement.
+2003-05-08T18:00:00+00:00,"Minutes for Mar 18, 2003 meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Release time approximated at 2:00pm ET; date per Fed historical page.
+2003-05-14T12:30:00+00:00,"Advance Monthly Retail Sales — release May 14, 2003",US,high,confirmed,US:RETAIL,https://www2.census.gov/historical/marts/rs0211.txt,nan
+2003-05-15T09:00:00+00:00,Euro area GDP flash — Q1 2003,EA,high,confirmed,EA:GDP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: STAT_03_55
+2003-05-15T09:30:00+00:00,BoE Press Conference (Inflation Report — May 2003),UK,medium,confirmed,UK:BOE_CONF,https://www.bankofengland.co.uk/sitemap/inflation-report,IR publication day; presser ~10:30 UK time.
+2003-05-15T12:30:00+00:00,"PPI — release May 15, 2003",US,high,confirmed,US:PPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-05-16T09:00:00+00:00,Euro area HICP (final) — Apr 2003,EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-05-16T12:30:00+00:00,"CPI — release May 16, 2003",US,high,confirmed,US:CPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-05-28T09:00:00+00:00,Euro area Unemployment — Apr 2003,EA,high,confirmed,EA:UNEMP,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-05-29T12:30:00+00:00,GDP (Q1 2003) — Second,US,high,confirmed,US:GDP,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-05-30T12:30:00+00:00,"Personal Income & Outlays — release May 30, 2003",US,high,confirmed,US:PCE,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-06-02T08:00:00+00:00,Eurozone Manufacturing PMI — June 2003,EA,medium,confirmed,EA:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 1st business day, 10:00 CET/CEST."
+2003-06-02T08:30:00+00:00,UK Manufacturing PMI — June 2003,UK,medium,confirmed,UK:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 1st business day 09:30 UK time (official PMI schedule).
+2003-06-02T09:00:00+00:00,Euro area HICP (flash) — May 2003,EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: 2-02062003-AP
+2003-06-02T14:00:00+00:00,ISM Manufacturing PMI — June 2003,US,high,confirmed,US:ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 1st business day at 10:00 ET.
+2003-06-03T08:30:00+00:00,UK Construction PMI — June 2003,UK,medium,confirmed,UK:PMI_CONS,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 2nd business day 09:30 UK time (official PMI schedule).
+2003-06-04T08:00:00+00:00,Eurozone Composite PMI — June 2003,EA,medium,confirmed,EA:PMI_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,Released with Services PMI.
+2003-06-04T08:00:00+00:00,Eurozone Services PMI — June 2003,EA,medium,confirmed,EA:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 3rd business day, 10:00 CET/CEST."
+2003-06-04T08:30:00+00:00,UK Services PMI — June 2003,UK,medium,confirmed,UK:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 3rd business day 09:30 UK time (official PMI schedule).
+2003-06-04T14:00:00+00:00,ISM Non-Manufacturing PMI — June 2003,US,high,confirmed,US:ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 3rd business day at 10:00 ET.
+2003-06-05T11:00:00+00:00,BoE MPC Rate Decision — Jun 2003,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/news/2002/september/mpc-dates-2003,Official MPC dates; announcement on Thursday at 12:00.
+2003-06-05T11:45:00+00:00,ECB Rate Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pressreleases/2003/html/index.en.html,Governing Council monetary policy decision; time 13:45 CET/CEST.
+2003-06-05T12:30:00+00:00,ECB Press Conference (Introductory Statement),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2003/html/is030605.en.html,Press conference ~14:30 CET/CEST with Introductory Statement.
+2003-06-06T12:30:00+00:00,Employment Situation — June 2003,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-06-12T12:30:00+00:00,"Advance Monthly Retail Sales — release Jun 12, 2003",US,high,confirmed,US:RETAIL,https://www2.census.gov/historical/marts/rs0211.txt,nan
+2003-06-13T07:30:00+00:00,SNB Monetary Policy Assessment — mid-year 2003,CH,medium,confirmed,CH:SNB_RATE,https://www.snb.ch/public/publication/en/www-snb-ch/publications/communication/press-releases/2003/pre_20030613/0_en/pre_20030613.en.pdf,Decision/assessment date per SNB press release; time set to 09:30 local.
+2003-06-13T08:00:00+00:00,SNB Press Conference — mid-year 2003,CH,medium,confirmed,CH:SNB_CONF,https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy/decisions,News conference after assessment (official policy).
+2003-06-13T12:30:00+00:00,"PPI — release Jun 13, 2003",US,high,confirmed,US:PPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-06-17T12:30:00+00:00,"CPI — release Jun 17, 2003",US,high,confirmed,US:CPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-06-18T09:00:00+00:00,Euro area HICP (final) — May 2003,EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-06-25T18:15:00+00:00,FOMC Rate Decision (change),US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Policy decision time ~2:15pm ET (pre-2013 convention).
+2003-06-25T18:15:00+00:00,FOMC Statement,US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Published with the decision.
+2003-06-26T12:30:00+00:00,GDP (Q1 2003) — Third (Final),US,high,confirmed,US:GDP,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-06-26T18:00:00+00:00,"Minutes for May 6, 2003 meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Release time approximated at 2:00pm ET; date per Fed historical page.
+2003-06-27T12:30:00+00:00,"Personal Income & Outlays — release Jun 27, 2003",US,high,confirmed,US:PCE,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-06-30T09:00:00+00:00,Euro area HICP (flash) — June 2003,EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: STAT_03_74
+2003-07-01T08:00:00+00:00,Eurozone Manufacturing PMI — July 2003,EA,medium,confirmed,EA:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 1st business day, 10:00 CET/CEST."
+2003-07-01T08:30:00+00:00,UK Manufacturing PMI — July 2003,UK,medium,confirmed,UK:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 1st business day 09:30 UK time (official PMI schedule).
+2003-07-01T09:00:00+00:00,Euro area Unemployment — May 2003,EA,high,confirmed,EA:UNEMP,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-07-01T14:00:00+00:00,ISM Manufacturing PMI — July 2003,US,high,confirmed,US:ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 1st business day at 10:00 ET.
+2003-07-02T08:30:00+00:00,UK Construction PMI — July 2003,UK,medium,confirmed,UK:PMI_CONS,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 2nd business day 09:30 UK time (official PMI schedule).
+2003-07-03T08:00:00+00:00,Eurozone Composite PMI — July 2003,EA,medium,confirmed,EA:PMI_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,Released with Services PMI.
+2003-07-03T08:00:00+00:00,Eurozone Services PMI — July 2003,EA,medium,confirmed,EA:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 3rd business day, 10:00 CET/CEST."
+2003-07-03T08:30:00+00:00,UK Services PMI — July 2003,UK,medium,confirmed,UK:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 3rd business day 09:30 UK time (official PMI schedule).
+2003-07-03T12:30:00+00:00,Employment Situation — July 2003,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-07-03T14:00:00+00:00,ISM Non-Manufacturing PMI — July 2003,US,high,confirmed,US:ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 3rd business day at 10:00 ET.
+2003-07-10T11:00:00+00:00,BoE MPC Rate Decision — Jul 2003,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/news/2002/september/mpc-dates-2003,Official MPC dates; announcement on Thursday at 12:00.
+2003-07-10T11:45:00+00:00,ECB Rate Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pressreleases/2003/html/index.en.html,Governing Council monetary policy decision; time 13:45 CET/CEST.
+2003-07-10T12:30:00+00:00,ECB Press Conference (Introductory Statement),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2003/html/is030710.en.html,Press conference ~14:30 CET/CEST with Introductory Statement.
+2003-07-11T12:30:00+00:00,"PPI — release Jul 11, 2003",US,high,confirmed,US:PPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-07-15T12:30:00+00:00,"Advance Monthly Retail Sales — release Jul 15, 2003",US,high,confirmed,US:RETAIL,https://www2.census.gov/historical/marts/rs0211.txt,nan
+2003-07-16T09:00:00+00:00,Euro area HICP (final) — Jun 2003,EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-07-16T12:30:00+00:00,"CPI — release Jul 16, 2003",US,high,confirmed,US:CPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-07-31T09:00:00+00:00,Euro area HICP (flash) — July 2003,EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: (Eurostat schedule)
+2003-07-31T12:30:00+00:00,GDP (Q2 2003) — Advance,US,high,confirmed,US:GDP,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-07-31T12:30:00+00:00,"Personal Income & Outlays — release Jul 31, 2003",US,high,confirmed,US:PCE,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-08-01T08:00:00+00:00,Eurozone Manufacturing PMI — August 2003,EA,medium,confirmed,EA:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 1st business day, 10:00 CET/CEST."
+2003-08-01T08:30:00+00:00,UK Manufacturing PMI — August 2003,UK,medium,confirmed,UK:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 1st business day 09:30 UK time (official PMI schedule).
+2003-08-01T12:30:00+00:00,Employment Situation — August 2003,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-08-01T14:00:00+00:00,ISM Manufacturing PMI — August 2003,US,high,confirmed,US:ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 1st business day at 10:00 ET.
+2003-08-04T08:30:00+00:00,UK Construction PMI — August 2003,UK,medium,confirmed,UK:PMI_CONS,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 2nd business day 09:30 UK time (official PMI schedule).
+2003-08-05T08:00:00+00:00,Eurozone Composite PMI — August 2003,EA,medium,confirmed,EA:PMI_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,Released with Services PMI.
+2003-08-05T08:00:00+00:00,Eurozone Services PMI — August 2003,EA,medium,confirmed,EA:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 3rd business day, 10:00 CET/CEST."
+2003-08-05T08:30:00+00:00,UK Services PMI — August 2003,UK,medium,confirmed,UK:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 3rd business day 09:30 UK time (official PMI schedule).
+2003-08-05T09:00:00+00:00,Euro area Unemployment — Jun 2003,EA,high,confirmed,EA:UNEMP,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-08-05T14:00:00+00:00,ISM Non-Manufacturing PMI — August 2003,US,high,confirmed,US:ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 3rd business day at 10:00 ET.
+2003-08-07T11:00:00+00:00,BoE MPC Rate Decision — Aug 2003,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/news/2002/september/mpc-dates-2003,Official MPC dates; announcement on Thursday at 12:00.
+2003-08-12T18:15:00+00:00,FOMC Rate Decision (no change),US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Policy decision time ~2:15pm ET (pre-2013 convention).
+2003-08-12T18:15:00+00:00,FOMC Statement,US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Published with the decision.
+2003-08-13T09:30:00+00:00,BoE Press Conference (Inflation Report — August 2003),UK,medium,confirmed,UK:BOE_CONF,https://www.bankofengland.co.uk/sitemap/inflation-report,IR publication day; presser ~10:30 UK time.
+2003-08-13T12:30:00+00:00,"Advance Monthly Retail Sales — release Aug 13, 2003",US,high,confirmed,US:RETAIL,https://www2.census.gov/historical/marts/rs0211.txt,nan
+2003-08-14T09:00:00+00:00,Euro area GDP flash — Q2 2003,EA,high,confirmed,EA:GDP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: STAT_03_93
+2003-08-14T12:30:00+00:00,"PPI — release Aug 14, 2003",US,high,confirmed,US:PPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-08-14T18:00:00+00:00,"Minutes for Jun 24–25, 2003 meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Release time approximated at 2:00pm ET; date per Fed historical page.
+2003-08-15T12:30:00+00:00,"CPI — release Aug 15, 2003",US,high,confirmed,US:CPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-08-19T09:00:00+00:00,Euro area HICP (final) — Jul 2003,EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-08-28T12:30:00+00:00,GDP (Q2 2003) — Second,US,high,confirmed,US:GDP,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-08-29T09:00:00+00:00,Euro area HICP (flash) — August 2003,EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: STAT_03_99
+2003-08-29T12:30:00+00:00,"Personal Income & Outlays — release Aug 29, 2003",US,high,confirmed,US:PCE,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-09-01T08:00:00+00:00,Eurozone Manufacturing PMI — September 2003,EA,medium,confirmed,EA:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 1st business day, 10:00 CET/CEST."
+2003-09-01T08:30:00+00:00,UK Manufacturing PMI — September 2003,UK,medium,confirmed,UK:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 1st business day 09:30 UK time (official PMI schedule).
+2003-09-01T14:00:00+00:00,ISM Manufacturing PMI — September 2003,US,high,confirmed,US:ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 1st business day at 10:00 ET.
+2003-09-02T08:30:00+00:00,UK Construction PMI — September 2003,UK,medium,confirmed,UK:PMI_CONS,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 2nd business day 09:30 UK time (official PMI schedule).
+2003-09-02T09:00:00+00:00,Euro area Unemployment — Jul 2003,EA,high,confirmed,EA:UNEMP,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-09-03T08:00:00+00:00,Eurozone Composite PMI — September 2003,EA,medium,confirmed,EA:PMI_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,Released with Services PMI.
+2003-09-03T08:00:00+00:00,Eurozone Services PMI — September 2003,EA,medium,confirmed,EA:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 3rd business day, 10:00 CET/CEST."
+2003-09-03T08:30:00+00:00,UK Services PMI — September 2003,UK,medium,confirmed,UK:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 3rd business day 09:30 UK time (official PMI schedule).
+2003-09-03T14:00:00+00:00,ISM Non-Manufacturing PMI — September 2003,US,high,confirmed,US:ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 3rd business day at 10:00 ET.
+2003-09-04T11:00:00+00:00,BoE MPC Rate Decision — Sep 2003,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/news/2002/september/mpc-dates-2003,Official MPC dates; announcement on Thursday at 12:00.
+2003-09-04T11:45:00+00:00,ECB Rate Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pressreleases/2003/html/index.en.html,Governing Council monetary policy decision; time 13:45 CET/CEST.
+2003-09-04T12:30:00+00:00,ECB Press Conference (Introductory Statement),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2003/html/is030904.en.html,Press conference ~14:30 CET/CEST with Introductory Statement.
+2003-09-05T12:30:00+00:00,Employment Situation — September 2003,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-09-12T12:30:00+00:00,"Advance Monthly Retail Sales — release Sep 12, 2003",US,high,confirmed,US:RETAIL,https://www2.census.gov/historical/marts/rs0211.txt,nan
+2003-09-12T12:30:00+00:00,"PPI — release Sep 12, 2003",US,high,confirmed,US:PPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-09-15T15:00:00+00:00,FOMC Unscheduled Meeting,US,high,confirmed,US:FOMC_UNSCHED,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Unscheduled meeting; time not specified (placeholder).
+2003-09-16T12:30:00+00:00,"CPI — release Sep 16, 2003",US,high,confirmed,US:CPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-09-16T18:15:00+00:00,FOMC Rate Decision (no change),US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Policy decision time ~2:15pm ET (pre-2013 convention).
+2003-09-16T18:15:00+00:00,FOMC Statement,US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Published with the decision.
+2003-09-17T09:00:00+00:00,Euro area HICP (final) — Aug 2003,EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-09-18T07:30:00+00:00,SNB Monetary Policy Assessment — September 2003,CH,medium,confirmed,CH:SNB_RATE,https://www.snb.ch/public/publication/en/www-snb-ch/publications/communication/press-releases/2003/pre_20030918/0_en/pre_20030918.en.pdf,Decision/assessment date per SNB press release; time set to 09:30 local.
+2003-09-18T08:00:00+00:00,SNB Press Conference — September 2003,CH,medium,confirmed,CH:SNB_CONF,https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy/decisions,News conference after assessment (official policy).
+2003-09-18T18:00:00+00:00,"Minutes for Aug 12, 2003 meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Release time approximated at 2:00pm ET; date per Fed historical page.
+2003-09-26T12:30:00+00:00,GDP (Q2 2003) — Third (Final),US,high,confirmed,US:GDP,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-09-29T12:30:00+00:00,"Personal Income & Outlays — release Sep 29, 2003",US,high,confirmed,US:PCE,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-09-30T09:00:00+00:00,Euro area HICP (flash) — September 2003,EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: STAT_03_112
+2003-10-01T08:00:00+00:00,Eurozone Manufacturing PMI — October 2003,EA,medium,confirmed,EA:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 1st business day, 10:00 CET/CEST."
+2003-10-01T08:30:00+00:00,UK Manufacturing PMI — October 2003,UK,medium,confirmed,UK:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 1st business day 09:30 UK time (official PMI schedule).
+2003-10-01T09:00:00+00:00,Euro area Unemployment — Aug 2003,EA,high,confirmed,EA:UNEMP,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-10-01T14:00:00+00:00,ISM Manufacturing PMI — October 2003,US,high,confirmed,US:ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 1st business day at 10:00 ET.
+2003-10-02T08:30:00+00:00,UK Construction PMI — October 2003,UK,medium,confirmed,UK:PMI_CONS,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 2nd business day 09:30 UK time (official PMI schedule).
+2003-10-02T11:45:00+00:00,ECB Rate Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pressreleases/2003/html/index.en.html,Governing Council monetary policy decision; time 13:45 CET/CEST.
+2003-10-02T12:30:00+00:00,ECB Press Conference (Introductory Statement),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2003/html/is031002.en.html,Press conference ~14:30 CET/CEST with Introductory Statement.
+2003-10-03T08:00:00+00:00,Eurozone Composite PMI — October 2003,EA,medium,confirmed,EA:PMI_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,Released with Services PMI.
+2003-10-03T08:00:00+00:00,Eurozone Services PMI — October 2003,EA,medium,confirmed,EA:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 3rd business day, 10:00 CET/CEST."
+2003-10-03T08:30:00+00:00,UK Services PMI — October 2003,UK,medium,confirmed,UK:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 3rd business day 09:30 UK time (official PMI schedule).
+2003-10-03T12:30:00+00:00,Employment Situation — October 2003,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-10-03T14:00:00+00:00,ISM Non-Manufacturing PMI — October 2003,US,high,confirmed,US:ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 3rd business day at 10:00 ET.
+2003-10-09T11:00:00+00:00,BoE MPC Rate Decision — Oct 2003,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/news/2002/september/mpc-dates-2003,Official MPC dates; announcement on Thursday at 12:00.
+2003-10-10T12:30:00+00:00,"PPI — release Oct 10, 2003",US,high,confirmed,US:PPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-10-15T12:30:00+00:00,"Advance Monthly Retail Sales — release Oct 15, 2003",US,high,confirmed,US:RETAIL,https://www2.census.gov/historical/marts/rs0211.txt,nan
+2003-10-16T09:00:00+00:00,Euro area HICP (final) — Sep 2003,EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-10-16T12:30:00+00:00,"CPI — release Oct 16, 2003",US,high,confirmed,US:CPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-10-28T19:15:00+00:00,FOMC Rate Decision (no change),US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Policy decision time ~2:15pm ET (pre-2013 convention).
+2003-10-28T19:15:00+00:00,FOMC Statement,US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Published with the decision.
+2003-10-30T13:30:00+00:00,GDP (Q3 2003) — Advance,US,high,confirmed,US:GDP,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-10-30T19:00:00+00:00,"Minutes for Sep 16, 2003 meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Release time approximated at 2:00pm ET; date per Fed historical page.
+2003-10-31T10:00:00+00:00,Euro area HICP (flash) — October 2003,EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: 2-31102003-AP
+2003-10-31T13:30:00+00:00,"Personal Income & Outlays — release Oct 31, 2003",US,high,confirmed,US:PCE,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-11-03T09:00:00+00:00,Eurozone Manufacturing PMI — November 2003,EA,medium,confirmed,EA:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 1st business day, 10:00 CET/CEST."
+2003-11-03T09:30:00+00:00,UK Manufacturing PMI — November 2003,UK,medium,confirmed,UK:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 1st business day 09:30 UK time (official PMI schedule).
+2003-11-03T15:00:00+00:00,ISM Manufacturing PMI — November 2003,US,high,confirmed,US:ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 1st business day at 10:00 ET.
+2003-11-04T09:30:00+00:00,UK Construction PMI — November 2003,UK,medium,confirmed,UK:PMI_CONS,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 2nd business day 09:30 UK time (official PMI schedule).
+2003-11-05T09:00:00+00:00,Eurozone Composite PMI — November 2003,EA,medium,confirmed,EA:PMI_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,Released with Services PMI.
+2003-11-05T09:00:00+00:00,Eurozone Services PMI — November 2003,EA,medium,confirmed,EA:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 3rd business day, 10:00 CET/CEST."
+2003-11-05T09:30:00+00:00,UK Services PMI — November 2003,UK,medium,confirmed,UK:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 3rd business day 09:30 UK time (official PMI schedule).
+2003-11-05T10:00:00+00:00,Euro area Unemployment — Sep 2003,EA,high,confirmed,EA:UNEMP,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-11-05T15:00:00+00:00,ISM Non-Manufacturing PMI — November 2003,US,high,confirmed,US:ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 3rd business day at 10:00 ET.
+2003-11-06T12:00:00+00:00,BoE MPC Rate Decision — Nov 2003,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/news/2002/september/mpc-dates-2003,Official MPC dates; announcement on Thursday at 12:00.
+2003-11-06T12:45:00+00:00,ECB Rate Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pressreleases/2003/html/index.en.html,Governing Council monetary policy decision; time 13:45 CET/CEST.
+2003-11-06T13:30:00+00:00,ECB Press Conference (Introductory Statement),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2003/html/is031106.en.html,Press conference ~14:30 CET/CEST with Introductory Statement.
+2003-11-07T13:30:00+00:00,Employment Situation — November 2003,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-11-12T10:30:00+00:00,BoE Press Conference (Inflation Report — November 2003),UK,medium,confirmed,UK:BOE_CONF,https://www.bankofengland.co.uk/sitemap/inflation-report,IR publication day; presser ~10:30 UK time.
+2003-11-14T10:00:00+00:00,Euro area GDP flash — Q3 2003,EA,high,confirmed,EA:GDP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: Flash estimates
+2003-11-14T13:30:00+00:00,"Advance Monthly Retail Sales — release Nov 14, 2003",US,high,confirmed,US:RETAIL,https://www2.census.gov/historical/marts/rs0211.txt,nan
+2003-11-14T13:30:00+00:00,"PPI — release Nov 14, 2003",US,high,confirmed,US:PPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-11-18T10:00:00+00:00,Euro area HICP (final) — Oct 2003,EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-11-18T13:30:00+00:00,"CPI — release Nov 18, 2003",US,high,confirmed,US:CPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-11-25T13:30:00+00:00,GDP (Q3 2003) — Second,US,high,confirmed,US:GDP,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-11-26T13:30:00+00:00,"Personal Income & Outlays — release Nov 26, 2003",US,high,confirmed,US:PCE,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-11-28T10:00:00+00:00,Euro area HICP (flash) — November 2003,EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/commission/presscorner,Ref: STAT_03_127
+2003-12-01T09:00:00+00:00,Eurozone Manufacturing PMI — December 2003,EA,medium,confirmed,EA:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 1st business day, 10:00 CET/CEST."
+2003-12-01T09:30:00+00:00,UK Manufacturing PMI — December 2003,UK,medium,confirmed,UK:PMI_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 1st business day 09:30 UK time (official PMI schedule).
+2003-12-01T15:00:00+00:00,ISM Manufacturing PMI — December 2003,US,high,confirmed,US:ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 1st business day at 10:00 ET.
+2003-12-02T09:30:00+00:00,UK Construction PMI — December 2003,UK,medium,confirmed,UK:PMI_CONS,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 2nd business day 09:30 UK time (official PMI schedule).
+2003-12-02T10:00:00+00:00,Euro area Unemployment — Oct 2003,EA,high,confirmed,EA:UNEMP,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-12-03T09:00:00+00:00,Eurozone Composite PMI — December 2003,EA,medium,confirmed,EA:PMI_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,Released with Services PMI.
+2003-12-03T09:00:00+00:00,Eurozone Services PMI — December 2003,EA,medium,confirmed,EA:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleasesCalendar,"Rule: 3rd business day, 10:00 CET/CEST."
+2003-12-03T09:30:00+00:00,UK Services PMI — December 2003,UK,medium,confirmed,UK:PMI_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases,Rule: 3rd business day 09:30 UK time (official PMI schedule).
+2003-12-03T15:00:00+00:00,ISM Non-Manufacturing PMI — December 2003,US,high,confirmed,US:ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,Official rule: 3rd business day at 10:00 ET.
+2003-12-04T12:00:00+00:00,BoE MPC Rate Decision — Dec 2003,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/news/2002/september/mpc-dates-2003,Official MPC dates; announcement on Thursday at 12:00.
+2003-12-04T12:45:00+00:00,ECB Rate Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pressreleases/2003/html/index.en.html,Governing Council monetary policy decision; time 13:45 CET/CEST.
+2003-12-04T13:30:00+00:00,ECB Press Conference (Introductory Statement),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2003/html/is031204.en.html,Press conference ~14:30 CET/CEST with Introductory Statement.
+2003-12-05T13:30:00+00:00,Employment Situation — December 2003,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-12-09T19:15:00+00:00,FOMC Rate Decision (no change),US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Policy decision time ~2:15pm ET (pre-2013 convention).
+2003-12-09T19:15:00+00:00,FOMC Statement,US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Published with the decision.
+2003-12-11T13:30:00+00:00,"Advance Monthly Retail Sales — release Dec 11, 2003",US,high,confirmed,US:RETAIL,https://www2.census.gov/historical/marts/rs0211.txt,nan
+2003-12-11T19:00:00+00:00,"Minutes for Oct 28, 2003 meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2003.htm,Release time approximated at 2:00pm ET; date per Fed historical page.
+2003-12-12T08:30:00+00:00,SNB Monetary Policy Assessment — year-end 2003,CH,medium,confirmed,CH:SNB_RATE,https://www.snb.ch/public/publication/en/www-snb-ch/publications/communication/press-releases/2003/pre_20031212/0_en/pre_20031212.en.pdf,Decision/assessment date per SNB press release; time set to 09:30 local.
+2003-12-12T09:00:00+00:00,SNB Press Conference — year-end 2003,CH,medium,confirmed,CH:SNB_CONF,https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy/decisions,News conference after assessment (official policy).
+2003-12-12T13:30:00+00:00,"PPI — release Dec 12, 2003",US,high,confirmed,US:PPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-12-16T13:30:00+00:00,"CPI — release Dec 16, 2003",US,high,confirmed,US:CPI,https://www.bls.gov/schedule/2003/home.htm,nan
+2003-12-17T10:00:00+00:00,Euro area HICP (final) — Nov 2003,EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/press-releases,Eurostat release ~11:00 CET/CEST.
+2003-12-23T13:30:00+00:00,GDP (Q3 2003) — Third (Final),US,high,confirmed,US:GDP,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
+2003-12-23T13:30:00+00:00,"Personal Income & Outlays — release Dec 23, 2003",US,high,confirmed,US:PCE,https://apps.bea.gov/scb/pdf/2002/10October/Releasedates2003.pdf,nan
