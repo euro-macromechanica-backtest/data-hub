@@ -1,0 +1,320 @@
+datetime_utc,event,country,impact,certainty,ticker,source_url,notes
+2022-01-03T09:30:00+00:00,UK Manufacturing PMI (final) — January 2022,UK,medium,confirmed,PMI_UK_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20January,1-й рабочий день
+2022-01-03T15:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/2022/january/,nan
+2022-01-05T09:30:00+00:00,UK Composite PMI (final) — January 2022,UK,medium,confirmed,PMI_UK_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20January,3-й рабочий день
+2022-01-05T09:30:00+00:00,UK Services PMI (final) — January 2022,UK,medium,confirmed,PMI_UK_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20January,3-й рабочий день
+2022-01-05T15:00:00+00:00,ISM Services PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/2022/january/,nan
+2022-01-07T13:30:00+00:00,NFP — занятость вне с/х (Employment Situation),US,high,confirmed,USD,https://www.bls.gov/news.release/archives/empsit_01072022.htm,nan
+2022-01-12T13:30:00+00:00,CPI — индекс потребительских цен,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/cpi_01122022.pdf,nan
+2022-01-13T13:30:00+00:00,PPI — индекс цен производителей,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/ppi_01132022.pdf,nan
+2022-01-14T13:30:00+00:00,Retail Sales — розничные продажи (Advance),US,high,confirmed,USD,https://www2.census.gov/retail/releases/historical/marts/adv2112.pdf,nan
+2022-01-21T09:30:00+00:00,UK Composite PMI (flash) — January 2022,UK,medium,confirmed,PMI_UK_FLASH_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20January,"~22 число, рабочий день"
+2022-01-21T09:30:00+00:00,UK Manufacturing PMI (flash) — January 2022,UK,medium,confirmed,PMI_UK_FLASH_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20January,"~22 число, рабочий день"
+2022-01-21T09:30:00+00:00,UK Services PMI (flash) — January 2022,UK,medium,confirmed,PMI_UK_FLASH_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20January,"~22 число, рабочий день"
+2022-01-24T09:00:00+00:00,PMI Flash — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Стандарт: публикуется за 7–9 дней до конца месяца; время в локали ~10:00.
+2022-01-26T19:00:00+00:00,FOMC Statement,US,medium,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220126a.htm,nan
+2022-01-26T19:00:00+00:00,FOMC — решение по ставке (Implementation Note),US,high,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220126a1.htm,nan
+2022-01-26T19:30:00+00:00,FOMC Пресс‑конференция (Пауэлл),US,high,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcpresconf20220126.htm,nan
+2022-01-27T13:30:00+00:00,GDP — публикация оценки ВВП (advance/second/third),US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-01/gdp4q21_adv.pdf,nan
+2022-01-28T13:30:00+00:00,PCE / Personal Income & Outlays,US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-01/pi1221.pdf,nan
+2022-01-31T10:00:00+00:00,HICP Flash — January 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-31012022-ap,Флеш-оценка инфляции (Eurostat).
+2022-02-01T09:00:00+00:00,PMI Final — Manufacturing (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за January 2022.
+2022-02-01T09:30:00+00:00,UK Manufacturing PMI (final) — February 2022,UK,medium,confirmed,PMI_UK_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20February,1-й рабочий день
+2022-02-01T15:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/2022/february/,nan
+2022-02-03T09:00:00+00:00,PMI Final — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за January 2022.
+2022-02-03T09:00:00+00:00,PMI Final — Services (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за January 2022.
+2022-02-03T09:30:00+00:00,UK Composite PMI (final) — February 2022,UK,medium,confirmed,PMI_UK_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20February,3-й рабочий день
+2022-02-03T09:30:00+00:00,UK Services PMI (final) — February 2022,UK,medium,confirmed,PMI_UK_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20February,3-й рабочий день
+2022-02-03T12:00:00+00:00,BoE — решение по процентной ставке,UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2022/february-2022,Standard release 12:00 UK time
+2022-02-03T12:30:00+00:00,BoE — пресс‑конференция (Monetary Policy Report),UK,medium,confirmed,BOE_PC,https://www.bankofengland.co.uk/monetary-policy-report/2022/february-2022,Quarterly MPR press conference
+2022-02-03T12:45:00+00:00,ECB — решение по ставке,EA,high,confirmed,,https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp220203~d0e41b5c06.en.html,Публикация пресс-релиза по решению ДКП.
+2022-02-03T13:30:00+00:00,ECB — пресс‑конференция (Lagarde/De Guindos),EA,high,confirmed,,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2022/html/ecb.is220203~06589b6b9e.en.html,Пресс-конференция после заседания.
+2022-02-03T15:00:00+00:00,ISM Services PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/2022/february/,nan
+2022-02-04T13:30:00+00:00,NFP — занятость вне с/х (Employment Situation),US,high,confirmed,USD,https://www.bls.gov/news.release/archives/empsit_02042022.htm,nan
+2022-02-10T13:30:00+00:00,CPI — индекс потребительских цен,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/cpi_02102022.pdf,nan
+2022-02-15T13:30:00+00:00,PPI — индекс цен производителей,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/ppi_02152022.pdf,nan
+2022-02-16T10:00:00+00:00,HICP Final — January 2022 (еврозона),EA,high,confirmed,,,Окончательная оценка инфляции (Eurostat).
+2022-02-16T13:30:00+00:00,Retail Sales — розничные продажи (Advance),US,high,confirmed,USD,https://www2.census.gov/retail/releases/historical/marts/adv2201.pdf,nan
+2022-02-16T19:00:00+00:00,FOMC Minutes,US,medium,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcminutes20220126.htm,nan
+2022-02-22T09:00:00+00:00,PMI Flash — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Стандарт: публикуется за 7–9 дней до конца месяца; время в локали ~10:00.
+2022-02-22T09:30:00+00:00,UK Composite PMI (flash) — February 2022,UK,medium,confirmed,PMI_UK_FLASH_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20February,"~22 число, рабочий день"
+2022-02-22T09:30:00+00:00,UK Manufacturing PMI (flash) — February 2022,UK,medium,confirmed,PMI_UK_FLASH_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20February,"~22 число, рабочий день"
+2022-02-22T09:30:00+00:00,UK Services PMI (flash) — February 2022,UK,medium,confirmed,PMI_UK_FLASH_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20February,"~22 число, рабочий день"
+2022-02-24T13:30:00+00:00,GDP — публикация оценки ВВП (advance/second/third),US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-02/gdp4q21_2nd.pdf,nan
+2022-02-25T13:30:00+00:00,PCE / Personal Income & Outlays,US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-02/pi0122.pdf,nan
+2022-02-28T10:00:00+00:00,HICP Flash — February 2022 (еврозона),EA,high,confirmed,,,Флеш-оценка инфляции (Eurostat).
+2022-03-01T09:00:00+00:00,PMI Final — Manufacturing (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за February 2022.
+2022-03-01T09:30:00+00:00,UK Manufacturing PMI (final) — March 2022,UK,medium,confirmed,PMI_UK_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20March,1-й рабочий день
+2022-03-01T15:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/2022/march/,nan
+2022-03-03T09:00:00+00:00,PMI Final — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за February 2022.
+2022-03-03T09:00:00+00:00,PMI Final — Services (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за February 2022.
+2022-03-03T09:30:00+00:00,UK Composite PMI (final) — March 2022,UK,medium,confirmed,PMI_UK_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20March,3-й рабочий день
+2022-03-03T09:30:00+00:00,UK Services PMI (final) — March 2022,UK,medium,confirmed,PMI_UK_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20March,3-й рабочий день
+2022-03-03T10:00:00+00:00,Unemployment rate — January 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/3-03032022-BP,Уровень безработицы (Eurostat).
+2022-03-03T15:00:00+00:00,ISM Services PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/2022/march/,nan
+2022-03-04T13:30:00+00:00,NFP — занятость вне с/х (Employment Situation),US,high,confirmed,USD,https://www.bls.gov/news.release/archives/empsit_03042022.htm,nan
+2022-03-10T12:45:00+00:00,ECB — решение по ставке,EA,high,confirmed,,https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp220310~b3eb63e861.en.html,Публикация пресс-релиза по решению ДКП.
+2022-03-10T13:30:00+00:00,ECB — пресс‑конференция (Lagarde/De Guindos),EA,high,confirmed,,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2022/html/ecb.is220310~0c9c980d93.en.html,Пресс-конференция после заседания.
+2022-03-10T13:30:00+00:00,CPI — индекс потребительских цен,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/cpi_03102022.pdf,nan
+2022-03-15T12:30:00+00:00,PPI — индекс цен производителей,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/ppi_03152022.pdf,nan
+2022-03-16T10:00:00+00:00,HICP Final — February 2022 (еврозона),EA,high,confirmed,,,Окончательная оценка инфляции (Eurostat).
+2022-03-16T12:30:00+00:00,Retail Sales — розничные продажи (Advance),US,high,confirmed,USD,https://www2.census.gov/retail/releases/historical/marts/adv2202.pdf,nan
+2022-03-16T18:00:00+00:00,FOMC Statement,US,medium,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a.htm,nan
+2022-03-16T18:00:00+00:00,FOMC — решение по ставке (Implementation Note),US,high,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a1.htm,nan
+2022-03-16T18:30:00+00:00,FOMC Пресс‑конференция (Пауэлл),US,high,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcpresconf20220316.htm,nan
+2022-03-17T12:00:00+00:00,BoE — решение по процентной ставке,UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2022/march-2022,Standard release 12:00 UK time
+2022-03-22T09:00:00+00:00,PMI Flash — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Стандарт: публикуется за 7–9 дней до конца месяца; время в локали ~10:00.
+2022-03-22T09:30:00+00:00,UK Composite PMI (flash) — March 2022,UK,medium,confirmed,PMI_UK_FLASH_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20March,"~22 число, рабочий день"
+2022-03-22T09:30:00+00:00,UK Manufacturing PMI (flash) — March 2022,UK,medium,confirmed,PMI_UK_FLASH_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20March,"~22 число, рабочий день"
+2022-03-22T09:30:00+00:00,UK Services PMI (flash) — March 2022,UK,medium,confirmed,PMI_UK_FLASH_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20March,"~22 число, рабочий день"
+2022-03-24T08:30:00+00:00,SNB — денежно-кредитная политика: решение по ставке,CH,medium,confirmed,SNB_RATE,https://www.snb.ch/en/mmr/reference/pre_20220324/html/pre_20220324.en.html,Policy assessment release 09:30
+2022-03-24T09:00:00+00:00,SNB — пресс‑конференция,CH,medium,confirmed,SNB_PC,https://www.snb.ch/en/mmr/reference/pre_20220324/html/pre_20220324.en.html,Post-decision press conference
+2022-03-30T12:30:00+00:00,GDP — публикация оценки ВВП (advance/second/third),US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-03/gdp4q21_3rd.pdf,nan
+2022-03-31T09:00:00+00:00,HICP Flash — March 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-31032022-ap,Флеш-оценка инфляции (Eurostat).
+2022-03-31T09:00:00+00:00,Unemployment rate — February 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/3-31032022-AP,Уровень безработицы (Eurostat).
+2022-03-31T12:30:00+00:00,PCE / Personal Income & Outlays,US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-03/pi0222.pdf,nan
+2022-04-01T08:00:00+00:00,PMI Final — Manufacturing (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за March 2022.
+2022-04-01T08:30:00+00:00,UK Manufacturing PMI (final) — April 2022,UK,medium,confirmed,PMI_UK_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20April,1-й рабочий день
+2022-04-01T12:30:00+00:00,NFP — занятость вне с/х (Employment Situation),US,high,confirmed,USD,https://www.bls.gov/news.release/archives/empsit_04012022.htm,nan
+2022-04-01T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/2022/april/,nan
+2022-04-05T08:00:00+00:00,PMI Final — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за March 2022.
+2022-04-05T08:00:00+00:00,PMI Final — Services (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за March 2022.
+2022-04-05T08:30:00+00:00,UK Composite PMI (final) — April 2022,UK,medium,confirmed,PMI_UK_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20April,3-й рабочий день
+2022-04-05T08:30:00+00:00,UK Services PMI (final) — April 2022,UK,medium,confirmed,PMI_UK_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20April,3-й рабочий день
+2022-04-05T14:00:00+00:00,ISM Services PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/2022/april/,nan
+2022-04-06T18:00:00+00:00,FOMC Minutes,US,medium,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcminutes20220316.htm,nan
+2022-04-12T12:30:00+00:00,CPI — индекс потребительских цен,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/cpi_04122022.pdf,nan
+2022-04-13T12:30:00+00:00,PPI — индекс цен производителей,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/ppi_04132022.pdf,nan
+2022-04-14T11:45:00+00:00,ECB — решение по ставке,EA,high,confirmed,,https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp220414~9fe1be90bb.en.html,Публикация пресс-релиза по решению ДКП.
+2022-04-14T12:30:00+00:00,ECB — пресс‑конференция (Lagarde/De Guindos),EA,high,confirmed,,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2022/html/ecb.is220414~962e0e8c25.en.html,Пресс-конференция после заседания.
+2022-04-14T12:30:00+00:00,Retail Sales — розничные продажи (Advance),US,high,confirmed,USD,https://www2.census.gov/retail/releases/historical/marts/adv2203.pdf,nan
+2022-04-18T09:00:00+00:00,HICP Final — March 2022 (еврозона),EA,high,confirmed,,,Окончательная оценка инфляции (Eurostat).
+2022-04-22T08:00:00+00:00,PMI Flash — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Стандарт: публикуется за 7–9 дней до конца месяца; время в локали ~10:00.
+2022-04-22T08:30:00+00:00,UK Composite PMI (flash) — April 2022,UK,medium,confirmed,PMI_UK_FLASH_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20April,"~22 число, рабочий день"
+2022-04-22T08:30:00+00:00,UK Manufacturing PMI (flash) — April 2022,UK,medium,confirmed,PMI_UK_FLASH_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20April,"~22 число, рабочий день"
+2022-04-22T08:30:00+00:00,UK Services PMI (flash) — April 2022,UK,medium,confirmed,PMI_UK_FLASH_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20April,"~22 число, рабочий день"
+2022-04-28T12:30:00+00:00,GDP — публикация оценки ВВП (advance/second/third),US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-04/gdp1q22_adv.pdf,nan
+2022-04-29T09:00:00+00:00,GDP Flash — Q1 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-29042022-bp,Публикация Eurostat (Euro indicators).
+2022-04-29T09:00:00+00:00,HICP Flash — April 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-29042022-ap,Флеш-оценка инфляции (Eurostat).
+2022-04-29T12:30:00+00:00,PCE / Personal Income & Outlays,US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-04/pi0322.pdf,nan
+2022-05-02T08:00:00+00:00,PMI Final — Manufacturing (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за April 2022.
+2022-05-02T08:30:00+00:00,UK Manufacturing PMI (final) — May 2022,UK,medium,confirmed,PMI_UK_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20May,1-й рабочий день
+2022-05-02T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/2022/may/,nan
+2022-05-03T09:00:00+00:00,Unemployment rate — March 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/documents/2995521/14613608/3-03052022-AP-EN.pdf/36631a07-778c-efb0-01f2-8a052bde985e,Уровень безработицы (Eurostat).
+2022-05-04T08:00:00+00:00,PMI Final — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за April 2022.
+2022-05-04T08:00:00+00:00,PMI Final — Services (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за April 2022.
+2022-05-04T08:30:00+00:00,UK Composite PMI (final) — May 2022,UK,medium,confirmed,PMI_UK_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20May,3-й рабочий день
+2022-05-04T08:30:00+00:00,UK Services PMI (final) — May 2022,UK,medium,confirmed,PMI_UK_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20May,3-й рабочий день
+2022-05-04T14:00:00+00:00,ISM Services PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/2022/may/,nan
+2022-05-04T18:00:00+00:00,FOMC Statement,US,medium,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220504a.htm,nan
+2022-05-04T18:00:00+00:00,FOMC — решение по ставке (Implementation Note),US,high,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220504a1.htm,nan
+2022-05-04T18:30:00+00:00,FOMC Пресс‑конференция (Пауэлл),US,high,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcpresconf20220504.htm,nan
+2022-05-05T11:00:00+00:00,BoE — решение по процентной ставке,UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2022/may-2022,Standard release 12:00 UK time
+2022-05-05T11:30:00+00:00,BoE — пресс‑конференция (Monetary Policy Report),UK,medium,confirmed,BOE_PC,https://www.bankofengland.co.uk/monetary-policy-report/2022/may-2022,Quarterly MPR press conference
+2022-05-06T12:30:00+00:00,NFP — занятость вне с/х (Employment Situation),US,high,confirmed,USD,https://www.bls.gov/news.release/archives/empsit_05062022.htm,nan
+2022-05-11T12:30:00+00:00,CPI — индекс потребительских цен,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/cpi_05112022.pdf,nan
+2022-05-12T12:30:00+00:00,PPI — индекс цен производителей,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/ppi_05122022.pdf,nan
+2022-05-16T09:00:00+00:00,HICP Final — April 2022 (еврозона),EA,high,confirmed,,,Окончательная оценка инфляции (Eurostat).
+2022-05-17T12:30:00+00:00,Retail Sales — розничные продажи (Advance),US,high,confirmed,USD,https://www2.census.gov/retail/releases/historical/marts/adv2204.pdf,nan
+2022-05-20T08:30:00+00:00,UK Composite PMI (flash) — May 2022,UK,medium,confirmed,PMI_UK_FLASH_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20May,"~22 число, рабочий день"
+2022-05-20T08:30:00+00:00,UK Manufacturing PMI (flash) — May 2022,UK,medium,confirmed,PMI_UK_FLASH_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20May,"~22 число, рабочий день"
+2022-05-20T08:30:00+00:00,UK Services PMI (flash) — May 2022,UK,medium,confirmed,PMI_UK_FLASH_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20May,"~22 число, рабочий день"
+2022-05-23T08:00:00+00:00,PMI Flash — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Стандарт: публикуется за 7–9 дней до конца месяца; время в локали ~10:00.
+2022-05-25T18:00:00+00:00,FOMC Minutes,US,medium,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcminutes20220504.htm,nan
+2022-05-26T12:30:00+00:00,GDP — публикация оценки ВВП (advance/second/third),US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-05/gdp1q22_2nd.pdf,nan
+2022-05-27T12:30:00+00:00,PCE / Personal Income & Outlays,US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-05/pi0422.pdf,nan
+2022-05-31T09:00:00+00:00,HICP Flash — May 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-31052022-ap,Флеш-оценка инфляции (Eurostat).
+2022-06-01T08:00:00+00:00,PMI Final — Manufacturing (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за May 2022.
+2022-06-01T08:30:00+00:00,UK Manufacturing PMI (final) — June 2022,UK,medium,confirmed,PMI_UK_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20June,1-й рабочий день
+2022-06-01T09:00:00+00:00,Unemployment rate — April 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/3-01062022-AP,Уровень безработицы (Eurostat).
+2022-06-01T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/2022/june/,nan
+2022-06-03T08:00:00+00:00,PMI Final — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за May 2022.
+2022-06-03T08:00:00+00:00,PMI Final — Services (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за May 2022.
+2022-06-03T08:30:00+00:00,UK Composite PMI (final) — June 2022,UK,medium,confirmed,PMI_UK_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20June,3-й рабочий день
+2022-06-03T08:30:00+00:00,UK Services PMI (final) — June 2022,UK,medium,confirmed,PMI_UK_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20June,3-й рабочий день
+2022-06-03T12:30:00+00:00,NFP — занятость вне с/х (Employment Situation),US,high,confirmed,USD,https://www.bls.gov/news.release/archives/empsit_06032022.htm,nan
+2022-06-03T14:00:00+00:00,ISM Services PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/2022/june/,nan
+2022-06-08T09:00:00+00:00,GDP Final — Q1 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-08062022-ap,Публикация Eurostat (Euro indicators).
+2022-06-09T11:45:00+00:00,ECB — решение по ставке,EA,high,confirmed,,https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp220609~122666c272.en.html,Публикация пресс-релиза по решению ДКП.
+2022-06-09T12:30:00+00:00,ECB — пресс‑конференция (Lagarde/De Guindos),EA,high,confirmed,,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2022/html/ecb.is220609~abe7c95b19.en.html,Пресс-конференция после заседания.
+2022-06-10T12:30:00+00:00,CPI — индекс потребительских цен,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/cpi_06102022.pdf,nan
+2022-06-14T12:30:00+00:00,PPI — индекс цен производителей,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/ppi_06142022.pdf,nan
+2022-06-15T09:00:00+00:00,ECB — внеплановое заявление (ad hoc meeting),EA,high,confirmed,,https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.pr220615~2aa3900e0a.en.html,Заявление по итогам внеплановой встречи Совета ЕЦБ о фрагментации рынков.
+2022-06-15T12:30:00+00:00,Retail Sales — розничные продажи (Advance),US,high,confirmed,USD,https://www2.census.gov/retail/releases/historical/marts/adv2205.pdf,nan
+2022-06-15T18:00:00+00:00,FOMC Statement,US,medium,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220615a.htm,nan
+2022-06-15T18:00:00+00:00,FOMC — решение по ставке (Implementation Note),US,high,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220615a1.htm,nan
+2022-06-15T18:30:00+00:00,FOMC Пресс‑конференция (Пауэлл),US,high,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcpresconf20220615.htm,nan
+2022-06-16T07:30:00+00:00,SNB — денежно-кредитная политика: решение по ставке,CH,medium,confirmed,SNB_RATE,https://www.snb.ch/en/mmr/reference/pre_20220616/html/pre_20220616.en.html,Policy assessment release 09:30
+2022-06-16T08:00:00+00:00,SNB — пресс‑конференция,CH,medium,confirmed,SNB_PC,https://www.snb.ch/en/mmr/speeches/id/ref_20220616_tjn,Post-decision press conference
+2022-06-16T09:00:00+00:00,HICP Final — May 2022 (еврозона),EA,high,confirmed,,,Окончательная оценка инфляции (Eurostat).
+2022-06-16T11:00:00+00:00,BoE — решение по процентной ставке,UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2022/june-2022,Standard release 12:00 UK time
+2022-06-22T08:00:00+00:00,PMI Flash — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Стандарт: публикуется за 7–9 дней до конца месяца; время в локали ~10:00.
+2022-06-22T08:30:00+00:00,UK Composite PMI (flash) — June 2022,UK,medium,confirmed,PMI_UK_FLASH_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20June,"~22 число, рабочий день"
+2022-06-22T08:30:00+00:00,UK Manufacturing PMI (flash) — June 2022,UK,medium,confirmed,PMI_UK_FLASH_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20June,"~22 число, рабочий день"
+2022-06-22T08:30:00+00:00,UK Services PMI (flash) — June 2022,UK,medium,confirmed,PMI_UK_FLASH_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20June,"~22 число, рабочий день"
+2022-06-29T12:30:00+00:00,GDP — публикация оценки ВВП (advance/second/third),US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-06/gdp1q22_3rd.pdf,nan
+2022-06-30T09:00:00+00:00,HICP Flash — June 2022 (еврозона),EA,high,confirmed,,,Флеш-оценка инфляции (Eurostat).
+2022-06-30T09:00:00+00:00,Unemployment rate — May 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/3-30062022-AP,Уровень безработицы (Eurostat).
+2022-06-30T12:30:00+00:00,PCE / Personal Income & Outlays,US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-06/pi0522.pdf,nan
+2022-07-01T08:00:00+00:00,PMI Final — Manufacturing (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за June 2022.
+2022-07-01T08:30:00+00:00,UK Manufacturing PMI (final) — July 2022,UK,medium,confirmed,PMI_UK_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20July,1-й рабочий день
+2022-07-01T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/2022/july/,nan
+2022-07-05T08:00:00+00:00,PMI Final — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за June 2022.
+2022-07-05T08:00:00+00:00,PMI Final — Services (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за June 2022.
+2022-07-05T08:30:00+00:00,UK Composite PMI (final) — July 2022,UK,medium,confirmed,PMI_UK_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20July,3-й рабочий день
+2022-07-05T08:30:00+00:00,UK Services PMI (final) — July 2022,UK,medium,confirmed,PMI_UK_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20July,3-й рабочий день
+2022-07-06T14:00:00+00:00,ISM Services PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/2022/july/,nan
+2022-07-06T18:00:00+00:00,FOMC Minutes,US,medium,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcminutes20220615.htm,nan
+2022-07-08T12:30:00+00:00,NFP — занятость вне с/х (Employment Situation),US,high,confirmed,USD,https://www.bls.gov/news.release/archives/empsit_07082022.htm,nan
+2022-07-13T12:30:00+00:00,CPI — индекс потребительских цен,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/cpi_07132022.pdf,nan
+2022-07-14T12:30:00+00:00,PPI — индекс цен производителей,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/ppi_07142022.pdf,nan
+2022-07-15T12:30:00+00:00,Retail Sales — розничные продажи (Advance),US,high,confirmed,USD,https://www2.census.gov/retail/releases/historical/marts/adv2206.pdf,nan
+2022-07-18T09:00:00+00:00,HICP Final — June 2022 (еврозона),EA,high,confirmed,,,Окончательная оценка инфляции (Eurostat).
+2022-07-21T12:15:00+00:00,ECB — решение по ставке,EA,high,confirmed,,https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp220721~53e5bdd317.en.html,Публикация пресс-релиза по решению ДКП.
+2022-07-21T12:45:00+00:00,ECB — пресс‑конференция (Lagarde/De Guindos),EA,high,confirmed,,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2022/html/ecb.is220721~15f528262c.en.html,Пресс-конференция после заседания.
+2022-07-22T08:00:00+00:00,PMI Flash — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Стандарт: публикуется за 7–9 дней до конца месяца; время в локали ~10:00.
+2022-07-22T08:30:00+00:00,UK Composite PMI (flash) — July 2022,UK,medium,confirmed,PMI_UK_FLASH_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20July,"~22 число, рабочий день"
+2022-07-22T08:30:00+00:00,UK Manufacturing PMI (flash) — July 2022,UK,medium,confirmed,PMI_UK_FLASH_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20July,"~22 число, рабочий день"
+2022-07-22T08:30:00+00:00,UK Services PMI (flash) — July 2022,UK,medium,confirmed,PMI_UK_FLASH_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20July,"~22 число, рабочий день"
+2022-07-27T18:00:00+00:00,FOMC Statement,US,medium,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220727a.htm,nan
+2022-07-27T18:00:00+00:00,FOMC — решение по ставке (Implementation Note),US,high,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220727a1.htm,nan
+2022-07-27T18:30:00+00:00,FOMC Пресс‑конференция (Пауэлл),US,high,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcpresconf20220727.htm,nan
+2022-07-28T12:30:00+00:00,GDP — публикация оценки ВВП (advance/second/third),US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-07/gdp2q22_adv.pdf,nan
+2022-07-29T09:00:00+00:00,GDP Flash — Q2 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-29072022-bp,Публикация Eurostat (Euro indicators).
+2022-07-29T09:00:00+00:00,HICP Flash — July 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-29072022-ap,Флеш-оценка инфляции (Eurostat).
+2022-07-29T12:30:00+00:00,PCE / Personal Income & Outlays,US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-07/pi0622.pdf,nan
+2022-08-01T08:00:00+00:00,PMI Final — Manufacturing (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за July 2022.
+2022-08-01T08:30:00+00:00,UK Manufacturing PMI (final) — August 2022,UK,medium,confirmed,PMI_UK_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20August,1-й рабочий день
+2022-08-01T09:00:00+00:00,Unemployment rate — June 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/3-01082022-AP,Уровень безработицы (Eurostat).
+2022-08-01T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/2022/august/,nan
+2022-08-03T08:00:00+00:00,PMI Final — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за July 2022.
+2022-08-03T08:00:00+00:00,PMI Final — Services (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за July 2022.
+2022-08-03T08:30:00+00:00,UK Composite PMI (final) — August 2022,UK,medium,confirmed,PMI_UK_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20August,3-й рабочий день
+2022-08-03T08:30:00+00:00,UK Services PMI (final) — August 2022,UK,medium,confirmed,PMI_UK_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20August,3-й рабочий день
+2022-08-03T14:00:00+00:00,ISM Services PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/2022/august/,nan
+2022-08-04T11:00:00+00:00,BoE — решение по процентной ставке,UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2022/august-2022,Standard release 12:00 UK time
+2022-08-04T11:30:00+00:00,BoE — пресс‑конференция (Monetary Policy Report),UK,medium,confirmed,BOE_PC,https://www.bankofengland.co.uk/monetary-policy-report/2022/august-2022,Quarterly MPR press conference
+2022-08-05T12:30:00+00:00,NFP — занятость вне с/х (Employment Situation),US,high,confirmed,USD,https://www.bls.gov/news.release/archives/empsit_08052022.htm,nan
+2022-08-10T12:30:00+00:00,CPI — индекс потребительских цен,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/cpi_08102022.pdf,nan
+2022-08-11T12:30:00+00:00,PPI — индекс цен производителей,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/ppi_08112022.pdf,nan
+2022-08-16T09:00:00+00:00,HICP Final — July 2022 (еврозона),EA,high,confirmed,,,Окончательная оценка инфляции (Eurostat).
+2022-08-17T12:30:00+00:00,Retail Sales — розничные продажи (Advance),US,high,confirmed,USD,https://www2.census.gov/retail/releases/historical/marts/adv2207.pdf,nan
+2022-08-17T18:00:00+00:00,FOMC Minutes,US,medium,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcminutes20220727.htm,nan
+2022-08-22T08:00:00+00:00,PMI Flash — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Стандарт: публикуется за 7–9 дней до конца месяца; время в локали ~10:00.
+2022-08-22T08:30:00+00:00,UK Composite PMI (flash) — August 2022,UK,medium,confirmed,PMI_UK_FLASH_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20August,"~22 число, рабочий день"
+2022-08-22T08:30:00+00:00,UK Manufacturing PMI (flash) — August 2022,UK,medium,confirmed,PMI_UK_FLASH_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20August,"~22 число, рабочий день"
+2022-08-22T08:30:00+00:00,UK Services PMI (flash) — August 2022,UK,medium,confirmed,PMI_UK_FLASH_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20August,"~22 число, рабочий день"
+2022-08-25T12:30:00+00:00,GDP — публикация оценки ВВП (advance/second/third),US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-08/gdp2q22_2nd.pdf,nan
+2022-08-26T12:30:00+00:00,PCE / Personal Income & Outlays,US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-08/pi0722.pdf,nan
+2022-08-31T09:00:00+00:00,HICP Flash — August 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-31082022-ap,Флеш-оценка инфляции (Eurostat).
+2022-09-01T08:00:00+00:00,PMI Final — Manufacturing (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за August 2022.
+2022-09-01T08:30:00+00:00,UK Manufacturing PMI (final) — September 2022,UK,medium,confirmed,PMI_UK_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20September,1-й рабочий день
+2022-09-01T09:00:00+00:00,Unemployment rate — July 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/3-01092022-AP,Уровень безработицы (Eurostat).
+2022-09-01T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/2022/september/,nan
+2022-09-02T12:30:00+00:00,NFP — занятость вне с/х (Employment Situation),US,high,confirmed,USD,https://www.bls.gov/news.release/archives/empsit_09022022.htm,nan
+2022-09-05T08:00:00+00:00,PMI Final — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за August 2022.
+2022-09-05T08:00:00+00:00,PMI Final — Services (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за August 2022.
+2022-09-05T08:30:00+00:00,UK Composite PMI (final) — September 2022,UK,medium,confirmed,PMI_UK_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20September,3-й рабочий день
+2022-09-05T08:30:00+00:00,UK Services PMI (final) — September 2022,UK,medium,confirmed,PMI_UK_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20September,3-й рабочий день
+2022-09-06T14:00:00+00:00,ISM Services PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/2022/september/,nan
+2022-09-07T09:00:00+00:00,GDP Final — Q2 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-07092022-ap,Публикация Eurostat (Euro indicators).
+2022-09-08T12:15:00+00:00,ECB — решение по ставке,EA,high,confirmed,,https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp220908~14da94a49f.en.html,Публикация пресс-релиза по решению ДКП.
+2022-09-08T12:45:00+00:00,ECB — пресс‑конференция (Lagarde/De Guindos),EA,high,confirmed,,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2022/html/ecb.is220908~921ae0f555.en.html,Пресс-конференция после заседания.
+2022-09-13T12:30:00+00:00,CPI — индекс потребительских цен,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/cpi_09132022.pdf,nan
+2022-09-14T12:30:00+00:00,PPI — индекс цен производителей,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/ppi_09142022.pdf,nan
+2022-09-15T12:30:00+00:00,Retail Sales — розничные продажи (Advance),US,high,confirmed,USD,https://www2.census.gov/retail/releases/historical/marts/adv2208.pdf,nan
+2022-09-16T09:00:00+00:00,HICP Final — August 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-16092022-ap,Окончательная оценка инфляции (Eurostat).
+2022-09-21T18:00:00+00:00,FOMC Statement,US,medium,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm,nan
+2022-09-21T18:00:00+00:00,FOMC — решение по ставке (Implementation Note),US,high,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a1.htm,nan
+2022-09-21T18:30:00+00:00,FOMC Пресс‑конференция (Пауэлл),US,high,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcpresconf20220921.htm,nan
+2022-09-22T07:30:00+00:00,SNB — денежно-кредитная политика: решение по ставке,CH,medium,confirmed,SNB_RATE,https://www.snb.ch/en/mmr/reference/pre_20220922/html/pre_20220922.en.html,Policy assessment release 09:30
+2022-09-22T08:00:00+00:00,SNB — пресс‑конференция,CH,medium,confirmed,SNB_PC,https://www.snb.ch/en/mmr/reference/pre_20220922/html/pre_20220922.en.html,Post-decision press conference
+2022-09-22T08:00:00+00:00,PMI Flash — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Стандарт: публикуется за 7–9 дней до конца месяца; время в локали ~10:00.
+2022-09-22T08:30:00+00:00,UK Composite PMI (flash) — September 2022,UK,medium,confirmed,PMI_UK_FLASH_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20September,"~22 число, рабочий день"
+2022-09-22T08:30:00+00:00,UK Manufacturing PMI (flash) — September 2022,UK,medium,confirmed,PMI_UK_FLASH_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20September,"~22 число, рабочий день"
+2022-09-22T08:30:00+00:00,UK Services PMI (flash) — September 2022,UK,medium,confirmed,PMI_UK_FLASH_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20September,"~22 число, рабочий день"
+2022-09-22T11:00:00+00:00,BoE — решение по процентной ставке,UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2022/september-2022,Standard release 12:00 UK time
+2022-09-29T12:30:00+00:00,GDP — публикация оценки ВВП (advance/second/third),US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-09/gdp2q22_3rd.pdf,nan
+2022-09-30T09:00:00+00:00,HICP Flash — September 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-30092022-ap,Флеш-оценка инфляции (Eurostat).
+2022-09-30T09:00:00+00:00,Unemployment rate — August 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/documents/2995521/14698137/3-30092022-BP-EN.pdf/425a9b01-c159-74b8-3489-e8591185de44,Уровень безработицы (Eurostat).
+2022-09-30T12:30:00+00:00,PCE / Personal Income & Outlays,US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-09/pi0822.pdf,nan
+2022-10-03T08:00:00+00:00,PMI Final — Manufacturing (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за September 2022.
+2022-10-03T08:30:00+00:00,UK Manufacturing PMI (final) — October 2022,UK,medium,confirmed,PMI_UK_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20October,1-й рабочий день
+2022-10-03T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/2022/october/,nan
+2022-10-05T08:00:00+00:00,PMI Final — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за September 2022.
+2022-10-05T08:00:00+00:00,PMI Final — Services (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за September 2022.
+2022-10-05T08:30:00+00:00,UK Composite PMI (final) — October 2022,UK,medium,confirmed,PMI_UK_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20October,3-й рабочий день
+2022-10-05T08:30:00+00:00,UK Services PMI (final) — October 2022,UK,medium,confirmed,PMI_UK_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20October,3-й рабочий день
+2022-10-05T14:00:00+00:00,ISM Services PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/2022/october/,nan
+2022-10-07T12:30:00+00:00,NFP — занятость вне с/х (Employment Situation),US,high,confirmed,USD,https://www.bls.gov/news.release/archives/empsit_10072022.htm,nan
+2022-10-12T12:30:00+00:00,PPI — индекс цен производителей,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/ppi_10122022.pdf,nan
+2022-10-12T18:00:00+00:00,FOMC Minutes,US,medium,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcminutes20220921.htm,nan
+2022-10-13T12:30:00+00:00,CPI — индекс потребительских цен,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/cpi_10132022.pdf,nan
+2022-10-14T12:30:00+00:00,Retail Sales — розничные продажи (Advance),US,high,confirmed,USD,https://www2.census.gov/retail/releases/historical/marts/adv2209.pdf,nan
+2022-10-17T09:00:00+00:00,HICP Final — September 2022 (еврозона),EA,high,confirmed,,,Окончательная оценка инфляции (Eurostat).
+2022-10-21T08:30:00+00:00,UK Composite PMI (flash) — October 2022,UK,medium,confirmed,PMI_UK_FLASH_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20October,"~22 число, рабочий день"
+2022-10-21T08:30:00+00:00,UK Manufacturing PMI (flash) — October 2022,UK,medium,confirmed,PMI_UK_FLASH_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20October,"~22 число, рабочий день"
+2022-10-21T08:30:00+00:00,UK Services PMI (flash) — October 2022,UK,medium,confirmed,PMI_UK_FLASH_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20October,"~22 число, рабочий день"
+2022-10-24T08:00:00+00:00,PMI Flash — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Стандарт: публикуется за 7–9 дней до конца месяца; время в локали ~10:00.
+2022-10-27T12:15:00+00:00,ECB — решение по ставке,EA,high,confirmed,,https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp221027~a407f16be0.en.html,Публикация пресс-релиза по решению ДКП.
+2022-10-27T12:30:00+00:00,GDP — публикация оценки ВВП (advance/second/third),US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-10/gdp3q22_adv.pdf,nan
+2022-10-27T12:45:00+00:00,ECB — пресс‑конференция (Lagarde/De Guindos),EA,high,confirmed,,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2022/html/ecb.is221027~358a06a35f.en.html,Пресс-конференция после заседания.
+2022-10-28T12:30:00+00:00,PCE / Personal Income & Outlays,US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-10/pi0922.pdf,nan
+2022-10-31T10:00:00+00:00,GDP Flash — Q3 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-31102022-bp,Публикация Eurostat (Euro indicators).
+2022-10-31T10:00:00+00:00,HICP Flash — October 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-31102022-ap,Флеш-оценка инфляции (Eurostat).
+2022-11-01T09:00:00+00:00,PMI Final — Manufacturing (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за October 2022.
+2022-11-01T09:30:00+00:00,UK Manufacturing PMI (final) — November 2022,UK,medium,confirmed,PMI_UK_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20November,1-й рабочий день
+2022-11-01T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/2022/november/,nan
+2022-11-02T18:00:00+00:00,FOMC Statement,US,medium,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20221102a.htm,nan
+2022-11-02T18:00:00+00:00,FOMC — решение по ставке (Implementation Note),US,high,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20221102a1.htm,nan
+2022-11-02T18:30:00+00:00,FOMC Пресс‑конференция (Пауэлл),US,high,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcpresconf20221102.htm,nan
+2022-11-03T09:00:00+00:00,PMI Final — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за October 2022.
+2022-11-03T09:00:00+00:00,PMI Final — Services (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за October 2022.
+2022-11-03T09:30:00+00:00,UK Composite PMI (final) — November 2022,UK,medium,confirmed,PMI_UK_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20November,3-й рабочий день
+2022-11-03T09:30:00+00:00,UK Services PMI (final) — November 2022,UK,medium,confirmed,PMI_UK_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20November,3-й рабочий день
+2022-11-03T10:00:00+00:00,Unemployment rate — September 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/documents/2995521/15228148/3-03112022-AP-EN.pdf/0fb6330c-11bf-3e4a-3590-a1b74ff5104b,Уровень безработицы (Eurostat).
+2022-11-03T12:00:00+00:00,BoE — решение по процентной ставке,UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2022/november-2022,Standard release 12:00 UK time
+2022-11-03T12:30:00+00:00,BoE — пресс‑конференция (Monetary Policy Report),UK,medium,confirmed,BOE_PC,https://www.bankofengland.co.uk/monetary-policy-report/2022/november-2022,Quarterly MPR press conference
+2022-11-03T14:00:00+00:00,ISM Services PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/2022/november/,nan
+2022-11-04T12:30:00+00:00,NFP — занятость вне с/х (Employment Situation),US,high,confirmed,USD,https://www.bls.gov/news.release/archives/empsit_11042022.htm,nan
+2022-11-10T13:30:00+00:00,CPI — индекс потребительских цен,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/cpi_11102022.pdf,nan
+2022-11-15T10:00:00+00:00,GDP Final — Q3 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-15112022-ap,Публикация Eurostat (Euro indicators).
+2022-11-15T13:30:00+00:00,PPI — индекс цен производителей,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/ppi_11152022.pdf,nan
+2022-11-16T10:00:00+00:00,HICP Final — October 2022 (еврозона),EA,high,confirmed,,,Окончательная оценка инфляции (Eurostat).
+2022-11-16T13:30:00+00:00,Retail Sales — розничные продажи (Advance),US,high,confirmed,USD,https://www2.census.gov/retail/releases/historical/marts/adv2210.pdf,nan
+2022-11-22T09:00:00+00:00,PMI Flash — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Стандарт: публикуется за 7–9 дней до конца месяца; время в локали ~10:00.
+2022-11-22T09:30:00+00:00,UK Composite PMI (flash) — November 2022,UK,medium,confirmed,PMI_UK_FLASH_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20November,"~22 число, рабочий день"
+2022-11-22T09:30:00+00:00,UK Manufacturing PMI (flash) — November 2022,UK,medium,confirmed,PMI_UK_FLASH_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20November,"~22 число, рабочий день"
+2022-11-22T09:30:00+00:00,UK Services PMI (flash) — November 2022,UK,medium,confirmed,PMI_UK_FLASH_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20November,"~22 число, рабочий день"
+2022-11-23T19:00:00+00:00,FOMC Minutes,US,medium,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcminutes20221102.htm,nan
+2022-11-30T10:00:00+00:00,HICP Flash — November 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-30112022-ap,Флеш-оценка инфляции (Eurostat).
+2022-11-30T13:30:00+00:00,GDP — публикация оценки ВВП (advance/second/third),US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-11/gdp3q22_2nd.pdf,nan
+2022-11-30T13:30:00+00:00,PCE / Personal Income & Outlays,US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-11/pi1022.pdf,nan
+2022-12-01T09:00:00+00:00,PMI Final — Manufacturing (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за November 2022.
+2022-12-01T09:30:00+00:00,UK Manufacturing PMI (final) — December 2022,UK,medium,confirmed,PMI_UK_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20December,1-й рабочий день
+2022-12-01T10:00:00+00:00,Unemployment rate — October 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/w/3-01122022-ap,Уровень безработицы (Eurostat).
+2022-12-01T15:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/2022/december/,nan
+2022-12-02T13:30:00+00:00,NFP — занятость вне с/х (Employment Situation),US,high,confirmed,USD,https://www.bls.gov/news.release/archives/empsit_12022022.htm,nan
+2022-12-05T09:00:00+00:00,PMI Final — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за November 2022.
+2022-12-05T09:00:00+00:00,PMI Final — Services (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Финальная оценка за November 2022.
+2022-12-05T09:30:00+00:00,UK Composite PMI (final) — December 2022,UK,medium,confirmed,PMI_UK_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20December,3-й рабочий день
+2022-12-05T09:30:00+00:00,UK Services PMI (final) — December 2022,UK,medium,confirmed,PMI_UK_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20December,3-й рабочий день
+2022-12-05T15:00:00+00:00,ISM Services PMI,US,high,confirmed,USD,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/2022/december/,nan
+2022-12-09T13:30:00+00:00,PPI — индекс цен производителей,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/ppi_12092022.pdf,nan
+2022-12-13T13:30:00+00:00,CPI — индекс потребительских цен,US,high,confirmed,USD,https://www.bls.gov/news.release/archives/cpi_12132022.pdf,nan
+2022-12-14T19:00:00+00:00,FOMC Statement,US,medium,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20221214a.htm,nan
+2022-12-14T19:00:00+00:00,FOMC — решение по ставке (Implementation Note),US,high,confirmed,USD,https://www.federalreserve.gov/newsevents/pressreleases/monetary20221214a1.htm,nan
+2022-12-14T19:30:00+00:00,FOMC Пресс‑конференция (Пауэлл),US,high,confirmed,USD,https://www.federalreserve.gov/monetarypolicy/fomcpresconf20221214.htm,nan
+2022-12-15T08:30:00+00:00,SNB — денежно-кредитная политика: решение по ставке,CH,medium,confirmed,SNB_RATE,https://www.snb.ch/en/mmr/reference/pre_20221215/html/pre_20221215.en.html,Policy assessment release 09:30
+2022-12-15T09:00:00+00:00,SNB — пресс‑конференция,CH,medium,confirmed,SNB_PC,https://www.snb.ch/en/mmr/speeches/id/ref_20221215_tjn,Post-decision press conference
+2022-12-15T12:00:00+00:00,BoE — решение по процентной ставке,UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2022/december-2022,Standard release 12:00 UK time
+2022-12-15T13:15:00+00:00,ECB — решение по ставке,EA,high,confirmed,,https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp221215~f3461d7b6e.en.html,Публикация пресс-релиза по решению ДКП.
+2022-12-15T13:30:00+00:00,Retail Sales — розничные продажи (Advance),US,high,confirmed,USD,https://www2.census.gov/retail/releases/historical/marts/adv2211.pdf,nan
+2022-12-15T13:45:00+00:00,ECB — пресс‑конференция (Lagarde/De Guindos),EA,high,confirmed,,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2022/html/ecb.is221215~197ac630ae.en.html,Пресс-конференция после заседания.
+2022-12-16T10:00:00+00:00,HICP Final — November 2022 (еврозона),EA,high,confirmed,,https://ec.europa.eu/eurostat/web/products-euro-indicators/-/2-16122022-ap,Окончательная оценка инфляции (Eurostat).
+2022-12-22T09:00:00+00:00,PMI Flash — Composite (еврозона),EA,medium,confirmed,,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Стандарт: публикуется за 7–9 дней до конца месяца; время в локали ~10:00.
+2022-12-22T09:30:00+00:00,UK Composite PMI (flash) — December 2022,UK,medium,confirmed,PMI_UK_FLASH_COMP,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20December,"~22 число, рабочий день"
+2022-12-22T09:30:00+00:00,UK Manufacturing PMI (flash) — December 2022,UK,medium,confirmed,PMI_UK_FLASH_MFG,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20December,"~22 число, рабочий день"
+2022-12-22T09:30:00+00:00,UK Services PMI (flash) — December 2022,UK,medium,confirmed,PMI_UK_FLASH_SERV,https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&country=United%20Kingdom&q=2022%20December,"~22 число, рабочий день"
+2022-12-22T13:30:00+00:00,GDP — публикация оценки ВВП (advance/second/third),US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-12/gdp3q22_3rd.pdf,nan
+2022-12-23T13:30:00+00:00,PCE / Personal Income & Outlays,US,high,confirmed,USD,https://www.bea.gov/sites/default/files/2022-12/pi1122.pdf,nan

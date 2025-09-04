@@ -1,0 +1,298 @@
+datetime_utc,event,country,impact,certainty,ticker,source_url,notes
+2008-01-01T09:00:00+00:00,Eurozone Manufacturing PMI (final) — January 2008,EA,medium,confirmed,PMI_MFG_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 1-й рабочий день; релиз 09:00 UTC.
+2008-01-02T09:30:00+00:00,UK S&P Global/CIPS Manufacturing PMI — Jan 2008,UK,medium,confirmed,PMI_MFG,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 1-й рабочий день, 09:30."
+2008-01-02T15:00:00+00:00,ISM Manufacturing PMI — Jan 2008,US,medium,confirmed,ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"1-й рабочий день, 10:00 ET."
+2008-01-03T09:00:00+00:00,Eurozone Composite PMI (final) — January 2008,EA,medium,confirmed,PMI_COMP_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-01-03T09:00:00+00:00,Eurozone Services PMI (final) — January 2008,EA,medium,confirmed,PMI_SERV_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-01-03T09:30:00+00:00,UK S&P Global/CIPS Construction PMI — Jan 2008,UK,medium,confirmed,PMI_CONS,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Обычно 2-й рабочий день, 09:30."
+2008-01-04T09:30:00+00:00,UK S&P Global/CIPS Composite PMI — Jan 2008,UK,medium,confirmed,PMI_COMP,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-01-04T09:30:00+00:00,UK S&P Global/CIPS Services PMI — Jan 2008,UK,medium,confirmed,PMI_SERV,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-01-04T13:30:00+00:00,Employment Situation — Dec 2007,US,high,confirmed,NFP,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-01-04T15:00:00+00:00,ISM Non-Manufacturing PMI — Jan 2008,US,medium,confirmed,ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"3-й рабочий день, 10:00 ET."
+2008-01-10T12:00:00+00:00,BoE — решение по ставке (MPC),UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/news/2007/september/mpc-dates-for-2008,Стандартное время 12:00 по Лондону.
+2008-01-10T12:45:00+00:00,ECB Governing Council — решение по ставке,EA,high,confirmed,ECB,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный слот решения 13:45 CET/CEST.
+2008-01-10T13:30:00+00:00,ECB пресс‑конференция (Introductory statement + Q&A),EA,high,confirmed,ECB_PC,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный старт пресс‑конф. 14:30 CET/CEST.
+2008-01-15T10:00:00+00:00,HICP final — December 2007,EA,high,confirmed,HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Final обычно в середине следующего месяца, 11:00."
+2008-01-15T13:30:00+00:00,PPI — Jan 2008,US,high,confirmed,PPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-01-16T13:30:00+00:00,CPI — Jan 2008,US,high,confirmed,CPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-01-22T13:30:00+00:00,"FOMC statement — emergency intermeeting action (Jan 22, 2008)",US,high,confirmed,FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/20080122a.htm,Тот же релиз; помечен как statement для трекинга.
+2008-01-22T13:30:00+00:00,"Unscheduled FOMC rate cut — emergency action (Jan 22, 2008)",US,high,confirmed,FOMC,https://www.federalreserve.gov/monetarypolicy/20080122a.htm,Официальное экстренное снижение ставки.
+2008-01-30T13:30:00+00:00,GDP — Q4 2007 (Advance),US,high,confirmed,GDP_ADV,https://www.bea.gov/,BEA 08:30 ET.
+2008-01-30T19:15:00+00:00,"FOMC statement (January 29-30, 2008)",US,medium,confirmed,FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Statement публикуется вместе с решением.
+2008-01-30T19:15:00+00:00,"FOMC — rate decision (January 29-30, 2008)",US,high,confirmed,FOMC,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Обычный слот 14:15 ET.
+2008-01-31T10:00:00+00:00,HICP flash — January 2008,EA,high,confirmed,HICP_FLASH,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,Евроиндикаторы; слот 11:00 Люксембург (CET/CEST).
+2008-01-31T13:30:00+00:00,Personal Income & Outlays — Dec 2007 / Annual 2007,US,high,confirmed,PCE,https://www.bea.gov/news/,BEA 08:30 ET.
+2008-02-01T09:00:00+00:00,Eurozone Manufacturing PMI (final) — February 2008,EA,medium,confirmed,PMI_MFG_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 1-й рабочий день; релиз 09:00 UTC.
+2008-02-01T09:30:00+00:00,UK S&P Global/CIPS Manufacturing PMI — Feb 2008,UK,medium,confirmed,PMI_MFG,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 1-й рабочий день, 09:30."
+2008-02-01T13:30:00+00:00,Employment Situation — Jan 2008,US,high,confirmed,NFP,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-02-01T15:00:00+00:00,ISM Manufacturing PMI — Feb 2008,US,medium,confirmed,ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"1-й рабочий день, 10:00 ET."
+2008-02-04T09:30:00+00:00,UK S&P Global/CIPS Construction PMI — Feb 2008,UK,medium,confirmed,PMI_CONS,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Обычно 2-й рабочий день, 09:30."
+2008-02-05T09:00:00+00:00,Eurozone Composite PMI (final) — February 2008,EA,medium,confirmed,PMI_COMP_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-02-05T09:00:00+00:00,Eurozone Services PMI (final) — February 2008,EA,medium,confirmed,PMI_SERV_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-02-05T09:30:00+00:00,UK S&P Global/CIPS Composite PMI — Feb 2008,UK,medium,confirmed,PMI_COMP,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-02-05T09:30:00+00:00,UK S&P Global/CIPS Services PMI — Feb 2008,UK,medium,confirmed,PMI_SERV,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-02-05T15:00:00+00:00,ISM Non-Manufacturing PMI — Feb 2008,US,medium,confirmed,ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"3-й рабочий день, 10:00 ET."
+2008-02-07T12:00:00+00:00,BoE — решение по ставке (MPC),UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/news/2007/september/mpc-dates-for-2008,Стандартное время 12:00 по Лондону.
+2008-02-07T12:45:00+00:00,ECB Governing Council — решение по ставке,EA,high,confirmed,ECB,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный слот решения 13:45 CET/CEST.
+2008-02-07T13:30:00+00:00,ECB пресс‑конференция (Introductory statement + Q&A),EA,high,confirmed,ECB_PC,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный старт пресс‑конф. 14:30 CET/CEST.
+2008-02-13T10:30:00+00:00,BoE — пресс-конференция по Inflation Report,UK,medium,confirmed,BOE_PC,https://www.bankofengland.co.uk/inflation-report/2008/february-2008,IR day; исторически ~10:30 по Лондону.
+2008-02-13T13:30:00+00:00,Advance Retail Sales — Jan 2008,US,high,confirmed,RETAIL_SALES,https://www.census.gov/retail/marts/,Census MARTS 08:30 ET.
+2008-02-15T10:00:00+00:00,HICP final — January 2008,EA,high,confirmed,HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Final обычно в середине следующего месяца, 11:00."
+2008-02-20T13:30:00+00:00,CPI — Feb 2008,US,high,confirmed,CPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-02-20T19:00:00+00:00,"FOMC minutes — Minutes — Jan 29-30, 2008",US,medium,confirmed,FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Минуты в 14:00 ET.
+2008-02-26T13:30:00+00:00,PPI — Feb 2008,US,high,confirmed,PPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-02-28T13:30:00+00:00,GDP — Q4 2007 (Second),US,high,confirmed,GDP_PREL,https://www.bea.gov/,BEA 08:30 ET.
+2008-02-29T10:00:00+00:00,HICP flash — February 2008,EA,high,confirmed,HICP_FLASH,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,Евроиндикаторы; слот 11:00 Люксембург (CET/CEST).
+2008-02-29T13:30:00+00:00,Personal Income & Outlays — Jan 2008,US,high,confirmed,PCE,https://www.bea.gov/news/,BEA 08:30 ET.
+2008-03-03T09:00:00+00:00,Eurozone Manufacturing PMI (final) — March 2008,EA,medium,confirmed,PMI_MFG_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 1-й рабочий день; релиз 09:00 UTC.
+2008-03-03T09:30:00+00:00,UK S&P Global/CIPS Manufacturing PMI — Mar 2008,UK,medium,confirmed,PMI_MFG,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 1-й рабочий день, 09:30."
+2008-03-03T10:00:00+00:00,Euro area Unemployment rate — January 2008,EA,high,confirmed,URATE,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Правило: M+2, 1-й рабочий день, 11:00."
+2008-03-03T15:00:00+00:00,ISM Manufacturing PMI — Mar 2008,US,medium,confirmed,ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"1-й рабочий день, 10:00 ET."
+2008-03-04T09:30:00+00:00,UK S&P Global/CIPS Construction PMI — Mar 2008,UK,medium,confirmed,PMI_CONS,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Обычно 2-й рабочий день, 09:30."
+2008-03-05T09:00:00+00:00,Eurozone Composite PMI (final) — March 2008,EA,medium,confirmed,PMI_COMP_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-03-05T09:00:00+00:00,Eurozone Services PMI (final) — March 2008,EA,medium,confirmed,PMI_SERV_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-03-05T09:30:00+00:00,UK S&P Global/CIPS Composite PMI — Mar 2008,UK,medium,confirmed,PMI_COMP,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-03-05T09:30:00+00:00,UK S&P Global/CIPS Services PMI — Mar 2008,UK,medium,confirmed,PMI_SERV,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-03-05T15:00:00+00:00,ISM Non-Manufacturing PMI — Mar 2008,US,medium,confirmed,ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"3-й рабочий день, 10:00 ET."
+2008-03-06T12:00:00+00:00,BoE — решение по ставке (MPC),UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/news/2007/september/mpc-dates-for-2008,Стандартное время 12:00 по Лондону.
+2008-03-06T12:45:00+00:00,ECB Governing Council — решение по ставке,EA,high,confirmed,ECB,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный слот решения 13:45 CET/CEST.
+2008-03-06T13:30:00+00:00,ECB пресс‑конференция (Introductory statement + Q&A),EA,high,confirmed,ECB_PC,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный старт пресс‑конф. 14:30 CET/CEST.
+2008-03-07T13:30:00+00:00,Employment Situation — Feb 2008,US,high,confirmed,NFP,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-03-13T07:30:00+00:00,SNB — Monetary policy assessment (rate decision),CH,medium,confirmed,SNB_RATE,https://www.snb.ch/public/publication/en/www-snb-ch/publications/communication/press-releases/2008/pre_20080313/0_en/pre_20080313.en.pdf,Пресс-релиз + новостная конференция в день MPA.
+2008-03-13T08:30:00+00:00,SNB — пресс-конференция по денежно-кредитной политике,CH,medium,confirmed,SNB_PC,https://www.snb.ch/en/services-events/digital-services/webtv,Обычно сразу после публикации решения.
+2008-03-13T12:30:00+00:00,Advance Retail Sales — Feb 2008,US,high,confirmed,RETAIL_SALES,https://www.census.gov/retail/marts/,Census MARTS 08:30 ET.
+2008-03-14T12:30:00+00:00,CPI — Mar 2008,US,high,confirmed,CPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-03-17T10:00:00+00:00,HICP final — February 2008,EA,high,confirmed,HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Final обычно в середине следующего месяца, 11:00."
+2008-03-18T12:30:00+00:00,PPI — Mar 2008,US,high,confirmed,PPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-03-18T18:15:00+00:00,"FOMC statement (March 18, 2008)",US,medium,confirmed,FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Statement публикуется вместе с решением.
+2008-03-18T18:15:00+00:00,"FOMC — rate decision (March 18, 2008)",US,high,confirmed,FOMC,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Обычный слот 14:15 ET.
+2008-03-27T12:30:00+00:00,GDP — Q4 2007 (Third),US,high,confirmed,GDP_FINAL,https://www.bea.gov/,BEA 08:30 ET.
+2008-03-28T12:30:00+00:00,Personal Income & Outlays — Feb 2008,US,high,confirmed,PCE,https://www.bea.gov/news/,BEA 08:30 ET.
+2008-03-31T09:00:00+00:00,HICP flash — March 2008,EA,high,confirmed,HICP_FLASH,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,Евроиндикаторы; слот 11:00 Люксембург (CET/CEST).
+2008-04-01T08:30:00+00:00,UK S&P Global/CIPS Manufacturing PMI — Apr 2008,UK,medium,confirmed,PMI_MFG,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 1-й рабочий день, 09:30."
+2008-04-01T09:00:00+00:00,Euro area Unemployment rate — February 2008,EA,high,confirmed,URATE,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Правило: M+2, 1-й рабочий день, 11:00."
+2008-04-01T09:00:00+00:00,Eurozone Manufacturing PMI (final) — April 2008,EA,medium,confirmed,PMI_MFG_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 1-й рабочий день; релиз 09:00 UTC.
+2008-04-01T14:00:00+00:00,ISM Manufacturing PMI — Apr 2008,US,medium,confirmed,ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"1-й рабочий день, 10:00 ET."
+2008-04-02T08:30:00+00:00,UK S&P Global/CIPS Construction PMI — Apr 2008,UK,medium,confirmed,PMI_CONS,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Обычно 2-й рабочий день, 09:30."
+2008-04-03T08:30:00+00:00,UK S&P Global/CIPS Composite PMI — Apr 2008,UK,medium,confirmed,PMI_COMP,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-04-03T08:30:00+00:00,UK S&P Global/CIPS Services PMI — Apr 2008,UK,medium,confirmed,PMI_SERV,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-04-03T09:00:00+00:00,Eurozone Composite PMI (final) — April 2008,EA,medium,confirmed,PMI_COMP_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-04-03T09:00:00+00:00,Eurozone Services PMI (final) — April 2008,EA,medium,confirmed,PMI_SERV_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-04-03T14:00:00+00:00,ISM Non-Manufacturing PMI — Apr 2008,US,medium,confirmed,ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"3-й рабочий день, 10:00 ET."
+2008-04-04T12:30:00+00:00,Employment Situation — Mar 2008,US,high,confirmed,NFP,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-04-08T18:00:00+00:00,"FOMC minutes — Minutes — Mar 18, 2008",US,medium,confirmed,FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Минуты в 14:00 ET.
+2008-04-09T09:00:00+00:00,Euro area GDP — Q4 2007 (second estimate),EA,high,confirmed,GDP_FINAL,https://ec.europa.eu/eurostat/documents/2995521/5110466/2-09042008-AP-EN.PDF/68d6bd3d-02d9-4265-8984-e92d0e38a58e,Eurostat Euro‑indicators; слот 11:00 Люксембург.
+2008-04-10T11:00:00+00:00,BoE — решение по ставке (MPC),UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/news/2007/september/mpc-dates-for-2008,Стандартное время 12:00 по Лондону.
+2008-04-10T11:45:00+00:00,ECB Governing Council — решение по ставке,EA,high,confirmed,ECB,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный слот решения 13:45 CET/CEST.
+2008-04-10T12:30:00+00:00,ECB пресс‑конференция (Introductory statement + Q&A),EA,high,confirmed,ECB_PC,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный старт пресс‑конф. 14:30 CET/CEST.
+2008-04-14T12:30:00+00:00,Advance Retail Sales — Mar 2008,US,high,confirmed,RETAIL_SALES,https://www.census.gov/retail/marts/,Census MARTS 08:30 ET.
+2008-04-15T09:00:00+00:00,HICP final — March 2008,EA,high,confirmed,HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Final обычно в середине следующего месяца, 11:00."
+2008-04-15T12:30:00+00:00,PPI — Apr 2008,US,high,confirmed,PPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-04-16T12:30:00+00:00,CPI — Apr 2008,US,high,confirmed,CPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-04-30T09:00:00+00:00,HICP flash — April 2008,EA,high,confirmed,HICP_FLASH,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,Евроиндикаторы; слот 11:00 Люксембург (CET/CEST).
+2008-04-30T12:30:00+00:00,GDP — Q1 2008 (Advance),US,high,confirmed,GDP_ADV,https://www.bea.gov/,BEA 08:30 ET.
+2008-04-30T18:15:00+00:00,"FOMC statement (April 29-30, 2008)",US,medium,confirmed,FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Statement публикуется вместе с решением.
+2008-04-30T18:15:00+00:00,"FOMC — rate decision (April 29-30, 2008)",US,high,confirmed,FOMC,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Обычный слот 14:15 ET.
+2008-05-01T08:30:00+00:00,UK S&P Global/CIPS Manufacturing PMI — May 2008,UK,medium,confirmed,PMI_MFG,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 1-й рабочий день, 09:30."
+2008-05-01T09:00:00+00:00,Euro area Unemployment rate — March 2008,EA,high,confirmed,URATE,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Правило: M+2, 1-й рабочий день, 11:00."
+2008-05-01T09:00:00+00:00,Eurozone Manufacturing PMI (final) — May 2008,EA,medium,confirmed,PMI_MFG_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 1-й рабочий день; релиз 09:00 UTC.
+2008-05-01T12:30:00+00:00,Personal Income & Outlays — Mar 2008,US,high,confirmed,PCE,https://www.bea.gov/news/,BEA 08:30 ET.
+2008-05-01T14:00:00+00:00,ISM Manufacturing PMI — May 2008,US,medium,confirmed,ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"1-й рабочий день, 10:00 ET."
+2008-05-02T08:30:00+00:00,UK S&P Global/CIPS Construction PMI — May 2008,UK,medium,confirmed,PMI_CONS,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Обычно 2-й рабочий день, 09:30."
+2008-05-02T12:30:00+00:00,Employment Situation — Apr 2008,US,high,confirmed,NFP,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-05-05T09:00:00+00:00,Eurozone Composite PMI (final) — May 2008,EA,medium,confirmed,PMI_COMP_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-05-05T09:00:00+00:00,Eurozone Services PMI (final) — May 2008,EA,medium,confirmed,PMI_SERV_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-05-05T14:00:00+00:00,ISM Non-Manufacturing PMI — May 2008,US,medium,confirmed,ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"3-й рабочий день, 10:00 ET."
+2008-05-06T08:30:00+00:00,UK S&P Global/CIPS Composite PMI — May 2008,UK,medium,confirmed,PMI_COMP,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-05-06T08:30:00+00:00,UK S&P Global/CIPS Services PMI — May 2008,UK,medium,confirmed,PMI_SERV,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-05-08T11:00:00+00:00,BoE — решение по ставке (MPC),UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/news/2007/september/mpc-dates-for-2008,Стандартное время 12:00 по Лондону.
+2008-05-08T11:45:00+00:00,ECB Governing Council — решение по ставке,EA,high,confirmed,ECB,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный слот решения 13:45 CET/CEST.
+2008-05-08T12:30:00+00:00,ECB пресс‑конференция (Introductory statement + Q&A),EA,high,confirmed,ECB_PC,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный старт пресс‑конф. 14:30 CET/CEST.
+2008-05-13T12:30:00+00:00,Advance Retail Sales — Apr 2008,US,high,confirmed,RETAIL_SALES,https://www.census.gov/retail/marts/,Census MARTS 08:30 ET.
+2008-05-14T09:30:00+00:00,BoE — пресс-конференция по Inflation Report,UK,medium,confirmed,BOE_PC,https://www.bankofengland.co.uk/inflation-report/2008/may-2008,IR day; исторически ~10:30 по Лондону.
+2008-05-14T12:30:00+00:00,CPI — May 2008,US,high,confirmed,CPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-05-15T09:00:00+00:00,HICP final — April 2008,EA,high,confirmed,HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Final обычно в середине следующего месяца, 11:00."
+2008-05-20T12:30:00+00:00,PPI — May 2008,US,high,confirmed,PPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-05-21T18:00:00+00:00,"FOMC minutes — Minutes — Apr 29-30, 2008",US,medium,confirmed,FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Минуты в 14:00 ET.
+2008-05-29T12:30:00+00:00,GDP — Q1 2008 (Second),US,high,confirmed,GDP_PREL,https://www.bea.gov/,BEA 08:30 ET.
+2008-05-30T09:00:00+00:00,HICP flash — May 2008,EA,high,confirmed,HICP_FLASH,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,Евроиндикаторы; слот 11:00 Люксембург (CET/CEST).
+2008-05-30T12:30:00+00:00,Personal Income & Outlays — Apr 2008,US,high,confirmed,PCE,https://www.bea.gov/news/,BEA 08:30 ET.
+2008-06-02T08:30:00+00:00,UK S&P Global/CIPS Manufacturing PMI — Jun 2008,UK,medium,confirmed,PMI_MFG,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 1-й рабочий день, 09:30."
+2008-06-02T09:00:00+00:00,Euro area Unemployment rate — April 2008,EA,high,confirmed,URATE,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Правило: M+2, 1-й рабочий день, 11:00."
+2008-06-02T09:00:00+00:00,Eurozone Manufacturing PMI (final) — June 2008,EA,medium,confirmed,PMI_MFG_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 1-й рабочий день; релиз 09:00 UTC.
+2008-06-02T14:00:00+00:00,ISM Manufacturing PMI — Jun 2008,US,medium,confirmed,ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"1-й рабочий день, 10:00 ET."
+2008-06-03T08:30:00+00:00,UK S&P Global/CIPS Construction PMI — Jun 2008,UK,medium,confirmed,PMI_CONS,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Обычно 2-й рабочий день, 09:30."
+2008-06-04T08:30:00+00:00,UK S&P Global/CIPS Composite PMI — Jun 2008,UK,medium,confirmed,PMI_COMP,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-06-04T08:30:00+00:00,UK S&P Global/CIPS Services PMI — Jun 2008,UK,medium,confirmed,PMI_SERV,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-06-04T09:00:00+00:00,Eurozone Composite PMI (final) — June 2008,EA,medium,confirmed,PMI_COMP_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-06-04T09:00:00+00:00,Eurozone Services PMI (final) — June 2008,EA,medium,confirmed,PMI_SERV_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-06-04T14:00:00+00:00,ISM Non-Manufacturing PMI — Jun 2008,US,medium,confirmed,ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"3-й рабочий день, 10:00 ET."
+2008-06-05T11:00:00+00:00,BoE — решение по ставке (MPC),UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/news/2007/september/mpc-dates-for-2008,Стандартное время 12:00 по Лондону.
+2008-06-05T11:45:00+00:00,ECB Governing Council — решение по ставке,EA,high,confirmed,ECB,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный слот решения 13:45 CET/CEST.
+2008-06-05T12:30:00+00:00,ECB пресс‑конференция (Introductory statement + Q&A),EA,high,confirmed,ECB_PC,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный старт пресс‑конф. 14:30 CET/CEST.
+2008-06-06T12:30:00+00:00,Employment Situation — May 2008,US,high,confirmed,NFP,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-06-12T12:30:00+00:00,Advance Retail Sales — May 2008,US,high,confirmed,RETAIL_SALES,https://www.census.gov/retail/marts/,Census MARTS 08:30 ET.
+2008-06-13T12:30:00+00:00,CPI — Jun 2008,US,high,confirmed,CPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-06-16T09:00:00+00:00,HICP final — May 2008,EA,high,confirmed,HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Final обычно в середине следующего месяца, 11:00."
+2008-06-17T12:30:00+00:00,PPI — Jun 2008,US,high,confirmed,PPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-06-19T07:30:00+00:00,SNB — Monetary policy assessment (rate decision),CH,medium,confirmed,SNB_RATE,https://www.snb.ch/en/publications/communication/press-releases/2008/pre_20080619,Пресс-релиз + новостная конференция в день MPA.
+2008-06-19T07:30:00+00:00,SNB — пресс-конференция по денежно-кредитной политике,CH,medium,confirmed,SNB_PC,https://www.snb.ch/en/services-events/digital-services/webtv,Обычно сразу после публикации решения.
+2008-06-25T18:15:00+00:00,"FOMC statement (June 24-25, 2008)",US,medium,confirmed,FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Statement публикуется вместе с решением.
+2008-06-25T18:15:00+00:00,"FOMC — rate decision (June 24-25, 2008)",US,high,confirmed,FOMC,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Обычный слот 14:15 ET.
+2008-06-26T12:30:00+00:00,GDP — Q1 2008 (Third),US,high,confirmed,GDP_FINAL,https://www.bea.gov/,BEA 08:30 ET.
+2008-06-27T12:30:00+00:00,Personal Income & Outlays — May 2008,US,high,confirmed,PCE,https://www.bea.gov/news/,BEA 08:30 ET.
+2008-06-30T09:00:00+00:00,HICP flash — June 2008,EA,high,confirmed,HICP_FLASH,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,Евроиндикаторы; слот 11:00 Люксембург (CET/CEST).
+2008-07-01T08:30:00+00:00,UK S&P Global/CIPS Manufacturing PMI — Jul 2008,UK,medium,confirmed,PMI_MFG,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 1-й рабочий день, 09:30."
+2008-07-01T09:00:00+00:00,Euro area Unemployment rate — May 2008,EA,high,confirmed,URATE,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Правило: M+2, 1-й рабочий день, 11:00."
+2008-07-01T09:00:00+00:00,Eurozone Manufacturing PMI (final) — July 2008,EA,medium,confirmed,PMI_MFG_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 1-й рабочий день; релиз 09:00 UTC.
+2008-07-01T14:00:00+00:00,ISM Manufacturing PMI — Jul 2008,US,medium,confirmed,ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"1-й рабочий день, 10:00 ET."
+2008-07-02T08:30:00+00:00,UK S&P Global/CIPS Construction PMI — Jul 2008,UK,medium,confirmed,PMI_CONS,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Обычно 2-й рабочий день, 09:30."
+2008-07-03T08:30:00+00:00,UK S&P Global/CIPS Composite PMI — Jul 2008,UK,medium,confirmed,PMI_COMP,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-07-03T08:30:00+00:00,UK S&P Global/CIPS Services PMI — Jul 2008,UK,medium,confirmed,PMI_SERV,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-07-03T09:00:00+00:00,Eurozone Composite PMI (final) — July 2008,EA,medium,confirmed,PMI_COMP_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-07-03T09:00:00+00:00,Eurozone Services PMI (final) — July 2008,EA,medium,confirmed,PMI_SERV_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-07-03T11:45:00+00:00,ECB Governing Council — решение по ставке,EA,high,confirmed,ECB,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный слот решения 13:45 CET/CEST.
+2008-07-03T12:30:00+00:00,ECB пресс‑конференция (Introductory statement + Q&A),EA,high,confirmed,ECB_PC,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный старт пресс‑конф. 14:30 CET/CEST.
+2008-07-03T12:30:00+00:00,Employment Situation — Jun 2008,US,high,confirmed,NFP,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-07-03T14:00:00+00:00,ISM Non-Manufacturing PMI — Jul 2008,US,medium,confirmed,ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"3-й рабочий день, 10:00 ET."
+2008-07-09T09:00:00+00:00,Euro area GDP — Q1 2008 (second estimate),EA,high,confirmed,GDP_FINAL,https://ec.europa.eu/eurostat/documents/2995521/5112586/2-09072008-AP-EN.PDF/7d707c55-134c-4aa8-a40b-e44da38302c2,Eurostat Euro‑indicators; слот 11:00 Люксембург.
+2008-07-10T11:00:00+00:00,BoE — решение по ставке (MPC),UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/news/2007/september/mpc-dates-for-2008,Стандартное время 12:00 по Лондону.
+2008-07-15T09:00:00+00:00,HICP final — June 2008,EA,high,confirmed,HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Final обычно в середине следующего месяца, 11:00."
+2008-07-15T12:30:00+00:00,Advance Retail Sales — Jun 2008,US,high,confirmed,RETAIL_SALES,https://www.census.gov/retail/marts/,Census MARTS 08:30 ET.
+2008-07-15T12:30:00+00:00,PPI — Jul 2008,US,high,confirmed,PPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-07-16T12:30:00+00:00,CPI — Jul 2008,US,high,confirmed,CPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-07-16T18:00:00+00:00,"FOMC minutes — Minutes — Jun 24-25, 2008",US,medium,confirmed,FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Минуты в 14:00 ET.
+2008-07-31T09:00:00+00:00,HICP flash — July 2008,EA,high,confirmed,HICP_FLASH,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,Евроиндикаторы; слот 11:00 Люксембург (CET/CEST).
+2008-07-31T12:30:00+00:00,GDP — Q2 2008 (Advance),US,high,confirmed,GDP_ADV,https://www.bea.gov/,BEA 08:30 ET.
+2008-08-01T08:30:00+00:00,UK S&P Global/CIPS Manufacturing PMI — Aug 2008,UK,medium,confirmed,PMI_MFG,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 1-й рабочий день, 09:30."
+2008-08-01T09:00:00+00:00,Euro area Unemployment rate — June 2008,EA,high,confirmed,URATE,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Правило: M+2, 1-й рабочий день, 11:00."
+2008-08-01T09:00:00+00:00,Eurozone Manufacturing PMI (final) — August 2008,EA,medium,confirmed,PMI_MFG_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 1-й рабочий день; релиз 09:00 UTC.
+2008-08-01T12:30:00+00:00,Employment Situation — Jul 2008,US,high,confirmed,NFP,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-08-01T14:00:00+00:00,ISM Manufacturing PMI — Aug 2008,US,medium,confirmed,ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"1-й рабочий день, 10:00 ET."
+2008-08-04T08:30:00+00:00,UK S&P Global/CIPS Construction PMI — Aug 2008,UK,medium,confirmed,PMI_CONS,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Обычно 2-й рабочий день, 09:30."
+2008-08-04T12:30:00+00:00,Personal Income & Outlays — Jun 2008 (+Annual Revision),US,high,confirmed,PCE,https://www.bea.gov/news/,BEA 08:30 ET.
+2008-08-05T08:30:00+00:00,UK S&P Global/CIPS Composite PMI — Aug 2008,UK,medium,confirmed,PMI_COMP,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-08-05T08:30:00+00:00,UK S&P Global/CIPS Services PMI — Aug 2008,UK,medium,confirmed,PMI_SERV,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-08-05T09:00:00+00:00,Eurozone Composite PMI (final) — August 2008,EA,medium,confirmed,PMI_COMP_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-08-05T09:00:00+00:00,Eurozone Services PMI (final) — August 2008,EA,medium,confirmed,PMI_SERV_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-08-05T14:00:00+00:00,ISM Non-Manufacturing PMI — Aug 2008,US,medium,confirmed,ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"3-й рабочий день, 10:00 ET."
+2008-08-05T18:15:00+00:00,"FOMC statement (August 5, 2008)",US,medium,confirmed,FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Statement публикуется вместе с решением.
+2008-08-05T18:15:00+00:00,"FOMC — rate decision (August 5, 2008)",US,high,confirmed,FOMC,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Обычный слот 14:15 ET.
+2008-08-07T11:00:00+00:00,BoE — решение по ставке (MPC),UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/news/2007/september/mpc-dates-for-2008,Стандартное время 12:00 по Лондону.
+2008-08-07T11:45:00+00:00,ECB Governing Council — решение по ставке,EA,high,confirmed,ECB,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный слот решения 13:45 CET/CEST.
+2008-08-13T09:30:00+00:00,BoE — пресс-конференция по Inflation Report,UK,medium,confirmed,BOE_PC,https://www.bankofengland.co.uk/inflation-report/2008/august-2008,IR day; исторически ~10:30 по Лондону.
+2008-08-13T12:30:00+00:00,Advance Retail Sales — Jul 2008,US,high,confirmed,RETAIL_SALES,https://www.census.gov/retail/marts/,Census MARTS 08:30 ET.
+2008-08-14T12:30:00+00:00,CPI — Aug 2008,US,high,confirmed,CPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-08-15T09:00:00+00:00,HICP final — July 2008,EA,high,confirmed,HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Final обычно в середине следующего месяца, 11:00."
+2008-08-19T12:30:00+00:00,PPI — Aug 2008,US,high,confirmed,PPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-08-21T15:00:00+00:00,Jackson Hole Economic Policy Symposium — Day 1,US,high,confirmed,CONF_JH,https://www.kansascityfed.org/research/jackson-hole-economic-symposium/,KC Fed symposium; дневной старт.
+2008-08-22T15:00:00+00:00,Jackson Hole Economic Policy Symposium — Day 2,US,high,confirmed,CONF_JH,https://www.kansascityfed.org/research/jackson-hole-economic-symposium/,KC Fed symposium; дневной старт.
+2008-08-23T15:00:00+00:00,Jackson Hole Economic Policy Symposium — Day 3,US,high,confirmed,CONF_JH,https://www.kansascityfed.org/research/jackson-hole-economic-symposium/,KC Fed symposium; дневной старт.
+2008-08-26T18:00:00+00:00,"FOMC minutes — Minutes — Aug 5, 2008",US,medium,confirmed,FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Минуты в 14:00 ET.
+2008-08-28T12:30:00+00:00,GDP — Q2 2008 (Second),US,high,confirmed,GDP_PREL,https://www.bea.gov/,BEA 08:30 ET.
+2008-08-29T09:00:00+00:00,HICP flash — August 2008,EA,high,confirmed,HICP_FLASH,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,Евроиндикаторы; слот 11:00 Люксембург (CET/CEST).
+2008-08-29T12:30:00+00:00,Personal Income & Outlays — Jul 2008,US,high,confirmed,PCE,https://www.bea.gov/news/,BEA 08:30 ET.
+2008-09-01T08:30:00+00:00,UK S&P Global/CIPS Manufacturing PMI — Sep 2008,UK,medium,confirmed,PMI_MFG,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 1-й рабочий день, 09:30."
+2008-09-01T09:00:00+00:00,Euro area Unemployment rate — July 2008,EA,high,confirmed,URATE,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Правило: M+2, 1-й рабочий день, 11:00."
+2008-09-01T09:00:00+00:00,Eurozone Manufacturing PMI (final) — September 2008,EA,medium,confirmed,PMI_MFG_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 1-й рабочий день; релиз 09:00 UTC.
+2008-09-02T08:30:00+00:00,UK S&P Global/CIPS Construction PMI — Sep 2008,UK,medium,confirmed,PMI_CONS,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Обычно 2-й рабочий день, 09:30."
+2008-09-02T14:00:00+00:00,ISM Manufacturing PMI — Sep 2008,US,medium,confirmed,ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"1-й рабочий день, 10:00 ET."
+2008-09-03T08:30:00+00:00,UK S&P Global/CIPS Composite PMI — Sep 2008,UK,medium,confirmed,PMI_COMP,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-09-03T08:30:00+00:00,UK S&P Global/CIPS Services PMI — Sep 2008,UK,medium,confirmed,PMI_SERV,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-09-03T09:00:00+00:00,Eurozone Composite PMI (final) — September 2008,EA,medium,confirmed,PMI_COMP_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-09-03T09:00:00+00:00,Eurozone Services PMI (final) — September 2008,EA,medium,confirmed,PMI_SERV_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-09-04T11:00:00+00:00,BoE — решение по ставке (MPC),UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/news/2007/september/mpc-dates-for-2008,Стандартное время 12:00 по Лондону.
+2008-09-04T11:45:00+00:00,ECB Governing Council — решение по ставке,EA,high,confirmed,ECB,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный слот решения 13:45 CET/CEST.
+2008-09-04T12:30:00+00:00,ECB пресс‑конференция (Introductory statement + Q&A),EA,high,confirmed,ECB_PC,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный старт пресс‑конф. 14:30 CET/CEST.
+2008-09-04T14:00:00+00:00,ISM Non-Manufacturing PMI — Sep 2008,US,medium,confirmed,ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"3-й рабочий день, 10:00 ET."
+2008-09-05T12:30:00+00:00,Employment Situation — Aug 2008,US,high,confirmed,NFP,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-09-12T12:30:00+00:00,Advance Retail Sales — Aug 2008,US,high,confirmed,RETAIL_SALES,https://www.census.gov/retail/marts/,Census MARTS 08:30 ET.
+2008-09-12T12:30:00+00:00,PPI — Sep 2008,US,high,confirmed,PPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-09-15T09:00:00+00:00,HICP final — August 2008,EA,high,confirmed,HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Final обычно в середине следующего месяца, 11:00."
+2008-09-16T12:30:00+00:00,CPI — Sep 2008,US,high,confirmed,CPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-09-16T18:15:00+00:00,"FOMC statement (September 16, 2008)",US,medium,confirmed,FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Statement публикуется вместе с решением.
+2008-09-16T18:15:00+00:00,"FOMC — rate decision (September 16, 2008)",US,high,confirmed,FOMC,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Обычный слот 14:15 ET.
+2008-09-18T07:30:00+00:00,SNB — Monetary policy assessment (rate decision),CH,medium,confirmed,SNB_RATE,https://www.snb.ch/public/publication/en/www-snb-ch/publications/communication/press-releases/2008/pre_20080918_3/0_en/pre_20080918_3.en.pdf,Пресс-релиз + новостная конференция в день MPA.
+2008-09-18T07:30:00+00:00,SNB — пресс-конференция по денежно-кредитной политике,CH,medium,confirmed,SNB_PC,https://www.snb.ch/en/services-events/digital-services/webtv,Обычно сразу после публикации решения.
+2008-09-26T12:30:00+00:00,GDP — Q2 2008 (Third),US,high,confirmed,GDP_FINAL,https://www.bea.gov/,BEA 08:30 ET.
+2008-09-29T12:30:00+00:00,Personal Income & Outlays — Aug 2008,US,high,confirmed,PCE,https://www.bea.gov/news/,BEA 08:30 ET.
+2008-09-30T09:00:00+00:00,HICP flash — September 2008,EA,high,confirmed,HICP_FLASH,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,Евроиндикаторы; слот 11:00 Люксембург (CET/CEST).
+2008-10-01T08:30:00+00:00,UK S&P Global/CIPS Manufacturing PMI — Oct 2008,UK,medium,confirmed,PMI_MFG,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 1-й рабочий день, 09:30."
+2008-10-01T09:00:00+00:00,Euro area Unemployment rate — August 2008,EA,high,confirmed,URATE,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Правило: M+2, 1-й рабочий день, 11:00."
+2008-10-01T09:00:00+00:00,Eurozone Manufacturing PMI (final) — October 2008,EA,medium,confirmed,PMI_MFG_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 1-й рабочий день; релиз 09:00 UTC.
+2008-10-01T14:00:00+00:00,ISM Manufacturing PMI — Oct 2008,US,medium,confirmed,ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"1-й рабочий день, 10:00 ET."
+2008-10-02T08:30:00+00:00,UK S&P Global/CIPS Construction PMI — Oct 2008,UK,medium,confirmed,PMI_CONS,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Обычно 2-й рабочий день, 09:30."
+2008-10-02T11:45:00+00:00,ECB Governing Council — решение по ставке,EA,high,confirmed,ECB,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный слот решения 13:45 CET/CEST.
+2008-10-02T12:30:00+00:00,ECB пресс‑конференция (Introductory statement + Q&A),EA,high,confirmed,ECB_PC,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный старт пресс‑конф. 14:30 CET/CEST.
+2008-10-03T08:30:00+00:00,UK S&P Global/CIPS Composite PMI — Oct 2008,UK,medium,confirmed,PMI_COMP,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-10-03T08:30:00+00:00,UK S&P Global/CIPS Services PMI — Oct 2008,UK,medium,confirmed,PMI_SERV,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-10-03T09:00:00+00:00,Eurozone Composite PMI (final) — October 2008,EA,medium,confirmed,PMI_COMP_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-10-03T09:00:00+00:00,Eurozone Services PMI (final) — October 2008,EA,medium,confirmed,PMI_SERV_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-10-03T12:30:00+00:00,Employment Situation — Sep 2008,US,high,confirmed,NFP,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-10-03T14:00:00+00:00,ISM Non-Manufacturing PMI — Oct 2008,US,medium,confirmed,ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"3-й рабочий день, 10:00 ET."
+2008-10-07T18:00:00+00:00,"FOMC minutes — Minutes — Sep 16, 2008",US,medium,confirmed,FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Минуты в 14:00 ET.
+2008-10-08T09:00:00+00:00,Euro area GDP — Q2 2008 (second estimate),EA,high,confirmed,GDP_FINAL,https://ec.europa.eu/eurostat/documents/2995521/5114190/2-08102008-AP-EN.PDF.pdf/80acc107-29fa-46ca-ac61-4e1d352f1170,Eurostat Euro‑indicators; слот 11:00 Люксембург.
+2008-10-08T11:00:00+00:00,SNB — внеплановое решение по ставке (координированное снижение),CH,medium,confirmed,SNB_RATE,https://www.snb.ch/en/publications/communication/press-releases/2008/pre_20081008_2,Совместное действие с BoE/ECB/Fed и др.
+2008-10-08T11:00:00+00:00,ECB — внеплановое решение по ставке (координированное снижение),EA,high,confirmed,ECB,https://www.ecb.europa.eu/press/pr/date/2008/html/pr081008.en.html,Координированное действие; 07:00 ET = 13:00 CEST.
+2008-10-08T11:00:00+00:00,BoE — внеплановое решение по ставке (координированное снижение),UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/-/media/boe/files/news/2008/october/mpc-october-2008.pdf,Спецзаседание MPC; совместное действие с ФРС/ЕЦБ и др.
+2008-10-08T11:00:00+00:00,"FOMC statement — coordinated rate cut (Oct 8, 2008)",US,high,confirmed,FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/20081008a.htm,Для межвременной точки importance=high.
+2008-10-08T11:00:00+00:00,"Unscheduled coordinated rate cut (Oct 8, 2008)",US,high,confirmed,FOMC,https://www.federalreserve.gov/monetarypolicy/20081008a.htm,Координированное снижение ставки.
+2008-10-15T09:00:00+00:00,HICP final — September 2008,EA,high,confirmed,HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Final обычно в середине следующего месяца, 11:00."
+2008-10-15T12:30:00+00:00,Advance Retail Sales — Sep 2008,US,high,confirmed,RETAIL_SALES,https://www.census.gov/retail/marts/,Census MARTS 08:30 ET.
+2008-10-15T12:30:00+00:00,PPI — Oct 2008,US,high,confirmed,PPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-10-16T12:30:00+00:00,CPI — Oct 2008,US,high,confirmed,CPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-10-29T18:15:00+00:00,"FOMC statement (October 28-29, 2008)",US,medium,confirmed,FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Statement публикуется вместе с решением.
+2008-10-29T18:15:00+00:00,"FOMC — rate decision (October 28-29, 2008)",US,high,confirmed,FOMC,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Обычный слот 14:15 ET.
+2008-10-30T12:30:00+00:00,GDP — Q3 2008 (Advance),US,high,confirmed,GDP_ADV,https://www.bea.gov/,BEA 08:30 ET.
+2008-10-31T10:00:00+00:00,HICP flash — October 2008,EA,high,confirmed,HICP_FLASH,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,Евроиндикаторы; слот 11:00 Люксембург (CET/CEST).
+2008-10-31T12:30:00+00:00,Personal Income & Outlays — Sep 2008,US,high,confirmed,PCE,https://www.bea.gov/news/,BEA 08:30 ET.
+2008-11-03T09:00:00+00:00,Eurozone Manufacturing PMI (final) — November 2008,EA,medium,confirmed,PMI_MFG_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 1-й рабочий день; релиз 09:00 UTC.
+2008-11-03T09:30:00+00:00,UK S&P Global/CIPS Manufacturing PMI — Nov 2008,UK,medium,confirmed,PMI_MFG,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 1-й рабочий день, 09:30."
+2008-11-03T10:00:00+00:00,Euro area Unemployment rate — September 2008,EA,high,confirmed,URATE,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Правило: M+2, 1-й рабочий день, 11:00."
+2008-11-03T15:00:00+00:00,ISM Manufacturing PMI — Nov 2008,US,medium,confirmed,ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"1-й рабочий день, 10:00 ET."
+2008-11-04T09:30:00+00:00,UK S&P Global/CIPS Construction PMI — Nov 2008,UK,medium,confirmed,PMI_CONS,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Обычно 2-й рабочий день, 09:30."
+2008-11-05T09:00:00+00:00,Eurozone Composite PMI (final) — November 2008,EA,medium,confirmed,PMI_COMP_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-11-05T09:00:00+00:00,Eurozone Services PMI (final) — November 2008,EA,medium,confirmed,PMI_SERV_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-11-05T09:30:00+00:00,UK S&P Global/CIPS Composite PMI — Nov 2008,UK,medium,confirmed,PMI_COMP,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-11-05T09:30:00+00:00,UK S&P Global/CIPS Services PMI — Nov 2008,UK,medium,confirmed,PMI_SERV,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-11-05T15:00:00+00:00,ISM Non-Manufacturing PMI — Nov 2008,US,medium,confirmed,ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"3-й рабочий день, 10:00 ET."
+2008-11-06T12:00:00+00:00,BoE — решение по ставке (MPC),UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/news/2007/september/mpc-dates-for-2008,Стандартное время 12:00 по Лондону.
+2008-11-06T12:45:00+00:00,ECB Governing Council — решение по ставке,EA,high,confirmed,ECB,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный слот решения 13:45 CET/CEST.
+2008-11-06T13:30:00+00:00,ECB пресс‑конференция (Introductory statement + Q&A),EA,high,confirmed,ECB_PC,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный старт пресс‑конф. 14:30 CET/CEST.
+2008-11-07T13:30:00+00:00,Employment Situation — Oct 2008,US,high,confirmed,NFP,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-11-12T10:30:00+00:00,BoE — пресс-конференция по Inflation Report,UK,medium,confirmed,BOE_PC,https://www.bankofengland.co.uk/inflation-report/2008/november-2008,IR day; исторически ~10:30 по Лондону.
+2008-11-13T08:00:00+00:00,ECB Central Banking Conference — The Euro at ten (Day 1),EA,high,confirmed,ECB_CONF,https://www.ecb.europa.eu/press/conferences/html/cbc5.en.html,Франкфурт-на-Майне.
+2008-11-14T08:00:00+00:00,ECB Central Banking Conference — The Euro at ten (Day 2),EA,high,confirmed,ECB_CONF,https://www.ecb.europa.eu/press/conferences/html/cbc5.en.html,Франкфурт-на-Майне.
+2008-11-14T13:30:00+00:00,Advance Retail Sales — Oct 2008,US,high,confirmed,RETAIL_SALES,https://www.census.gov/retail/marts/,Census MARTS 08:30 ET.
+2008-11-17T10:00:00+00:00,HICP final — October 2008,EA,high,confirmed,HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Final обычно в середине следующего месяца, 11:00."
+2008-11-18T13:30:00+00:00,PPI — Nov 2008,US,high,confirmed,PPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-11-19T13:30:00+00:00,CPI — Nov 2008,US,high,confirmed,CPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-11-19T19:00:00+00:00,"FOMC minutes — Minutes — Oct 28-29, 2008",US,medium,confirmed,FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Минуты в 14:00 ET.
+2008-11-25T13:30:00+00:00,GDP — Q3 2008 (Second),US,high,confirmed,GDP_PREL,https://www.bea.gov/,BEA 08:30 ET.
+2008-11-26T13:30:00+00:00,Personal Income & Outlays — Oct 2008,US,high,confirmed,PCE,https://www.bea.gov/news/,BEA 08:30 ET.
+2008-11-28T10:00:00+00:00,HICP flash — November 2008,EA,high,confirmed,HICP_FLASH,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,Евроиндикаторы; слот 11:00 Люксембург (CET/CEST).
+2008-12-01T09:00:00+00:00,Eurozone Manufacturing PMI (final) — December 2008,EA,medium,confirmed,PMI_MFG_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 1-й рабочий день; релиз 09:00 UTC.
+2008-12-01T09:30:00+00:00,UK S&P Global/CIPS Manufacturing PMI — Dec 2008,UK,medium,confirmed,PMI_MFG,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 1-й рабочий день, 09:30."
+2008-12-01T10:00:00+00:00,Euro area Unemployment rate — October 2008,EA,high,confirmed,URATE,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Правило: M+2, 1-й рабочий день, 11:00."
+2008-12-01T15:00:00+00:00,ISM Manufacturing PMI — Dec 2008,US,medium,confirmed,ISM_MFG,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"1-й рабочий день, 10:00 ET."
+2008-12-02T09:30:00+00:00,UK S&P Global/CIPS Construction PMI — Dec 2008,UK,medium,confirmed,PMI_CONS,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Обычно 2-й рабочий день, 09:30."
+2008-12-03T09:00:00+00:00,Eurozone Composite PMI (final) — December 2008,EA,medium,confirmed,PMI_COMP_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-12-03T09:00:00+00:00,Eurozone Services PMI (final) — December 2008,EA,medium,confirmed,PMI_SERV_FINAL,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,Правило: 3-й рабочий день; релиз 09:00 UTC.
+2008-12-03T09:30:00+00:00,UK S&P Global/CIPS Composite PMI — Dec 2008,UK,medium,confirmed,PMI_COMP,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-12-03T09:30:00+00:00,UK S&P Global/CIPS Services PMI — Dec 2008,UK,medium,confirmed,PMI_SERV,https://www.pmi.spglobal.com/Public/Release/ReleaseDates,"Стандарт: 3-й рабочий день, 09:30."
+2008-12-03T15:00:00+00:00,ISM Non-Manufacturing PMI — Dec 2008,US,medium,confirmed,ISM_SERV,https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/,"3-й рабочий день, 10:00 ET."
+2008-12-04T12:00:00+00:00,BoE — решение по ставке (MPC),UK,medium,confirmed,BOE_RATE,https://www.bankofengland.co.uk/news/2007/september/mpc-dates-for-2008,Стандартное время 12:00 по Лондону.
+2008-12-04T12:45:00+00:00,ECB Governing Council — решение по ставке,EA,high,confirmed,ECB,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный слот решения 13:45 CET/CEST.
+2008-12-04T13:30:00+00:00,ECB пресс‑конференция (Introductory statement + Q&A),EA,high,confirmed,ECB_PC,https://www.ecb.europa.eu/press/pr/date/2007/html/pr070330.en.html,Стандартный старт пресс‑конф. 14:30 CET/CEST.
+2008-12-05T13:30:00+00:00,Employment Situation — Nov 2008,US,high,confirmed,NFP,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-12-11T07:30:00+00:00,SNB — Monetary policy assessment (rate decision),CH,medium,confirmed,SNB_RATE,https://www.snb.ch/public/publication/en/www-snb-ch/publications/communication/press-releases/2008/pre_20081211/0_en/pre_20081211.en.pdf,Пресс-релиз + новостная конференция в день MPA.
+2008-12-11T08:30:00+00:00,SNB — пресс-конференция по денежно-кредитной политике,CH,medium,confirmed,SNB_PC,https://www.snb.ch/en/services-events/digital-services/webtv,Обычно сразу после публикации решения.
+2008-12-12T13:30:00+00:00,Advance Retail Sales — Nov 2008,US,high,confirmed,RETAIL_SALES,https://www.census.gov/retail/marts/,Census MARTS 08:30 ET.
+2008-12-12T13:30:00+00:00,PPI — Dec 2008,US,high,confirmed,PPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-12-15T10:00:00+00:00,HICP final — November 2008,EA,high,confirmed,HICP_FINAL,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,"Final обычно в середине следующего месяца, 11:00."
+2008-12-16T13:30:00+00:00,CPI — Dec 2008,US,high,confirmed,CPI,https://www.bls.gov/schedule/2008/home.htm,BLS 08:30 ET.
+2008-12-16T19:15:00+00:00,"FOMC statement (December 15-16, 2008)",US,medium,confirmed,FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Statement публикуется вместе с решением.
+2008-12-16T19:15:00+00:00,"FOMC — rate decision (December 15-16, 2008)",US,high,confirmed,FOMC,https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm,Обычный слот 14:15 ET.
+2008-12-23T13:30:00+00:00,GDP — Q3 2008 (Third),US,high,confirmed,GDP_FINAL,https://www.bea.gov/,BEA 08:30 ET.
+2008-12-24T13:30:00+00:00,Personal Income & Outlays — Nov 2008,US,high,confirmed,PCE,https://www.bea.gov/news/,BEA 08:30 ET.
+2008-12-31T10:00:00+00:00,HICP flash — December 2008,EA,high,confirmed,HICP_FLASH,https://ec.europa.eu/eurostat/web/main/news/euro-indicators/release-calendar,Евроиндикаторы; слот 11:00 Люксембург (CET/CEST).

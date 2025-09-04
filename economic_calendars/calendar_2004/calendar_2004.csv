@@ -1,0 +1,279 @@
+datetime_utc,event,country,impact,certainty,ticker,source_url,notes
+2004-01-01T09:00:00+00:00,Eurozone Manufacturing PMI — January 2004,EA,medium,confirmed,EA:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 1st business day 10:00 CET/CEST.
+2004-01-01T09:30:00+00:00,UK Manufacturing PMI — January 2004,UK,medium,confirmed,UK:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,1st business day 09:30 London.
+2004-01-01T12:00:00+00:00,BoE MPC Rate Decision,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes,Decision at 12:00 London (confirmed schedule rule).
+2004-01-01T12:45:00+00:00,ECB Governing Council Monetary Policy Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pr/date/2004/html/index.en.html,Official ECB policy meeting; decisions published at 13:45 CET/CEST.
+2004-01-01T13:30:00+00:00,ECB Press Conference (Introductory statement & Q&A),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2004/html/index.en.html,Official ECB press conference following decision; ~14:30 CET/CEST.
+2004-01-02T09:30:00+00:00,UK Construction PMI — January 2004,UK,medium,confirmed,UK:PMI_CONS,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,2nd business day 09:30 London.
+2004-01-02T15:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,US_ISM_MAN_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/,Released at 10:00 ET per ISM rule: first business day of month.
+2004-01-05T09:00:00+00:00,Eurozone Composite PMI — January 2004,EA,medium,confirmed,EA:PMI_COMP,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-01-05T09:00:00+00:00,Eurozone Services PMI — January 2004,EA,medium,confirmed,EA:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-01-05T09:30:00+00:00,UK Services PMI — January 2004,UK,medium,confirmed,UK:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,3rd business day 09:30 London.
+2004-01-06T15:00:00+00:00,ISM Non-Manufacturing (Services) PMI,US,high,confirmed,US_ISM_SERV_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/,Released at 10:00 ET per ISM rule: third business day of month.
+2004-01-09T13:30:00+00:00,Employment Situation — 2004-01-09,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2004/home.htm,BLS Employment Situation (Nonfarm Payrolls) at 08:30 ET.
+2004-01-14T13:30:00+00:00,US PPI — December 2003,US,high,confirmed,US:PPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-01-15T13:30:00+00:00,US CPI — December 2003,US,high,confirmed,US:CPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-01-16T10:00:00+00:00,Euro area HICP (final),EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-01-28T19:15:00+00:00,"FOMC Rate Decision — Jan 27–28, 2004",US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Decision time ~14:15 ET (historical convention).
+2004-01-28T19:15:00+00:00,"FOMC Statement — Jan 27–28, 2004",US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Statement posted at policy announcement time (~14:15 ET).
+2004-01-30T10:00:00+00:00,Euro area HICP (flash),EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/eurostat/news/release-calendar,Rule: last business day of month at 11:00 Brussels.
+2004-01-30T10:00:00+00:00,Euro area Unemployment rate,EA,high,confirmed,EA:UNEMP_RATE,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-01-30T13:30:00+00:00,GDP (Advance) — 2003 Q4,US,high,confirmed,US:GDP_ADV,https://www.bea.gov/news/2004/gross-domestic-product-fourth-quarter-2003-advance-estimates,BEA release at 08:30 ET.
+2004-02-02T09:00:00+00:00,Eurozone Manufacturing PMI — February 2004,EA,medium,confirmed,EA:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 1st business day 10:00 CET/CEST.
+2004-02-02T09:30:00+00:00,UK Manufacturing PMI — February 2004,UK,medium,confirmed,UK:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,1st business day 09:30 London.
+2004-02-02T13:30:00+00:00,US Personal Income & Outlays — December 2003,US,high,confirmed,US:PCE,https://www.bea.gov/news/2004/personal-income-and-outlays-december-2003,nan
+2004-02-02T15:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,US_ISM_MAN_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/,Released at 10:00 ET per ISM rule: first business day of month.
+2004-02-03T09:30:00+00:00,UK Construction PMI — February 2004,UK,medium,confirmed,UK:PMI_CONS,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,2nd business day 09:30 London.
+2004-02-04T09:00:00+00:00,Eurozone Composite PMI — February 2004,EA,medium,confirmed,EA:PMI_COMP,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-02-04T09:00:00+00:00,Eurozone Services PMI — February 2004,EA,medium,confirmed,EA:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-02-04T09:30:00+00:00,UK Services PMI — February 2004,UK,medium,confirmed,UK:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,3rd business day 09:30 London.
+2004-02-04T15:00:00+00:00,ISM Non-Manufacturing (Services) PMI,US,high,confirmed,US_ISM_SERV_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/,Released at 10:00 ET per ISM rule: third business day of month.
+2004-02-05T10:30:00+00:00,BoE Inflation Report Press Conference,UK,medium,confirmed,UK:BOE_CONF,https://www.bankofengland.co.uk/monetary-policy-report,Quarterly IR press conference ~10:30 London.
+2004-02-05T12:00:00+00:00,BoE MPC Rate Decision,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes,Decision at 12:00 London (confirmed schedule rule).
+2004-02-05T12:45:00+00:00,ECB Governing Council Monetary Policy Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pr/date/2004/html/index.en.html,Official ECB policy meeting; decisions published at 13:45 CET/CEST.
+2004-02-05T13:30:00+00:00,ECB Press Conference (Introductory statement & Q&A),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2004/html/index.en.html,Official ECB press conference following decision; ~14:30 CET/CEST.
+2004-02-06T13:30:00+00:00,Employment Situation — 2004-02-06,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2004/home.htm,BLS Employment Situation (Nonfarm Payrolls) at 08:30 ET.
+2004-02-12T13:30:00+00:00,Advance Retail Sales (January 2004),US,high,confirmed,US_RETAIL_ADV,https://www2.census.gov/marts/adv0401.pdf,FOR WIRE TRANSMISSION 8:30 A.M. ET per release PDF header.
+2004-02-16T10:00:00+00:00,Euro area HICP (final),EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-02-20T13:30:00+00:00,US CPI — January 2004,US,high,confirmed,US:CPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-02-27T10:00:00+00:00,Euro area GDP (final) — 2003Q4,EA,high,confirmed,EA:GDP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Rule: month-end business day at 11:00 Brussels.
+2004-02-27T10:00:00+00:00,Euro area HICP (flash),EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/eurostat/news/release-calendar,Rule: last business day of month at 11:00 Brussels.
+2004-02-27T10:00:00+00:00,Euro area Unemployment rate,EA,high,confirmed,EA:UNEMP_RATE,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-02-27T13:30:00+00:00,GDP (Preliminary/Second) — 2003 Q4,US,high,confirmed,US:GDP_SEC,https://www.bea.gov/news/2004/gross-domestic-product-fourth-quarter-2003-preliminary-estimates,BEA release at 08:30 ET.
+2004-03-01T09:00:00+00:00,Eurozone Manufacturing PMI — March 2004,EA,medium,confirmed,EA:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 1st business day 10:00 CET/CEST.
+2004-03-01T09:30:00+00:00,UK Manufacturing PMI — March 2004,UK,medium,confirmed,UK:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,1st business day 09:30 London.
+2004-03-01T13:30:00+00:00,US Personal Income & Outlays — January 2004,US,high,confirmed,US:PCE,https://www.bea.gov/news/2004/personal-income-and-outlays-january-2004,nan
+2004-03-01T15:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,US_ISM_MAN_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/,Released at 10:00 ET per ISM rule: first business day of month.
+2004-03-02T09:30:00+00:00,UK Construction PMI — March 2004,UK,medium,confirmed,UK:PMI_CONS,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,2nd business day 09:30 London.
+2004-03-03T09:00:00+00:00,Eurozone Composite PMI — March 2004,EA,medium,confirmed,EA:PMI_COMP,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-03-03T09:00:00+00:00,Eurozone Services PMI — March 2004,EA,medium,confirmed,EA:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-03-03T09:30:00+00:00,UK Services PMI — March 2004,UK,medium,confirmed,UK:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,3rd business day 09:30 London.
+2004-03-03T15:00:00+00:00,ISM Non-Manufacturing (Services) PMI,US,high,confirmed,US_ISM_SERV_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/,Released at 10:00 ET per ISM rule: third business day of month.
+2004-03-04T12:00:00+00:00,BoE MPC Rate Decision,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes,Decision at 12:00 London (confirmed schedule rule).
+2004-03-04T12:45:00+00:00,ECB Governing Council Monetary Policy Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pr/date/2004/html/index.en.html,Official ECB policy meeting; decisions published at 13:45 CET/CEST.
+2004-03-04T13:30:00+00:00,ECB Press Conference (Introductory statement & Q&A),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2004/html/index.en.html,Official ECB press conference following decision; ~14:30 CET/CEST.
+2004-03-05T13:30:00+00:00,Employment Situation — 2004-03-05,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2004/home.htm,BLS Employment Situation (Nonfarm Payrolls) at 08:30 ET.
+2004-03-11T13:30:00+00:00,Advance Retail Sales (February 2004),US,high,confirmed,US_RETAIL_ADV,https://www2.census.gov/marts/adv0402.pdf,FOR WIRE TRANSMISSION 8:30 A.M. ET per release PDF header.
+2004-03-16T10:00:00+00:00,Euro area HICP (final),EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-03-16T19:15:00+00:00,"FOMC Rate Decision — Mar 16, 2004",US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Decision time ~14:15 ET (historical convention).
+2004-03-16T19:15:00+00:00,"FOMC Statement — Mar 16, 2004",US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Statement posted at policy announcement time (~14:15 ET).
+2004-03-17T13:30:00+00:00,US CPI — February 2004,US,high,confirmed,US:CPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-03-18T07:30:00+00:00,SNB Monetary Policy Decision,CH,medium,confirmed,CH:SNB_RATE,https://www.snb.ch/en/publications/monetary-policy-assessment,Quarterly decision ~08:30 Zurich.
+2004-03-18T09:00:00+00:00,SNB Press Conference,CH,medium,confirmed,CH:SNB_CONF,https://www.snb.ch/en/publications/monetary-policy-assessment,Press conference ~10:00 Zurich.
+2004-03-18T13:30:00+00:00,US PPI — January 2004,US,high,confirmed,US:PPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,Delayed from 2004-02-19 → 2004-03-18
+2004-03-18T19:00:00+00:00,"Minutes of Jan 27–28, 2004 FOMC meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Fed minutes typically released 14:00 ET.
+2004-03-25T13:30:00+00:00,GDP (Final) — 2003 Q4,US,high,confirmed,US:GDP_FIN,https://www.bea.gov/news/2004/gross-domestic-product-and-corporate-profits-fourth-quarter-2003-final-estimates,BEA release at 08:30 ET.
+2004-03-26T13:30:00+00:00,US Personal Income & Outlays — February 2004,US,high,confirmed,US:PCE,https://www.bea.gov/news/2004/personal-income-and-outlays-february-2004,nan
+2004-03-31T09:00:00+00:00,Euro area HICP (flash),EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/eurostat/news/release-calendar,Rule: last business day of month at 11:00 Brussels.
+2004-03-31T09:00:00+00:00,Euro area Unemployment rate,EA,high,confirmed,EA:UNEMP_RATE,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-04-01T08:00:00+00:00,Eurozone Manufacturing PMI — April 2004,EA,medium,confirmed,EA:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 1st business day 10:00 CET/CEST.
+2004-04-01T08:30:00+00:00,UK Manufacturing PMI — April 2004,UK,medium,confirmed,UK:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,1st business day 09:30 London.
+2004-04-01T11:00:00+00:00,BoE MPC Rate Decision,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes,Decision at 12:00 London (confirmed schedule rule).
+2004-04-01T11:45:00+00:00,ECB Governing Council Monetary Policy Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pr/date/2004/html/index.en.html,Official ECB policy meeting; decisions published at 13:45 CET/CEST.
+2004-04-01T12:30:00+00:00,ECB Press Conference (Introductory statement & Q&A),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2004/html/index.en.html,Official ECB press conference following decision; ~14:30 CET/CEST.
+2004-04-01T13:30:00+00:00,US PPI — February 2004,US,high,confirmed,US:PPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,Delayed from 2004-03-12 → 2004-04-01
+2004-04-01T15:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,US_ISM_MAN_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/,Released at 10:00 ET per ISM rule: first business day of month.
+2004-04-02T08:30:00+00:00,UK Construction PMI — April 2004,UK,medium,confirmed,UK:PMI_CONS,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,2nd business day 09:30 London.
+2004-04-02T13:30:00+00:00,Employment Situation — 2004-04-02,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2004/home.htm,BLS Employment Situation (Nonfarm Payrolls) at 08:30 ET.
+2004-04-05T08:00:00+00:00,Eurozone Composite PMI — April 2004,EA,medium,confirmed,EA:PMI_COMP,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-04-05T08:00:00+00:00,Eurozone Services PMI — April 2004,EA,medium,confirmed,EA:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-04-05T08:30:00+00:00,UK Services PMI — April 2004,UK,medium,confirmed,UK:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,3rd business day 09:30 London.
+2004-04-05T14:00:00+00:00,ISM Non-Manufacturing (Services) PMI,US,high,confirmed,US_ISM_SERV_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/,Released at 10:00 ET per ISM rule: third business day of month.
+2004-04-13T12:30:00+00:00,Advance Retail Sales (March 2004),US,high,confirmed,US_RETAIL_ADV,https://www2.census.gov/marts/adv0403.pdf,FOR WIRE TRANSMISSION 8:30 A.M. ET per release PDF header.
+2004-04-14T12:30:00+00:00,US CPI — March 2004,US,high,confirmed,US:CPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-04-16T09:00:00+00:00,Euro area HICP (final),EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-04-22T12:30:00+00:00,US PPI — March 2004,US,high,confirmed,US:PPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,Delayed from 2004-04-08 → 2004-04-22
+2004-04-29T12:30:00+00:00,GDP (Advance) — 2004 Q1,US,high,confirmed,US:GDP_ADV,https://www.bea.gov/news/2004/gross-domestic-product-first-quarter-2004-advance-estimates,BEA release at 08:30 ET.
+2004-04-30T09:00:00+00:00,Euro area HICP (flash),EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/eurostat/news/release-calendar,Rule: last business day of month at 11:00 Brussels.
+2004-04-30T09:00:00+00:00,Euro area Unemployment rate,EA,high,confirmed,EA:UNEMP_RATE,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-04-30T12:30:00+00:00,US Personal Income & Outlays — March 2004,US,high,confirmed,US:PCE,https://www.bea.gov/news/2004/personal-income-and-outlays-march-2004,nan
+2004-05-03T08:00:00+00:00,Eurozone Manufacturing PMI — May 2004,EA,medium,confirmed,EA:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 1st business day 10:00 CET/CEST.
+2004-05-03T08:30:00+00:00,UK Manufacturing PMI — May 2004,UK,medium,confirmed,UK:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,1st business day 09:30 London.
+2004-05-03T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,US_ISM_MAN_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/,Released at 10:00 ET per ISM rule: first business day of month.
+2004-05-04T08:30:00+00:00,UK Construction PMI — May 2004,UK,medium,confirmed,UK:PMI_CONS,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,2nd business day 09:30 London.
+2004-05-04T18:15:00+00:00,"FOMC Rate Decision — May 4, 2004",US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Decision time ~14:15 ET (historical convention).
+2004-05-04T18:15:00+00:00,"FOMC Statement — May 4, 2004",US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Statement posted at policy announcement time (~14:15 ET).
+2004-05-05T08:00:00+00:00,Eurozone Composite PMI — May 2004,EA,medium,confirmed,EA:PMI_COMP,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-05-05T08:00:00+00:00,Eurozone Services PMI — May 2004,EA,medium,confirmed,EA:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-05-05T08:30:00+00:00,UK Services PMI — May 2004,UK,medium,confirmed,UK:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,3rd business day 09:30 London.
+2004-05-05T14:00:00+00:00,ISM Non-Manufacturing (Services) PMI,US,high,confirmed,US_ISM_SERV_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/,Released at 10:00 ET per ISM rule: third business day of month.
+2004-05-06T09:30:00+00:00,BoE Inflation Report Press Conference,UK,medium,confirmed,UK:BOE_CONF,https://www.bankofengland.co.uk/monetary-policy-report,Quarterly IR press conference ~10:30 London.
+2004-05-06T11:00:00+00:00,BoE MPC Rate Decision,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes,Decision at 12:00 London (confirmed schedule rule).
+2004-05-06T11:45:00+00:00,ECB Governing Council Monetary Policy Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pr/date/2004/html/index.en.html,Official ECB policy meeting; decisions published at 13:45 CET/CEST.
+2004-05-06T12:30:00+00:00,ECB Press Conference (Introductory statement & Q&A),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2004/html/index.en.html,Official ECB press conference following decision; ~14:30 CET/CEST.
+2004-05-06T18:00:00+00:00,"Minutes of Mar 16, 2004 FOMC meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Fed minutes typically released 14:00 ET.
+2004-05-07T12:30:00+00:00,Employment Situation — 2004-05-07,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2004/home.htm,BLS Employment Situation (Nonfarm Payrolls) at 08:30 ET.
+2004-05-13T12:30:00+00:00,Advance Retail Sales (April 2004),US,high,confirmed,US_RETAIL_ADV,https://www2.census.gov/marts/adv0404.pdf,FOR WIRE TRANSMISSION 8:30 A.M. ET per release PDF header.
+2004-05-13T12:30:00+00:00,US PPI — April 2004,US,high,confirmed,US:PPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-05-14T12:30:00+00:00,US CPI — April 2004,US,high,confirmed,US:CPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-05-17T09:00:00+00:00,Euro area HICP (final),EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-05-27T12:30:00+00:00,GDP (Preliminary/Second) — 2004 Q1,US,high,confirmed,US:GDP_SEC,https://www.bea.gov/sites/default/files/2019-04/gdp104p.pdf,BEA release at 08:30 ET.
+2004-05-28T12:30:00+00:00,US Personal Income & Outlays — April 2004,US,high,confirmed,US:PCE,https://www.bea.gov/news/2004/personal-income-april-2004,nan
+2004-05-31T09:00:00+00:00,Euro area GDP (final) — 2004Q1,EA,high,confirmed,EA:GDP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Rule: month-end business day at 11:00 Brussels.
+2004-05-31T09:00:00+00:00,Euro area HICP (flash),EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/eurostat/news/release-calendar,Rule: last business day of month at 11:00 Brussels.
+2004-05-31T09:00:00+00:00,Euro area Unemployment rate,EA,high,confirmed,EA:UNEMP_RATE,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-06-01T08:00:00+00:00,Eurozone Manufacturing PMI — June 2004,EA,medium,confirmed,EA:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 1st business day 10:00 CET/CEST.
+2004-06-01T08:30:00+00:00,UK Manufacturing PMI — June 2004,UK,medium,confirmed,UK:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,1st business day 09:30 London.
+2004-06-01T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,US_ISM_MAN_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/,Released at 10:00 ET per ISM rule: first business day of month.
+2004-06-02T08:30:00+00:00,UK Construction PMI — June 2004,UK,medium,confirmed,UK:PMI_CONS,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,2nd business day 09:30 London.
+2004-06-03T08:00:00+00:00,Eurozone Composite PMI — June 2004,EA,medium,confirmed,EA:PMI_COMP,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-06-03T08:00:00+00:00,Eurozone Services PMI — June 2004,EA,medium,confirmed,EA:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-06-03T08:30:00+00:00,UK Services PMI — June 2004,UK,medium,confirmed,UK:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,3rd business day 09:30 London.
+2004-06-03T11:00:00+00:00,BoE MPC Rate Decision,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes,Decision at 12:00 London (confirmed schedule rule).
+2004-06-03T11:45:00+00:00,ECB Governing Council Monetary Policy Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pr/date/2004/html/index.en.html,Official ECB policy meeting; decisions published at 13:45 CET/CEST.
+2004-06-03T12:30:00+00:00,ECB Press Conference (Introductory statement & Q&A),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2004/html/index.en.html,Official ECB press conference following decision; ~14:30 CET/CEST.
+2004-06-03T14:00:00+00:00,ISM Non-Manufacturing (Services) PMI,US,high,confirmed,US_ISM_SERV_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/,Released at 10:00 ET per ISM rule: third business day of month.
+2004-06-04T12:30:00+00:00,Employment Situation — 2004-06-04,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2004/home.htm,BLS Employment Situation (Nonfarm Payrolls) at 08:30 ET.
+2004-06-14T12:30:00+00:00,Advance Retail Sales (May 2004),US,high,confirmed,US_RETAIL_ADV,https://www2.census.gov/marts/adv0405.pdf,FOR WIRE TRANSMISSION 8:30 A.M. ET per release PDF header.
+2004-06-15T12:30:00+00:00,US CPI — May 2004,US,high,confirmed,US:CPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-06-16T09:00:00+00:00,Euro area HICP (final),EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-06-17T06:30:00+00:00,SNB Monetary Policy Decision,CH,medium,confirmed,CH:SNB_RATE,https://www.snb.ch/en/publications/monetary-policy-assessment,Quarterly decision ~08:30 Zurich.
+2004-06-17T08:00:00+00:00,SNB Press Conference,CH,medium,confirmed,CH:SNB_CONF,https://www.snb.ch/en/publications/monetary-policy-assessment,Press conference ~10:00 Zurich.
+2004-06-17T12:30:00+00:00,US PPI — May 2004,US,high,confirmed,US:PPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,Delayed from 2004-06-11 → 2004-06-17
+2004-06-25T12:30:00+00:00,GDP (Final) — 2004 Q1,US,high,confirmed,US:GDP_FIN,https://www.bea.gov/news/2004/gross-domestic-product-and-corporate-profits-first-quarter-2004-final-estimates,BEA release at 08:30 ET.
+2004-06-28T12:30:00+00:00,US Personal Income & Outlays — May 2004,US,high,confirmed,US:PCE,https://www.bea.gov/news/2004/personal-income-may-2004,nan
+2004-06-30T09:00:00+00:00,Euro area HICP (flash),EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/eurostat/news/release-calendar,Rule: last business day of month at 11:00 Brussels.
+2004-06-30T09:00:00+00:00,Euro area Unemployment rate,EA,high,confirmed,EA:UNEMP_RATE,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-06-30T18:15:00+00:00,"FOMC Rate Decision — Jun 29–30, 2004",US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Decision time ~14:15 ET (historical convention).
+2004-06-30T18:15:00+00:00,"FOMC Statement — Jun 29–30, 2004",US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Statement posted at policy announcement time (~14:15 ET).
+2004-07-01T08:00:00+00:00,Eurozone Manufacturing PMI — July 2004,EA,medium,confirmed,EA:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 1st business day 10:00 CET/CEST.
+2004-07-01T08:30:00+00:00,UK Manufacturing PMI — July 2004,UK,medium,confirmed,UK:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,1st business day 09:30 London.
+2004-07-01T11:00:00+00:00,BoE MPC Rate Decision,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes,Decision at 12:00 London (confirmed schedule rule).
+2004-07-01T11:45:00+00:00,ECB Governing Council Monetary Policy Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pr/date/2004/html/index.en.html,Official ECB policy meeting; decisions published at 13:45 CET/CEST.
+2004-07-01T12:30:00+00:00,ECB Press Conference (Introductory statement & Q&A),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2004/html/index.en.html,Official ECB press conference following decision; ~14:30 CET/CEST.
+2004-07-01T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,US_ISM_MAN_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/,Released at 10:00 ET per ISM rule: first business day of month.
+2004-07-01T18:00:00+00:00,"Minutes of May 4, 2004 FOMC meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Fed minutes typically released 14:00 ET.
+2004-07-02T08:30:00+00:00,UK Construction PMI — July 2004,UK,medium,confirmed,UK:PMI_CONS,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,2nd business day 09:30 London.
+2004-07-02T12:30:00+00:00,Employment Situation — 2004-07-02,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2004/home.htm,BLS Employment Situation (Nonfarm Payrolls) at 08:30 ET.
+2004-07-05T08:00:00+00:00,Eurozone Composite PMI — July 2004,EA,medium,confirmed,EA:PMI_COMP,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-07-05T08:00:00+00:00,Eurozone Services PMI — July 2004,EA,medium,confirmed,EA:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-07-05T08:30:00+00:00,UK Services PMI — July 2004,UK,medium,confirmed,UK:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,3rd business day 09:30 London.
+2004-07-06T14:00:00+00:00,ISM Non-Manufacturing (Services) PMI,US,high,confirmed,US_ISM_SERV_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/,Released at 10:00 ET per ISM rule: third business day of month.
+2004-07-14T12:30:00+00:00,Advance Retail Sales (June 2004),US,high,confirmed,US_RETAIL_ADV,https://www2.census.gov/marts/adv0406.pdf,FOR WIRE TRANSMISSION 8:30 A.M. ET per release PDF header.
+2004-07-15T12:30:00+00:00,US PPI — June 2004,US,high,confirmed,US:PPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-07-16T09:00:00+00:00,Euro area HICP (final),EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-07-16T12:30:00+00:00,US CPI — June 2004,US,high,confirmed,US:CPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-07-30T09:00:00+00:00,Euro area HICP (flash),EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/eurostat/news/release-calendar,Rule: last business day of month at 11:00 Brussels.
+2004-07-30T09:00:00+00:00,Euro area Unemployment rate,EA,high,confirmed,EA:UNEMP_RATE,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-07-30T12:30:00+00:00,GDP (Advance) — 2004 Q2,US,high,confirmed,US:GDP_ADV,https://www.bea.gov/news/2004/gross-domestic-product-second-quarter-2004-advance-estimates,BEA release at 08:30 ET.
+2004-08-02T08:00:00+00:00,Eurozone Manufacturing PMI — August 2004,EA,medium,confirmed,EA:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 1st business day 10:00 CET/CEST.
+2004-08-02T08:30:00+00:00,UK Manufacturing PMI — August 2004,UK,medium,confirmed,UK:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,1st business day 09:30 London.
+2004-08-02T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,US_ISM_MAN_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/,Released at 10:00 ET per ISM rule: first business day of month.
+2004-08-03T08:30:00+00:00,UK Construction PMI — August 2004,UK,medium,confirmed,UK:PMI_CONS,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,2nd business day 09:30 London.
+2004-08-03T12:30:00+00:00,US Personal Income & Outlays — June 2004 (annual revision),US,high,confirmed,US:PCE,https://www.bea.gov/news/2004/personal-income-june-2004,nan
+2004-08-04T08:00:00+00:00,Eurozone Composite PMI — August 2004,EA,medium,confirmed,EA:PMI_COMP,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-08-04T08:00:00+00:00,Eurozone Services PMI — August 2004,EA,medium,confirmed,EA:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-08-04T08:30:00+00:00,UK Services PMI — August 2004,UK,medium,confirmed,UK:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,3rd business day 09:30 London.
+2004-08-04T14:00:00+00:00,ISM Non-Manufacturing (Services) PMI,US,high,confirmed,US_ISM_SERV_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/,Released at 10:00 ET per ISM rule: third business day of month.
+2004-08-05T09:30:00+00:00,BoE Inflation Report Press Conference,UK,medium,confirmed,UK:BOE_CONF,https://www.bankofengland.co.uk/monetary-policy-report,Quarterly IR press conference ~10:30 London.
+2004-08-05T11:00:00+00:00,BoE MPC Rate Decision,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes,Decision at 12:00 London (confirmed schedule rule).
+2004-08-05T11:45:00+00:00,ECB Governing Council Monetary Policy Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pr/date/2004/html/index.en.html,Official ECB policy meeting; decisions published at 13:45 CET/CEST.
+2004-08-05T12:30:00+00:00,ECB Press Conference (Introductory statement & Q&A),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2004/html/index.en.html,Official ECB press conference following decision; ~14:30 CET/CEST.
+2004-08-06T12:30:00+00:00,Employment Situation — 2004-08-06,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2004/home.htm,BLS Employment Situation (Nonfarm Payrolls) at 08:30 ET.
+2004-08-10T18:15:00+00:00,"FOMC Rate Decision — Aug 10, 2004",US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Decision time ~14:15 ET (historical convention).
+2004-08-10T18:15:00+00:00,"FOMC Statement — Aug 10, 2004",US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Statement posted at policy announcement time (~14:15 ET).
+2004-08-12T12:30:00+00:00,Advance Retail Sales (July 2004),US,high,confirmed,US_RETAIL_ADV,https://www2.census.gov/marts/adv0407.pdf,FOR WIRE TRANSMISSION 8:30 A.M. ET per release PDF header.
+2004-08-12T18:00:00+00:00,"Minutes of Jun 29–30, 2004 FOMC meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Fed minutes typically released 14:00 ET.
+2004-08-13T12:30:00+00:00,US PPI — July 2004,US,high,confirmed,US:PPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-08-16T09:00:00+00:00,Euro area HICP (final),EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-08-17T12:30:00+00:00,US CPI — July 2004,US,high,confirmed,US:CPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-08-27T12:30:00+00:00,GDP (Preliminary/Second) — 2004 Q2,US,high,confirmed,US:GDP_SEC,https://www.bea.gov/sites/default/files/2019-04/gdp204p.pdf,BEA release at 08:30 ET.
+2004-08-30T12:30:00+00:00,US Personal Income & Outlays — July 2004,US,high,confirmed,US:PCE,https://www.bea.gov/news/2004/personal-income-july-2004,nan
+2004-08-31T09:00:00+00:00,Euro area GDP (final) — 2004Q2,EA,high,confirmed,EA:GDP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Rule: month-end business day at 11:00 Brussels.
+2004-08-31T09:00:00+00:00,Euro area HICP (flash),EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/eurostat/news/release-calendar,Rule: last business day of month at 11:00 Brussels.
+2004-08-31T09:00:00+00:00,Euro area Unemployment rate,EA,high,confirmed,EA:UNEMP_RATE,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-09-01T08:00:00+00:00,Eurozone Manufacturing PMI — September 2004,EA,medium,confirmed,EA:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 1st business day 10:00 CET/CEST.
+2004-09-01T08:30:00+00:00,UK Manufacturing PMI — September 2004,UK,medium,confirmed,UK:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,1st business day 09:30 London.
+2004-09-01T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,US_ISM_MAN_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/,Released at 10:00 ET per ISM rule: first business day of month.
+2004-09-02T08:30:00+00:00,UK Construction PMI — September 2004,UK,medium,confirmed,UK:PMI_CONS,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,2nd business day 09:30 London.
+2004-09-02T11:00:00+00:00,BoE MPC Rate Decision,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes,Decision at 12:00 London (confirmed schedule rule).
+2004-09-02T11:45:00+00:00,ECB Governing Council Monetary Policy Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pr/date/2004/html/index.en.html,Official ECB policy meeting; decisions published at 13:45 CET/CEST.
+2004-09-02T12:30:00+00:00,ECB Press Conference (Introductory statement & Q&A),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2004/html/index.en.html,Official ECB press conference following decision; ~14:30 CET/CEST.
+2004-09-03T08:00:00+00:00,Eurozone Composite PMI — September 2004,EA,medium,confirmed,EA:PMI_COMP,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-09-03T08:00:00+00:00,Eurozone Services PMI — September 2004,EA,medium,confirmed,EA:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-09-03T08:30:00+00:00,UK Services PMI — September 2004,UK,medium,confirmed,UK:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,3rd business day 09:30 London.
+2004-09-03T12:30:00+00:00,Employment Situation — 2004-09-03,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2004/home.htm,BLS Employment Situation (Nonfarm Payrolls) at 08:30 ET.
+2004-09-03T14:00:00+00:00,ISM Non-Manufacturing (Services) PMI,US,high,confirmed,US_ISM_SERV_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/,Released at 10:00 ET per ISM rule: third business day of month.
+2004-09-10T12:30:00+00:00,US PPI — August 2004,US,high,confirmed,US:PPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-09-14T12:30:00+00:00,Advance Retail Sales (August 2004),US,high,confirmed,US_RETAIL_ADV,https://www2.census.gov/marts/adv0408.pdf,FOR WIRE TRANSMISSION 8:30 A.M. ET per release PDF header.
+2004-09-16T06:30:00+00:00,SNB Monetary Policy Decision,CH,medium,confirmed,CH:SNB_RATE,https://www.snb.ch/en/publications/monetary-policy-assessment,Quarterly decision ~08:30 Zurich.
+2004-09-16T08:00:00+00:00,SNB Press Conference,CH,medium,confirmed,CH:SNB_CONF,https://www.snb.ch/en/publications/monetary-policy-assessment,Press conference ~10:00 Zurich.
+2004-09-16T09:00:00+00:00,Euro area HICP (final),EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-09-16T12:30:00+00:00,US CPI — August 2004,US,high,confirmed,US:CPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-09-21T18:15:00+00:00,"FOMC Rate Decision — Sep 21, 2004",US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Decision time ~14:15 ET (historical convention).
+2004-09-21T18:15:00+00:00,"FOMC Statement — Sep 21, 2004",US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Statement posted at policy announcement time (~14:15 ET).
+2004-09-23T18:00:00+00:00,"Minutes of Aug 10, 2004 FOMC meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Fed minutes typically released 14:00 ET.
+2004-09-29T12:30:00+00:00,GDP (Final) — 2004 Q2,US,high,confirmed,US:GDP_FIN,https://www.bea.gov/news/2004/gross-domestic-product-and-corporate-profits-second-quarter-2004-final-estimates,BEA release at 08:30 ET.
+2004-09-30T09:00:00+00:00,Euro area HICP (flash),EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/eurostat/news/release-calendar,Rule: last business day of month at 11:00 Brussels.
+2004-09-30T09:00:00+00:00,Euro area Unemployment rate,EA,high,confirmed,EA:UNEMP_RATE,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-09-30T12:30:00+00:00,US Personal Income & Outlays — August 2004,US,high,confirmed,US:PCE,https://www.bea.gov/news/2004/personal-income-august-2004,nan
+2004-10-01T08:00:00+00:00,Eurozone Manufacturing PMI — October 2004,EA,medium,confirmed,EA:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 1st business day 10:00 CET/CEST.
+2004-10-01T08:30:00+00:00,UK Manufacturing PMI — October 2004,UK,medium,confirmed,UK:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,1st business day 09:30 London.
+2004-10-01T14:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,US_ISM_MAN_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/,Released at 10:00 ET per ISM rule: first business day of month.
+2004-10-04T08:30:00+00:00,UK Construction PMI — October 2004,UK,medium,confirmed,UK:PMI_CONS,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,2nd business day 09:30 London.
+2004-10-05T08:00:00+00:00,Eurozone Composite PMI — October 2004,EA,medium,confirmed,EA:PMI_COMP,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-10-05T08:00:00+00:00,Eurozone Services PMI — October 2004,EA,medium,confirmed,EA:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-10-05T08:30:00+00:00,UK Services PMI — October 2004,UK,medium,confirmed,UK:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,3rd business day 09:30 London.
+2004-10-05T14:00:00+00:00,ISM Non-Manufacturing (Services) PMI,US,high,confirmed,US_ISM_SERV_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/,Released at 10:00 ET per ISM rule: third business day of month.
+2004-10-07T11:00:00+00:00,BoE MPC Rate Decision,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes,Decision at 12:00 London (confirmed schedule rule).
+2004-10-07T11:45:00+00:00,ECB Governing Council Monetary Policy Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pr/date/2004/html/index.en.html,Official ECB policy meeting; decisions published at 13:45 CET/CEST.
+2004-10-07T12:30:00+00:00,ECB Press Conference (Introductory statement & Q&A),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2004/html/index.en.html,Official ECB press conference following decision; ~14:30 CET/CEST.
+2004-10-08T12:30:00+00:00,Employment Situation — 2004-10-08,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2004/home.htm,BLS Employment Situation (Nonfarm Payrolls) at 08:30 ET.
+2004-10-15T12:30:00+00:00,Advance Retail Sales (September 2004),US,high,confirmed,US_RETAIL_ADV,https://www2.census.gov/marts/adv0409.pdf,FOR WIRE TRANSMISSION 8:30 A.M. ET per release PDF header.
+2004-10-15T12:30:00+00:00,US PPI — September 2004,US,high,confirmed,US:PPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-10-18T09:00:00+00:00,Euro area HICP (final),EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-10-19T12:30:00+00:00,US CPI — September 2004,US,high,confirmed,US:CPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-10-29T09:00:00+00:00,Euro area HICP (flash),EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/eurostat/news/release-calendar,Rule: last business day of month at 11:00 Brussels.
+2004-10-29T09:00:00+00:00,Euro area Unemployment rate,EA,high,confirmed,EA:UNEMP_RATE,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-10-29T12:30:00+00:00,GDP (Advance) — 2004 Q3,US,high,confirmed,US:GDP_ADV,https://www.bea.gov/news/2004/gross-domestic-product-third-quarter-2004-advance-estimates,BEA release at 08:30 ET.
+2004-11-01T09:00:00+00:00,Eurozone Manufacturing PMI — November 2004,EA,medium,confirmed,EA:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 1st business day 10:00 CET/CEST.
+2004-11-01T09:30:00+00:00,UK Manufacturing PMI — November 2004,UK,medium,confirmed,UK:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,1st business day 09:30 London.
+2004-11-01T13:30:00+00:00,US Personal Income & Outlays — September 2004,US,high,confirmed,US:PCE,https://www.bea.gov/news/2004/personal-income-september-2004,nan
+2004-11-01T15:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,US_ISM_MAN_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/,Released at 10:00 ET per ISM rule: first business day of month.
+2004-11-02T09:30:00+00:00,UK Construction PMI — November 2004,UK,medium,confirmed,UK:PMI_CONS,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,2nd business day 09:30 London.
+2004-11-03T09:00:00+00:00,Eurozone Composite PMI — November 2004,EA,medium,confirmed,EA:PMI_COMP,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-11-03T09:00:00+00:00,Eurozone Services PMI — November 2004,EA,medium,confirmed,EA:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-11-03T09:30:00+00:00,UK Services PMI — November 2004,UK,medium,confirmed,UK:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,3rd business day 09:30 London.
+2004-11-03T15:00:00+00:00,ISM Non-Manufacturing (Services) PMI,US,high,confirmed,US_ISM_SERV_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/,Released at 10:00 ET per ISM rule: third business day of month.
+2004-11-04T10:30:00+00:00,BoE Inflation Report Press Conference,UK,medium,confirmed,UK:BOE_CONF,https://www.bankofengland.co.uk/monetary-policy-report,Quarterly IR press conference ~10:30 London.
+2004-11-04T12:00:00+00:00,BoE MPC Rate Decision,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes,Decision at 12:00 London (confirmed schedule rule).
+2004-11-04T12:45:00+00:00,ECB Governing Council Monetary Policy Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pr/date/2004/html/index.en.html,Official ECB policy meeting; decisions published at 13:45 CET/CEST.
+2004-11-04T13:30:00+00:00,ECB Press Conference (Introductory statement & Q&A),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2004/html/index.en.html,Official ECB press conference following decision; ~14:30 CET/CEST.
+2004-11-05T13:30:00+00:00,Employment Situation — 2004-11-05,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2004/home.htm,BLS Employment Situation (Nonfarm Payrolls) at 08:30 ET.
+2004-11-10T19:15:00+00:00,"FOMC Rate Decision — Nov 10, 2004",US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Decision time ~14:15 ET (historical convention).
+2004-11-10T19:15:00+00:00,"FOMC Statement — Nov 10, 2004",US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Statement posted at policy announcement time (~14:15 ET).
+2004-11-11T19:00:00+00:00,"Minutes of Sep 21, 2004 FOMC meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Fed minutes typically released 14:00 ET.
+2004-11-12T13:30:00+00:00,Advance Retail Sales (October 2004),US,high,confirmed,US_RETAIL_ADV,https://www2.census.gov/historical/marts/adv0410.pdf,FOR WIRE TRANSMISSION 8:30 A.M. ET per release PDF header.
+2004-11-16T10:00:00+00:00,Euro area HICP (final),EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-11-16T13:30:00+00:00,US PPI — October 2004,US,high,confirmed,US:PPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-11-17T13:30:00+00:00,US CPI — October 2004,US,high,confirmed,US:CPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-11-30T10:00:00+00:00,Euro area GDP (final) — 2004Q3,EA,high,confirmed,EA:GDP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Rule: month-end business day at 11:00 Brussels.
+2004-11-30T10:00:00+00:00,Euro area HICP (flash),EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/eurostat/news/release-calendar,Rule: last business day of month at 11:00 Brussels.
+2004-11-30T10:00:00+00:00,Euro area Unemployment rate,EA,high,confirmed,EA:UNEMP_RATE,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-11-30T13:30:00+00:00,GDP (Preliminary/Second) — 2004 Q3,US,high,confirmed,US:GDP_SEC,https://www.bea.gov/sites/default/files/2019-04/gdp304p.pdf,BEA release at 08:30 ET.
+2004-12-01T09:00:00+00:00,Eurozone Manufacturing PMI — December 2004,EA,medium,confirmed,EA:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 1st business day 10:00 CET/CEST.
+2004-12-01T09:30:00+00:00,UK Manufacturing PMI — December 2004,UK,medium,confirmed,UK:PMI_MFG,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,1st business day 09:30 London.
+2004-12-01T13:30:00+00:00,US Personal Income & Outlays — October 2004,US,high,confirmed,US:PCE,https://www.bea.gov/news/2004/personal-income-october-2004-0,nan
+2004-12-01T15:00:00+00:00,ISM Manufacturing PMI,US,high,confirmed,US_ISM_MAN_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/,Released at 10:00 ET per ISM rule: first business day of month.
+2004-12-02T09:30:00+00:00,UK Construction PMI — December 2004,UK,medium,confirmed,UK:PMI_CONS,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,2nd business day 09:30 London.
+2004-12-02T12:00:00+00:00,BoE MPC Rate Decision,UK,medium,confirmed,UK:BOE_RATE,https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes,Decision at 12:00 London (confirmed schedule rule).
+2004-12-02T12:45:00+00:00,ECB Governing Council Monetary Policy Decision,EA,high,confirmed,EA:ECB_RATE,https://www.ecb.europa.eu/press/pr/date/2004/html/index.en.html,Official ECB policy meeting; decisions published at 13:45 CET/CEST.
+2004-12-02T13:30:00+00:00,ECB Press Conference (Introductory statement & Q&A),EA,high,confirmed,EA:ECB_CONF,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2004/html/index.en.html,Official ECB press conference following decision; ~14:30 CET/CEST.
+2004-12-03T09:00:00+00:00,Eurozone Composite PMI — December 2004,EA,medium,confirmed,EA:PMI_COMP,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-12-03T09:00:00+00:00,Eurozone Services PMI — December 2004,EA,medium,confirmed,EA:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,Rule: 3rd business day 10:00 CET/CEST.
+2004-12-03T09:30:00+00:00,UK Services PMI — December 2004,UK,medium,confirmed,UK:PMI_SERV,https://pmi.spglobal.com/Public/Release/PressReleasesCalendar,3rd business day 09:30 London.
+2004-12-03T13:30:00+00:00,Employment Situation — 2004-12-03,US,high,confirmed,US:NFP,https://www.bls.gov/schedule/2004/home.htm,BLS Employment Situation (Nonfarm Payrolls) at 08:30 ET.
+2004-12-03T15:00:00+00:00,ISM Non-Manufacturing (Services) PMI,US,high,confirmed,US_ISM_SERV_PMI,https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/,Released at 10:00 ET per ISM rule: third business day of month.
+2004-12-10T13:30:00+00:00,US PPI — November 2004,US,high,confirmed,US:PPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-12-13T13:30:00+00:00,Advance Retail Sales (November 2004),US,high,confirmed,US_RETAIL_ADV,https://www2.census.gov/marts/adv0411.pdf,FOR WIRE TRANSMISSION 8:30 A.M. ET per release PDF header.
+2004-12-14T19:15:00+00:00,"FOMC Rate Decision — Dec 14, 2004",US,high,confirmed,US:FED_RATE,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Decision time ~14:15 ET (historical convention).
+2004-12-14T19:15:00+00:00,"FOMC Statement — Dec 14, 2004",US,medium,confirmed,US:FOMC_STMT,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Statement posted at policy announcement time (~14:15 ET).
+2004-12-16T07:30:00+00:00,SNB Monetary Policy Decision,CH,medium,confirmed,CH:SNB_RATE,https://www.snb.ch/en/publications/monetary-policy-assessment,Quarterly decision ~08:30 Zurich.
+2004-12-16T09:00:00+00:00,SNB Press Conference,CH,medium,confirmed,CH:SNB_CONF,https://www.snb.ch/en/publications/monetary-policy-assessment,Press conference ~10:00 Zurich.
+2004-12-16T10:00:00+00:00,Euro area HICP (final),EA,high,confirmed,EA:HICP_FINAL,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
+2004-12-16T19:00:00+00:00,"Minutes of Nov 10, 2004 FOMC meeting",US,medium,confirmed,US:FOMC_MIN,https://www.federalreserve.gov/monetarypolicy/fomchistorical2004.htm,Fed minutes typically released 14:00 ET.
+2004-12-17T13:30:00+00:00,US CPI — November 2004,US,high,confirmed,US:CPI,https://www.bls.gov/schedule/archives/all_nr_2004.htm,nan
+2004-12-22T13:30:00+00:00,GDP (Final) — 2004 Q3,US,high,confirmed,US:GDP_FIN,https://www.bea.gov/news/2004/gross-domestic-product-and-corporate-profits-third-quarter-2004-final-estimates,BEA release at 08:30 ET.
+2004-12-23T13:30:00+00:00,US Personal Income & Outlays — November 2004,US,high,confirmed,US:PCE,https://www.bea.gov/news/2004/personal-income-november-2004,nan
+2004-12-31T10:00:00+00:00,Euro area HICP (flash),EA,high,confirmed,EA:HICP_FLASH,https://ec.europa.eu/eurostat/news/release-calendar,Rule: last business day of month at 11:00 Brussels.
+2004-12-31T10:00:00+00:00,Euro area Unemployment rate,EA,high,confirmed,EA:UNEMP_RATE,https://ec.europa.eu/eurostat/web/euro-indicators,Eurostat Euroindicators; releases at 11:00 CET/CEST.
