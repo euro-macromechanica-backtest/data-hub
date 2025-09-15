@@ -1,0 +1,37 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_NFP_2019-01-04;Employment Situation (NFP);US;America/New_York;2019-01-04T08:30;Bureau of Labor Statistics;2019-01;high;;https://www.bls.gov/schedule/2019/home.htm;2025-09-10T08:55Z
+US_FOMC_INTEREST_RATE_DECISION_2019-01-30;FOMC Interest Rate Decision;US;America/New_York;2019-01-30T14:00;Federal Reserve;2019-01;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20190130a.htm;2025-09-10T08:55Z
+US_FOMC_STATEMENT_2019-01-30;FOMC Statement;US;America/New_York;2019-01-30T14:00;Federal Reserve;2019-01;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20190130a.htm;2025-09-10T08:55Z
+US_FOMC_PRESS_CONFERENCE_2019-01-30;FOMC Press Conference;US;America/New_York;2019-01-30T14:30;Federal Reserve;2019-01;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20190130.htm;2025-09-10T08:55Z
+US_NFP_2019-02-01;Employment Situation (NFP);US;America/New_York;2019-02-01T08:30;Bureau of Labor Statistics;2019-02;high;;https://www.bls.gov/schedule/2019/home.htm;2025-09-10T08:55Z
+US_NFP_2019-03-08;Employment Situation (NFP);US;America/New_York;2019-03-08T08:30;Bureau of Labor Statistics;2019-03;high;;https://www.bls.gov/schedule/2019/home.htm;2025-09-10T08:55Z
+US_FOMC_INTEREST_RATE_DECISION_2019-03-20;FOMC Interest Rate Decision;US;America/New_York;2019-03-20T14:00;Federal Reserve;2019-03;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20190320a.htm;2025-09-10T08:55Z
+US_FOMC_STATEMENT_2019-03-20;FOMC Statement;US;America/New_York;2019-03-20T14:00;Federal Reserve;2019-03;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20190320a.htm;2025-09-10T08:55Z
+US_FOMC_PRESS_CONFERENCE_2019-03-20;FOMC Press Conference;US;America/New_York;2019-03-20T14:30;Federal Reserve;2019-03;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20190320.htm;2025-09-10T08:55Z
+US_NFP_2019-04-05;Employment Situation (NFP);US;America/New_York;2019-04-05T08:30;Bureau of Labor Statistics;2019-04;high;;https://www.bls.gov/schedule/2019/home.htm;2025-09-10T08:55Z
+US_FOMC_INTEREST_RATE_DECISION_2019-05-01;FOMC Interest Rate Decision;US;America/New_York;2019-05-01T14:00;Federal Reserve;2019-05;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20190501a.htm;2025-09-10T08:55Z
+US_FOMC_STATEMENT_2019-05-01;FOMC Statement;US;America/New_York;2019-05-01T14:00;Federal Reserve;2019-05;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20190501a.htm;2025-09-10T08:55Z
+US_FOMC_PRESS_CONFERENCE_2019-05-01;FOMC Press Conference;US;America/New_York;2019-05-01T14:30;Federal Reserve;2019-05;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20190501.htm;2025-09-10T08:55Z
+US_NFP_2019-05-03;Employment Situation (NFP);US;America/New_York;2019-05-03T08:30;Bureau of Labor Statistics;2019-05;high;;https://www.bls.gov/schedule/2019/home.htm;2025-09-10T08:55Z
+US_NFP_2019-06-07;Employment Situation (NFP);US;America/New_York;2019-06-07T08:30;Bureau of Labor Statistics;2019-06;high;;https://www.bls.gov/schedule/2019/home.htm;2025-09-10T08:55Z
+US_FOMC_INTEREST_RATE_DECISION_2019-06-19;FOMC Interest Rate Decision;US;America/New_York;2019-06-19T14:00;Federal Reserve;2019-06;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20190619a.htm;2025-09-10T08:55Z
+US_FOMC_STATEMENT_2019-06-19;FOMC Statement;US;America/New_York;2019-06-19T14:00;Federal Reserve;2019-06;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20190619a.htm;2025-09-10T08:55Z
+US_FOMC_PRESS_CONFERENCE_2019-06-19;FOMC Press Conference;US;America/New_York;2019-06-19T14:30;Federal Reserve;2019-06;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20190619.htm;2025-09-10T08:55Z
+US_NFP_2019-07-05;Employment Situation (NFP);US;America/New_York;2019-07-05T08:30;Bureau of Labor Statistics;2019-07;high;;https://www.bls.gov/schedule/2019/home.htm;2025-09-10T08:55Z
+US_FOMC_INTEREST_RATE_DECISION_2019-07-31;FOMC Interest Rate Decision;US;America/New_York;2019-07-31T14:00;Federal Reserve;2019-07;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20190731a.htm;2025-09-10T08:55Z
+US_FOMC_STATEMENT_2019-07-31;FOMC Statement;US;America/New_York;2019-07-31T14:00;Federal Reserve;2019-07;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20190731a.htm;2025-09-10T08:55Z
+US_FOMC_PRESS_CONFERENCE_2019-07-31;FOMC Press Conference;US;America/New_York;2019-07-31T14:30;Federal Reserve;2019-07;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20190731.htm;2025-09-10T08:55Z
+US_NFP_2019-08-02;Employment Situation (NFP);US;America/New_York;2019-08-02T08:30;Bureau of Labor Statistics;2019-08;high;;https://www.bls.gov/schedule/2019/home.htm;2025-09-10T08:55Z
+US_NFP_2019-09-06;Employment Situation (NFP);US;America/New_York;2019-09-06T08:30;Bureau of Labor Statistics;2019-09;high;;https://www.bls.gov/schedule/2019/home.htm;2025-09-10T08:55Z
+US_FOMC_INTEREST_RATE_DECISION_2019-09-18;FOMC Interest Rate Decision;US;America/New_York;2019-09-18T14:00;Federal Reserve;2019-09;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20190918a.htm;2025-09-10T08:55Z
+US_FOMC_STATEMENT_2019-09-18;FOMC Statement;US;America/New_York;2019-09-18T14:00;Federal Reserve;2019-09;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20190918a.htm;2025-09-10T08:55Z
+US_FOMC_PRESS_CONFERENCE_2019-09-18;FOMC Press Conference;US;America/New_York;2019-09-18T14:30;Federal Reserve;2019-09;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20190918.htm;2025-09-10T08:55Z
+US_NFP_2019-10-04;Employment Situation (NFP);US;America/New_York;2019-10-04T08:30;Bureau of Labor Statistics;2019-10;high;;https://www.bls.gov/schedule/2019/home.htm;2025-09-10T08:55Z
+US_FOMC_INTEREST_RATE_DECISION_2019-10-30;FOMC Interest Rate Decision;US;America/New_York;2019-10-30T14:00;Federal Reserve;2019-10;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20191030a.htm;2025-09-10T08:55Z
+US_FOMC_STATEMENT_2019-10-30;FOMC Statement;US;America/New_York;2019-10-30T14:00;Federal Reserve;2019-10;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20191030a.htm;2025-09-10T08:55Z
+US_FOMC_PRESS_CONFERENCE_2019-10-30;FOMC Press Conference;US;America/New_York;2019-10-30T14:30;Federal Reserve;2019-10;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20191030.htm;2025-09-10T08:55Z
+US_NFP_2019-11-01;Employment Situation (NFP);US;America/New_York;2019-11-01T08:30;Bureau of Labor Statistics;2019-11;high;;https://www.bls.gov/schedule/2019/home.htm;2025-09-10T08:55Z
+US_NFP_2019-12-06;Employment Situation (NFP);US;America/New_York;2019-12-06T08:30;Bureau of Labor Statistics;2019-12;high;;https://www.bls.gov/schedule/2019/home.htm;2025-09-10T08:55Z
+US_FOMC_INTEREST_RATE_DECISION_2019-12-11;FOMC Interest Rate Decision;US;America/New_York;2019-12-11T14:00;Federal Reserve;2019-12;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20191211a.htm;2025-09-10T08:55Z
+US_FOMC_STATEMENT_2019-12-11;FOMC Statement;US;America/New_York;2019-12-11T14:00;Federal Reserve;2019-12;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20191211a.htm;2025-09-10T08:55Z
+US_FOMC_PRESS_CONFERENCE_2019-12-11;FOMC Press Conference;US;America/New_York;2019-12-11T14:30;Federal Reserve;2019-12;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20191211.htm;2025-09-10T08:55Z

@@ -1,0 +1,37 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_NFP_2021-01-08;Employment Situation (NFP);US;America/New_York;2021-01-08T08:30;Bureau of Labor Statistics;2021-01;high;;https://www.bls.gov/schedule/2021/home.htm;2025-09-10T11:38Z
+US_FOMC_INTEREST_RATE_DECISION_2021-01-27;FOMC Interest Rate Decision;US;America/New_York;2021-01-27T14:00;Federal Reserve;2021-01;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20210127a.htm;2025-09-10T11:38Z
+US_FOMC_STATEMENT_2021-01-27;FOMC Statement;US;America/New_York;2021-01-27T14:00;Federal Reserve;2021-01;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20210127a.htm;2025-09-10T11:38Z
+US_FOMC_PRESS_CONFERENCE_2021-01-27;FOMC Press Conference;US;America/New_York;2021-01-27T14:30;Federal Reserve;2021-01;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20210127.htm;2025-09-10T11:38Z
+US_NFP_2021-02-05;Employment Situation (NFP);US;America/New_York;2021-02-05T08:30;Bureau of Labor Statistics;2021-02;high;;https://www.bls.gov/schedule/2021/home.htm;2025-09-10T11:38Z
+US_NFP_2021-03-05;Employment Situation (NFP);US;America/New_York;2021-03-05T08:30;Bureau of Labor Statistics;2021-03;high;;https://www.bls.gov/schedule/2021/home.htm;2025-09-10T11:38Z
+US_FOMC_INTEREST_RATE_DECISION_2021-03-17;FOMC Interest Rate Decision;US;America/New_York;2021-03-17T14:00;Federal Reserve;2021-03;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20210317a.htm;2025-09-10T11:38Z
+US_FOMC_STATEMENT_2021-03-17;FOMC Statement;US;America/New_York;2021-03-17T14:00;Federal Reserve;2021-03;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20210317a.htm;2025-09-10T11:38Z
+US_FOMC_PRESS_CONFERENCE_2021-03-17;FOMC Press Conference;US;America/New_York;2021-03-17T14:30;Federal Reserve;2021-03;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20210317.htm;2025-09-10T11:38Z
+US_NFP_2021-04-02;Employment Situation (NFP);US;America/New_York;2021-04-02T08:30;Bureau of Labor Statistics;2021-04;high;;https://www.bls.gov/schedule/2021/home.htm;2025-09-10T11:38Z
+US_FOMC_INTEREST_RATE_DECISION_2021-04-28;FOMC Interest Rate Decision;US;America/New_York;2021-04-28T14:00;Federal Reserve;2021-04;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20210428a.htm;2025-09-10T11:38Z
+US_FOMC_STATEMENT_2021-04-28;FOMC Statement;US;America/New_York;2021-04-28T14:00;Federal Reserve;2021-04;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20210428a.htm;2025-09-10T11:38Z
+US_FOMC_PRESS_CONFERENCE_2021-04-28;FOMC Press Conference;US;America/New_York;2021-04-28T14:30;Federal Reserve;2021-04;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20210428.htm;2025-09-10T11:38Z
+US_NFP_2021-05-07;Employment Situation (NFP);US;America/New_York;2021-05-07T08:30;Bureau of Labor Statistics;2021-05;high;;https://www.bls.gov/schedule/2021/home.htm;2025-09-10T11:38Z
+US_NFP_2021-06-04;Employment Situation (NFP);US;America/New_York;2021-06-04T08:30;Bureau of Labor Statistics;2021-06;high;;https://www.bls.gov/schedule/2021/home.htm;2025-09-10T11:38Z
+US_FOMC_INTEREST_RATE_DECISION_2021-06-16;FOMC Interest Rate Decision;US;America/New_York;2021-06-16T14:00;Federal Reserve;2021-06;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20210616a.htm;2025-09-10T11:38Z
+US_FOMC_STATEMENT_2021-06-16;FOMC Statement;US;America/New_York;2021-06-16T14:00;Federal Reserve;2021-06;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20210616a.htm;2025-09-10T11:38Z
+US_FOMC_PRESS_CONFERENCE_2021-06-16;FOMC Press Conference;US;America/New_York;2021-06-16T14:30;Federal Reserve;2021-06;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20210616.htm;2025-09-10T11:38Z
+US_NFP_2021-07-02;Employment Situation (NFP);US;America/New_York;2021-07-02T08:30;Bureau of Labor Statistics;2021-07;high;;https://www.bls.gov/schedule/2021/home.htm;2025-09-10T11:38Z
+US_FOMC_INTEREST_RATE_DECISION_2021-07-28;FOMC Interest Rate Decision;US;America/New_York;2021-07-28T14:00;Federal Reserve;2021-07;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20210728a.htm;2025-09-10T11:38Z
+US_FOMC_STATEMENT_2021-07-28;FOMC Statement;US;America/New_York;2021-07-28T14:00;Federal Reserve;2021-07;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20210728a.htm;2025-09-10T11:38Z
+US_FOMC_PRESS_CONFERENCE_2021-07-28;FOMC Press Conference;US;America/New_York;2021-07-28T14:30;Federal Reserve;2021-07;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20210728.htm;2025-09-10T11:38Z
+US_NFP_2021-08-06;Employment Situation (NFP);US;America/New_York;2021-08-06T08:30;Bureau of Labor Statistics;2021-08;high;;https://www.bls.gov/schedule/2021/home.htm;2025-09-10T11:38Z
+US_NFP_2021-09-03;Employment Situation (NFP);US;America/New_York;2021-09-03T08:30;Bureau of Labor Statistics;2021-09;high;;https://www.bls.gov/schedule/2021/home.htm;2025-09-10T11:38Z
+US_FOMC_INTEREST_RATE_DECISION_2021-09-22;FOMC Interest Rate Decision;US;America/New_York;2021-09-22T14:00;Federal Reserve;2021-09;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20210922a.htm;2025-09-10T11:38Z
+US_FOMC_STATEMENT_2021-09-22;FOMC Statement;US;America/New_York;2021-09-22T14:00;Federal Reserve;2021-09;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20210922a.htm;2025-09-10T11:38Z
+US_FOMC_PRESS_CONFERENCE_2021-09-22;FOMC Press Conference;US;America/New_York;2021-09-22T14:30;Federal Reserve;2021-09;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20210922.htm;2025-09-10T11:38Z
+US_NFP_2021-10-08;Employment Situation (NFP);US;America/New_York;2021-10-08T08:30;Bureau of Labor Statistics;2021-10;high;;https://www.bls.gov/schedule/2021/home.htm;2025-09-10T11:38Z
+US_FOMC_INTEREST_RATE_DECISION_2021-11-03;FOMC Interest Rate Decision;US;America/New_York;2021-11-03T14:00;Federal Reserve;2021-11;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20211103a.htm;2025-09-10T11:38Z
+US_FOMC_STATEMENT_2021-11-03;FOMC Statement;US;America/New_York;2021-11-03T14:00;Federal Reserve;2021-11;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20211103a.htm;2025-09-10T11:38Z
+US_FOMC_PRESS_CONFERENCE_2021-11-03;FOMC Press Conference;US;America/New_York;2021-11-03T14:30;Federal Reserve;2021-11;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20211103.htm;2025-09-10T11:38Z
+US_NFP_2021-11-05;Employment Situation (NFP);US;America/New_York;2021-11-05T08:30;Bureau of Labor Statistics;2021-11;high;;https://www.bls.gov/schedule/2021/home.htm;2025-09-10T11:38Z
+US_NFP_2021-12-03;Employment Situation (NFP);US;America/New_York;2021-12-03T08:30;Bureau of Labor Statistics;2021-12;high;;https://www.bls.gov/schedule/2021/home.htm;2025-09-10T11:38Z
+US_FOMC_INTEREST_RATE_DECISION_2021-12-15;FOMC Interest Rate Decision;US;America/New_York;2021-12-15T14:00;Federal Reserve;2021-12;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20211215a.htm;2025-09-10T11:38Z
+US_FOMC_STATEMENT_2021-12-15;FOMC Statement;US;America/New_York;2021-12-15T14:00;Federal Reserve;2021-12;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20211215a.htm;2025-09-10T11:38Z
+US_FOMC_PRESS_CONFERENCE_2021-12-15;FOMC Press Conference;US;America/New_York;2021-12-15T14:30;Federal Reserve;2021-12;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20211215.htm;2025-09-10T11:38Z

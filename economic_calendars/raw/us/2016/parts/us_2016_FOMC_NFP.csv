@@ -1,0 +1,33 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_NFP_2016-01-08;Employment Situation (NFP);US;America/New_York;2016-01-08T08:30;Bureau of Labor Statistics;2016-01;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-09T19:36Z
+US_FOMC_INTEREST_RATE_DECISION_2016-01-27;FOMC Interest Rate Decision;US;America/New_York;2016-01-27T14:00;Federal Reserve;2016-01;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20160127a.htm;2025-09-09T19:36Z
+US_FOMC_STATEMENT_2016-01-27;FOMC Statement;US;America/New_York;2016-01-27T14:00;Federal Reserve;2016-01;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20160127a.htm;2025-09-09T19:36Z
+US_NFP_2016-02-05;Employment Situation (NFP);US;America/New_York;2016-02-05T08:30;Bureau of Labor Statistics;2016-02;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-09T19:36Z
+US_NFP_2016-03-04;Employment Situation (NFP);US;America/New_York;2016-03-04T08:30;Bureau of Labor Statistics;2016-03;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-09T19:36Z
+US_FOMC_INTEREST_RATE_DECISION_2016-03-16;FOMC Interest Rate Decision;US;America/New_York;2016-03-16T14:00;Federal Reserve;2016-03;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20160316a.htm;2025-09-09T19:36Z
+US_FOMC_STATEMENT_2016-03-16;FOMC Statement;US;America/New_York;2016-03-16T14:00;Federal Reserve;2016-03;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20160316a.htm;2025-09-09T19:36Z
+US_FOMC_PRESS_CONFERENCE_2016-03-16;FOMC Press Conference;US;America/New_York;2016-03-16T14:30;Federal Reserve;2016-03;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20160316.htm;2025-09-09T19:36Z
+US_NFP_2016-04-01;Employment Situation (NFP);US;America/New_York;2016-04-01T08:30;Bureau of Labor Statistics;2016-04;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-09T19:36Z
+US_FOMC_INTEREST_RATE_DECISION_2016-04-27;FOMC Interest Rate Decision;US;America/New_York;2016-04-27T14:00;Federal Reserve;2016-04;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20160427a.htm;2025-09-09T19:36Z
+US_FOMC_STATEMENT_2016-04-27;FOMC Statement;US;America/New_York;2016-04-27T14:00;Federal Reserve;2016-04;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20160427a.htm;2025-09-09T19:36Z
+US_NFP_2016-05-06;Employment Situation (NFP);US;America/New_York;2016-05-06T08:30;Bureau of Labor Statistics;2016-05;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-09T19:36Z
+US_NFP_2016-06-03;Employment Situation (NFP);US;America/New_York;2016-06-03T08:30;Bureau of Labor Statistics;2016-06;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-09T19:36Z
+US_FOMC_INTEREST_RATE_DECISION_2016-06-15;FOMC Interest Rate Decision;US;America/New_York;2016-06-15T14:00;Federal Reserve;2016-06;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20160615a.htm;2025-09-09T19:36Z
+US_FOMC_STATEMENT_2016-06-15;FOMC Statement;US;America/New_York;2016-06-15T14:00;Federal Reserve;2016-06;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20160615a.htm;2025-09-09T19:36Z
+US_FOMC_PRESS_CONFERENCE_2016-06-15;FOMC Press Conference;US;America/New_York;2016-06-15T14:30;Federal Reserve;2016-06;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20160615.htm;2025-09-09T19:36Z
+US_NFP_2016-07-08;Employment Situation (NFP);US;America/New_York;2016-07-08T08:30;Bureau of Labor Statistics;2016-07;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-09T19:36Z
+US_FOMC_INTEREST_RATE_DECISION_2016-07-27;FOMC Interest Rate Decision;US;America/New_York;2016-07-27T14:00;Federal Reserve;2016-07;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20160727a.htm;2025-09-09T19:36Z
+US_FOMC_STATEMENT_2016-07-27;FOMC Statement;US;America/New_York;2016-07-27T14:00;Federal Reserve;2016-07;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20160727a.htm;2025-09-09T19:36Z
+US_NFP_2016-08-05;Employment Situation (NFP);US;America/New_York;2016-08-05T08:30;Bureau of Labor Statistics;2016-08;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-09T19:36Z
+US_NFP_2016-09-02;Employment Situation (NFP);US;America/New_York;2016-09-02T08:30;Bureau of Labor Statistics;2016-09;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-09T19:36Z
+US_FOMC_INTEREST_RATE_DECISION_2016-09-21;FOMC Interest Rate Decision;US;America/New_York;2016-09-21T14:00;Federal Reserve;2016-09;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20160921a.htm;2025-09-09T19:36Z
+US_FOMC_STATEMENT_2016-09-21;FOMC Statement;US;America/New_York;2016-09-21T14:00;Federal Reserve;2016-09;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20160921a.htm;2025-09-09T19:36Z
+US_FOMC_PRESS_CONFERENCE_2016-09-21;FOMC Press Conference;US;America/New_York;2016-09-21T14:30;Federal Reserve;2016-09;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20160921.htm;2025-09-09T19:36Z
+US_NFP_2016-10-07;Employment Situation (NFP);US;America/New_York;2016-10-07T08:30;Bureau of Labor Statistics;2016-10;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-09T19:36Z
+US_FOMC_INTEREST_RATE_DECISION_2016-11-02;FOMC Interest Rate Decision;US;America/New_York;2016-11-02T14:00;Federal Reserve;2016-11;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20161102a.htm;2025-09-09T19:36Z
+US_FOMC_STATEMENT_2016-11-02;FOMC Statement;US;America/New_York;2016-11-02T14:00;Federal Reserve;2016-11;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20161102a.htm;2025-09-09T19:36Z
+US_NFP_2016-11-04;Employment Situation (NFP);US;America/New_York;2016-11-04T08:30;Bureau of Labor Statistics;2016-11;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-09T19:36Z
+US_NFP_2016-12-02;Employment Situation (NFP);US;America/New_York;2016-12-02T08:30;Bureau of Labor Statistics;2016-12;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-09T19:36Z
+US_FOMC_INTEREST_RATE_DECISION_2016-12-14;FOMC Interest Rate Decision;US;America/New_York;2016-12-14T14:00;Federal Reserve;2016-12;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20161214a.htm;2025-09-09T19:36Z
+US_FOMC_STATEMENT_2016-12-14;FOMC Statement;US;America/New_York;2016-12-14T14:00;Federal Reserve;2016-12;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20161214a.htm;2025-09-09T19:36Z
+US_FOMC_PRESS_CONFERENCE_2016-12-14;FOMC Press Conference;US;America/New_York;2016-12-14T14:30;Federal Reserve;2016-12;high;;https://www.federalreserve.gov/monetarypolicy/fomcpresconf20161214.htm;2025-09-09T19:36Z

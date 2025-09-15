@@ -1,0 +1,29 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_FOMC_ST_20070131;FOMC Statement;US;America/New_York;2007-01-31T14:15;Federal Reserve Board;2007-01;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_RATE_20070131;FOMC Interest Rate Decision;US;America/New_York;2007-01-31T14:15;Federal Reserve Board;2007-01;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_ST_20070321;FOMC Statement;US;America/New_York;2007-03-21T14:15;Federal Reserve Board;2007-03;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_RATE_20070321;FOMC Interest Rate Decision;US;America/New_York;2007-03-21T14:15;Federal Reserve Board;2007-03;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_ST_20070509;FOMC Statement;US;America/New_York;2007-05-09T14:15;Federal Reserve Board;2007-05;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_RATE_20070509;FOMC Interest Rate Decision;US;America/New_York;2007-05-09T14:15;Federal Reserve Board;2007-05;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_ST_20070628;FOMC Statement;US;America/New_York;2007-06-28T14:15;Federal Reserve Board;2007-06;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_RATE_20070628;FOMC Interest Rate Decision;US;America/New_York;2007-06-28T14:15;Federal Reserve Board;2007-06;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_ST_20070807;FOMC Statement;US;America/New_York;2007-08-07T14:15;Federal Reserve Board;2007-08;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_RATE_20070807;FOMC Interest Rate Decision;US;America/New_York;2007-08-07T14:15;Federal Reserve Board;2007-08;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_ST_20070918;FOMC Statement;US;America/New_York;2007-09-18T14:15;Federal Reserve Board;2007-09;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_RATE_20070918;FOMC Interest Rate Decision;US;America/New_York;2007-09-18T14:15;Federal Reserve Board;2007-09;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_ST_20071031;FOMC Statement;US;America/New_York;2007-10-31T14:15;Federal Reserve Board;2007-10;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_RATE_20071031;FOMC Interest Rate Decision;US;America/New_York;2007-10-31T14:15;Federal Reserve Board;2007-10;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_ST_20071211;FOMC Statement;US;America/New_York;2007-12-11T14:15;Federal Reserve Board;2007-12;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_FOMC_RATE_20071211;FOMC Interest Rate Decision;US;America/New_York;2007-12-11T14:15;Federal Reserve Board;2007-12;high;;https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm;2025-09-08T15:21:42Z
+US_BLS_NFP_20070105;Employment Situation (Nonfarm Payrolls);US;America/New_York;2007-01-05T08:30;Bureau of Labor Statistics;2006-12;high;;https://www.bls.gov/schedule/2007/home.htm;2025-09-08T15:21:42Z
+US_BLS_NFP_20070202;Employment Situation (Nonfarm Payrolls);US;America/New_York;2007-02-02T08:30;Bureau of Labor Statistics;2007-01;high;;https://www.bls.gov/schedule/2007/home.htm;2025-09-08T15:21:42Z
+US_BLS_NFP_20070309;Employment Situation (Nonfarm Payrolls);US;America/New_York;2007-03-09T08:30;Bureau of Labor Statistics;2007-02;high;;https://www.bls.gov/schedule/2007/home.htm;2025-09-08T15:21:42Z
+US_BLS_NFP_20070406;Employment Situation (Nonfarm Payrolls);US;America/New_York;2007-04-06T08:30;Bureau of Labor Statistics;2007-03;high;;https://www.bls.gov/schedule/2007/home.htm;2025-09-08T15:21:42Z
+US_BLS_NFP_20070504;Employment Situation (Nonfarm Payrolls);US;America/New_York;2007-05-04T08:30;Bureau of Labor Statistics;2007-04;high;;https://www.bls.gov/schedule/2007/home.htm;2025-09-08T15:21:42Z
+US_BLS_NFP_20070601;Employment Situation (Nonfarm Payrolls);US;America/New_York;2007-06-01T08:30;Bureau of Labor Statistics;2007-05;high;;https://www.bls.gov/schedule/2007/home.htm;2025-09-08T15:21:42Z
+US_BLS_NFP_20070706;Employment Situation (Nonfarm Payrolls);US;America/New_York;2007-07-06T08:30;Bureau of Labor Statistics;2007-06;high;;https://www.bls.gov/schedule/2007/home.htm;2025-09-08T15:21:42Z
+US_BLS_NFP_20070803;Employment Situation (Nonfarm Payrolls);US;America/New_York;2007-08-03T08:30;Bureau of Labor Statistics;2007-07;high;;https://www.bls.gov/schedule/2007/home.htm;2025-09-08T15:21:42Z
+US_BLS_NFP_20070907;Employment Situation (Nonfarm Payrolls);US;America/New_York;2007-09-07T08:30;Bureau of Labor Statistics;2007-08;high;;https://www.bls.gov/schedule/2007/home.htm;2025-09-08T15:21:42Z
+US_BLS_NFP_20071005;Employment Situation (Nonfarm Payrolls);US;America/New_York;2007-10-05T08:30;Bureau of Labor Statistics;2007-09;high;;https://www.bls.gov/schedule/2007/home.htm;2025-09-08T15:21:42Z
+US_BLS_NFP_20071102;Employment Situation (Nonfarm Payrolls);US;America/New_York;2007-11-02T08:30;Bureau of Labor Statistics;2007-10;high;;https://www.bls.gov/schedule/2007/home.htm;2025-09-08T15:21:42Z
+US_BLS_NFP_20071207;Employment Situation (Nonfarm Payrolls);US;America/New_York;2007-12-07T08:30;Bureau of Labor Statistics;2007-11;high;;https://www.bls.gov/schedule/2007/home.htm;2025-09-08T15:21:42Z

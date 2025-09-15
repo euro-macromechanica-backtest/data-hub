@@ -1,0 +1,37 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_CPI_2021-01-13;CPI;US;America/New_York;2021-01-13T08:30;Bureau of Labor Statistics;2020-12;high;;https://www.bls.gov/news.release/archives/cpi_01132021.pdf;2025-09-10T11:58Z
+US_CPI_2021-02-10;CPI;US;America/New_York;2021-02-10T08:30;Bureau of Labor Statistics;2021-01;high;;https://www.bls.gov/news.release/archives/cpi_02102021.pdf;2025-09-10T11:58Z
+US_CPI_2021-03-10;CPI;US;America/New_York;2021-03-10T08:30;Bureau of Labor Statistics;2021-02;high;;https://www.bls.gov/news.release/archives/cpi_03102021.pdf;2025-09-10T11:58Z
+US_CPI_2021-04-13;CPI;US;America/New_York;2021-04-13T08:30;Bureau of Labor Statistics;2021-03;high;;https://www.bls.gov/news.release/archives/cpi_04132021.pdf;2025-09-10T11:58Z
+US_CPI_2021-05-12;CPI;US;America/New_York;2021-05-12T08:30;Bureau of Labor Statistics;2021-04;high;;https://www.bls.gov/news.release/archives/cpi_05122021.pdf;2025-09-10T11:58Z
+US_CPI_2021-06-10;CPI;US;America/New_York;2021-06-10T08:30;Bureau of Labor Statistics;2021-05;high;;https://www.bls.gov/news.release/archives/cpi_06102021.pdf;2025-09-10T11:58Z
+US_CPI_2021-07-13;CPI;US;America/New_York;2021-07-13T08:30;Bureau of Labor Statistics;2021-06;high;;https://www.bls.gov/news.release/archives/cpi_07132021.pdf;2025-09-10T11:58Z
+US_CPI_2021-08-11;CPI;US;America/New_York;2021-08-11T08:30;Bureau of Labor Statistics;2021-07;high;;https://www.bls.gov/news.release/archives/cpi_08112021.pdf;2025-09-10T11:58Z
+US_CPI_2021-09-14;CPI;US;America/New_York;2021-09-14T08:30;Bureau of Labor Statistics;2021-08;high;;https://www.bls.gov/news.release/archives/cpi_09142021.pdf;2025-09-10T11:58Z
+US_CPI_2021-10-13;CPI;US;America/New_York;2021-10-13T08:30;Bureau of Labor Statistics;2021-09;high;;https://www.bls.gov/news.release/archives/cpi_10132021.pdf;2025-09-10T11:58Z
+US_CPI_2021-11-10;CPI;US;America/New_York;2021-11-10T08:30;Bureau of Labor Statistics;2021-10;high;;https://www.bls.gov/news.release/archives/cpi_11102021.pdf;2025-09-10T11:58Z
+US_CPI_2021-12-10;CPI;US;America/New_York;2021-12-10T08:30;Bureau of Labor Statistics;2021-11;high;;https://www.bls.gov/news.release/archives/cpi_12102021.pdf;2025-09-10T11:58Z
+US_PCE_2021-01-29;PCE (Personal Income & Outlays);US;America/New_York;2021-01-29T08:30;Bureau of Economic Analysis;2021-12;high;;https://www.bea.gov/news/2021/personal-income-and-outlays-december-2020;2025-09-10T11:58Z
+US_PCE_2021-02-26;PCE (Personal Income & Outlays);US;America/New_York;2021-02-26T08:30;Bureau of Economic Analysis;2021-01;high;;https://www.bea.gov/news/2021/personal-income-and-outlays-january-2021;2025-09-10T11:58Z
+US_PCE_2021-03-26;PCE (Personal Income & Outlays);US;America/New_York;2021-03-26T08:30;Bureau of Economic Analysis;2021-02;high;;https://www.bea.gov/news/2021/personal-income-and-outlays-february-2021;2025-09-10T11:58Z
+US_PCE_2021-04-30;PCE (Personal Income & Outlays);US;America/New_York;2021-04-30T08:30;Bureau of Economic Analysis;2021-03;high;;https://www.bea.gov/news/2021/personal-income-and-outlays-march-2021;2025-09-10T11:58Z
+US_PCE_2021-05-28;PCE (Personal Income & Outlays);US;America/New_York;2021-05-28T08:30;Bureau of Economic Analysis;2021-04;high;;https://www.bea.gov/news/2021/personal-income-and-outlays-april-2021;2025-09-10T11:58Z
+US_PCE_2021-06-25;PCE (Personal Income & Outlays);US;America/New_York;2021-06-25T08:30;Bureau of Economic Analysis;2021-05;high;;https://www.bea.gov/news/2021/personal-income-and-outlays-may-2021;2025-09-10T11:58Z
+US_PCE_2021-07-30;PCE (Personal Income & Outlays);US;America/New_York;2021-07-30T08:30;Bureau of Economic Analysis;2021-06;high;;https://www.bea.gov/news/2021/personal-income-and-outlays-june-2021-and-annual-update;2025-09-10T11:58Z
+US_PCE_2021-08-27;PCE (Personal Income & Outlays);US;America/New_York;2021-08-27T08:30;Bureau of Economic Analysis;2021-07;high;;https://www.bea.gov/news/2021/personal-income-and-outlays-july-2021;2025-09-10T11:58Z
+US_PCE_2021-10-01;PCE (Personal Income & Outlays);US;America/New_York;2021-10-01T08:30;Bureau of Economic Analysis;2021-08;high;;https://www.bea.gov/news/2021/personal-income-and-outlays-august-2021;2025-09-10T11:58Z
+US_PCE_2021-10-29;PCE (Personal Income & Outlays);US;America/New_York;2021-10-29T08:30;Bureau of Economic Analysis;2021-09;high;;https://www.bea.gov/news/2021/personal-income-and-outlays-september-2021;2025-09-10T11:58Z
+US_PCE_2021-11-24;PCE (Personal Income & Outlays);US;America/New_York;2021-11-24T10:00;Bureau of Economic Analysis;2021-10;high;;https://www.bea.gov/news/2021/personal-income-and-outlays-october-2021;2025-09-10T11:58Z
+US_PCE_2021-12-23;PCE (Personal Income & Outlays);US;America/New_York;2021-12-23T08:30;Bureau of Economic Analysis;2021-11;high;;https://www.bea.gov/news/2021/personal-income-and-outlays-november-2021;2025-09-10T11:58Z
+US_RETAIL_SALES_2021-01-15;Retail Sales (Advance);US;America/New_York;2021-01-15T08:30;U.S. Census Bureau;2020-12;high;;https://www2.census.gov/retail/releases/historical/marts/adv2012.pdf;2025-09-10T11:58Z
+US_RETAIL_SALES_2021-02-17;Retail Sales (Advance);US;America/New_York;2021-02-17T08:30;U.S. Census Bureau;2021-01;high;;https://www2.census.gov/retail/releases/historical/marts/adv2101.pdf;2025-09-10T11:58Z
+US_RETAIL_SALES_2021-03-16;Retail Sales (Advance);US;America/New_York;2021-03-16T08:30;U.S. Census Bureau;2021-02;high;;https://www2.census.gov/retail/releases/historical/marts/adv2102.pdf;2025-09-10T11:58Z
+US_RETAIL_SALES_2021-04-15;Retail Sales (Advance);US;America/New_York;2021-04-15T08:30;U.S. Census Bureau;2021-03;high;;https://www2.census.gov/retail/releases/historical/marts/adv2103.pdf;2025-09-10T11:58Z
+US_RETAIL_SALES_2021-05-14;Retail Sales (Advance);US;America/New_York;2021-05-14T08:30;U.S. Census Bureau;2021-04;high;;https://www2.census.gov/retail/releases/historical/marts/adv2104.pdf;2025-09-10T11:58Z
+US_RETAIL_SALES_2021-06-15;Retail Sales (Advance);US;America/New_York;2021-06-15T08:30;U.S. Census Bureau;2021-05;high;;https://www2.census.gov/retail/releases/historical/marts/adv2105.pdf;2025-09-10T11:58Z
+US_RETAIL_SALES_2021-07-16;Retail Sales (Advance);US;America/New_York;2021-07-16T08:30;U.S. Census Bureau;2021-06;high;;https://www2.census.gov/retail/releases/historical/marts/adv2106.pdf;2025-09-10T11:58Z
+US_RETAIL_SALES_2021-08-17;Retail Sales (Advance);US;America/New_York;2021-08-17T08:30;U.S. Census Bureau;2021-07;high;;https://www2.census.gov/retail/releases/historical/marts/adv2107.pdf;2025-09-10T11:58Z
+US_RETAIL_SALES_2021-09-16;Retail Sales (Advance);US;America/New_York;2021-09-16T08:30;U.S. Census Bureau;2021-08;high;;https://www2.census.gov/retail/releases/historical/marts/adv2108.pdf;2025-09-10T11:58Z
+US_RETAIL_SALES_2021-10-15;Retail Sales (Advance);US;America/New_York;2021-10-15T08:30;U.S. Census Bureau;2021-09;high;;https://www2.census.gov/retail/releases/historical/marts/adv2109.pdf;2025-09-10T11:58Z
+US_RETAIL_SALES_2021-11-16;Retail Sales (Advance);US;America/New_York;2021-11-16T08:30;U.S. Census Bureau;2021-10;high;;https://www2.census.gov/retail/releases/historical/marts/adv2110.pdf;2025-09-10T11:58Z
+US_RETAIL_SALES_2021-12-15;Retail Sales (Advance);US;America/New_York;2021-12-15T08:30;U.S. Census Bureau;2021-11;high;;https://www2.census.gov/retail/releases/historical/marts/adv2111.pdf;2025-09-10T11:58Z

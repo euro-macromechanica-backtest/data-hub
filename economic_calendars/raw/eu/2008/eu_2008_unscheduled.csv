@@ -1,0 +1,2 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+EZ_ECB_MPD_UNSCHED_2008-10-08;Monetary policy decision (rates) — UNSCHEDULED (coordinated cut);EZ;Europe/Berlin;2008-10-08T13:00;European Central Bank;2008-10;high;"unscheduled; no_advance_notice; time_source=FederalReserve(07:00 EDT)";https://www.ecb.europa.eu/press/pr/date/2008/html/pr081008.en.html;2025-09-10T22:36Z

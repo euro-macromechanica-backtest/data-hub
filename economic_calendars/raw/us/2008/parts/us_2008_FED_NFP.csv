@@ -1,0 +1,29 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_FOMC_RATE_2008-01-30;FOMC Interest Rate Decision;US;America/New_York;2008-01-30T14:15;Federal Reserve Board;2008-01;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_FOMC_STATEMENT_2008-01-30;FOMC Statement;US;America/New_York;2008-01-30T14:15;Federal Reserve Board;2008-01;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_NFP_2008-01;The Employment Situation (NFP);US;America/New_York;2008-02-01T08:30;Bureau of Labor Statistics;2008-01;high;;https://www.bls.gov/schedule/news_release/empsit.htm;2025-09-08T18:11:19Z
+US_NFP_2008-02;The Employment Situation (NFP);US;America/New_York;2008-03-07T08:30;Bureau of Labor Statistics;2008-02;high;;https://www.bls.gov/schedule/news_release/empsit.htm;2025-09-08T18:11:19Z
+US_FOMC_RATE_2008-03-18;FOMC Interest Rate Decision;US;America/New_York;2008-03-18T14:15;Federal Reserve Board;2008-03;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_FOMC_STATEMENT_2008-03-18;FOMC Statement;US;America/New_York;2008-03-18T14:15;Federal Reserve Board;2008-03;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_NFP_2008-03;The Employment Situation (NFP);US;America/New_York;2008-04-04T08:30;Bureau of Labor Statistics;2008-03;high;;https://www.bls.gov/schedule/news_release/empsit.htm;2025-09-08T18:11:19Z
+US_FOMC_RATE_2008-04-30;FOMC Interest Rate Decision;US;America/New_York;2008-04-30T14:15;Federal Reserve Board;2008-04;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_FOMC_STATEMENT_2008-04-30;FOMC Statement;US;America/New_York;2008-04-30T14:15;Federal Reserve Board;2008-04;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_NFP_2008-04;The Employment Situation (NFP);US;America/New_York;2008-05-02T08:30;Bureau of Labor Statistics;2008-04;high;;https://www.bls.gov/schedule/news_release/empsit.htm;2025-09-08T18:11:19Z
+US_NFP_2008-05;The Employment Situation (NFP);US;America/New_York;2008-06-06T08:30;Bureau of Labor Statistics;2008-05;high;;https://www.bls.gov/schedule/news_release/empsit.htm;2025-09-08T18:11:19Z
+US_FOMC_RATE_2008-06-25;FOMC Interest Rate Decision;US;America/New_York;2008-06-25T14:15;Federal Reserve Board;2008-06;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_FOMC_STATEMENT_2008-06-25;FOMC Statement;US;America/New_York;2008-06-25T14:15;Federal Reserve Board;2008-06;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_NFP_2008-06;The Employment Situation (NFP);US;America/New_York;2008-07-03T08:30;Bureau of Labor Statistics;2008-06;high;;https://www.bls.gov/schedule/news_release/empsit.htm;2025-09-08T18:11:19Z
+US_NFP_2008-07;The Employment Situation (NFP);US;America/New_York;2008-08-01T08:30;Bureau of Labor Statistics;2008-07;high;;https://www.bls.gov/schedule/news_release/empsit.htm;2025-09-08T18:11:19Z
+US_FOMC_RATE_2008-08-05;FOMC Interest Rate Decision;US;America/New_York;2008-08-05T14:15;Federal Reserve Board;2008-08;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_FOMC_STATEMENT_2008-08-05;FOMC Statement;US;America/New_York;2008-08-05T14:15;Federal Reserve Board;2008-08;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_NFP_2008-08;The Employment Situation (NFP);US;America/New_York;2008-09-05T08:30;Bureau of Labor Statistics;2008-08;high;;https://www.bls.gov/schedule/news_release/empsit.htm;2025-09-08T18:11:19Z
+US_FOMC_RATE_2008-09-16;FOMC Interest Rate Decision;US;America/New_York;2008-09-16T14:15;Federal Reserve Board;2008-09;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_FOMC_STATEMENT_2008-09-16;FOMC Statement;US;America/New_York;2008-09-16T14:15;Federal Reserve Board;2008-09;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_NFP_2008-09;The Employment Situation (NFP);US;America/New_York;2008-10-03T08:30;Bureau of Labor Statistics;2008-09;high;;https://www.bls.gov/schedule/news_release/empsit.htm;2025-09-08T18:11:19Z
+US_FOMC_RATE_2008-10-29;FOMC Interest Rate Decision;US;America/New_York;2008-10-29T14:15;Federal Reserve Board;2008-10;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_FOMC_STATEMENT_2008-10-29;FOMC Statement;US;America/New_York;2008-10-29T14:15;Federal Reserve Board;2008-10;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_NFP_2008-10;The Employment Situation (NFP);US;America/New_York;2008-11-07T08:30;Bureau of Labor Statistics;2008-10;high;;https://www.bls.gov/schedule/news_release/empsit.htm;2025-09-08T18:11:19Z
+US_NFP_2008-11;The Employment Situation (NFP);US;America/New_York;2008-12-05T08:30;Bureau of Labor Statistics;2008-11;high;;https://www.bls.gov/schedule/news_release/empsit.htm;2025-09-08T18:11:19Z
+US_FOMC_RATE_2008-12-16;FOMC Interest Rate Decision;US;America/New_York;2008-12-16T14:15;Federal Reserve Board;2008-12;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_FOMC_STATEMENT_2008-12-16;FOMC Statement;US;America/New_York;2008-12-16T14:15;Federal Reserve Board;2008-12;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2008.htm;2025-09-08T18:11:19Z
+US_NFP_2008-12;The Employment Situation (NFP);US;America/New_York;2009-01-09T08:30;Bureau of Labor Statistics;2008-12;high;;https://www.bls.gov/schedule/news_release/empsit.htm;2025-09-08T18:11:19Z

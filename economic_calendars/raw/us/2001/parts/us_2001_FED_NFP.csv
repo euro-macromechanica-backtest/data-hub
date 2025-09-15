@@ -1,0 +1,29 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_BLS_NFP_2001-01-05;Employment Situation (Nonfarm Payrolls);US;America/New_York;2001-01-05T08:30;BLS;2000-12;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:00+00:00
+US_FED_FOMC_RATE_2001-01-31;FOMC Interest Rate Decision;US;America/New_York;2001-01-31T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20010131/;2025-09-07T22:00+00:00
+US_FED_FOMC_STMT_2001-01-31;FOMC Statement;US;America/New_York;2001-01-31T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20010131/;2025-09-07T22:00+00:00
+US_BLS_NFP_2001-02-02;Employment Situation (Nonfarm Payrolls);US;America/New_York;2001-02-02T08:30;BLS;2001-01;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:00+00:00
+US_BLS_NFP_2001-03-09;Employment Situation (Nonfarm Payrolls);US;America/New_York;2001-03-09T08:30;BLS;2001-02;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:00+00:00
+US_FED_FOMC_RATE_2001-03-20;FOMC Interest Rate Decision;US;America/New_York;2001-03-20T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20010320/;2025-09-07T22:00+00:00
+US_FED_FOMC_STMT_2001-03-20;FOMC Statement;US;America/New_York;2001-03-20T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20010320/;2025-09-07T22:00+00:00
+US_BLS_NFP_2001-04-06;Employment Situation (Nonfarm Payrolls);US;America/New_York;2001-04-06T08:30;BLS;2001-03;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:00+00:00
+US_BLS_NFP_2001-05-04;Employment Situation (Nonfarm Payrolls);US;America/New_York;2001-05-04T08:30;BLS;2001-04;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:00+00:00
+US_FED_FOMC_RATE_2001-05-15;FOMC Interest Rate Decision;US;America/New_York;2001-05-15T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20010515/;2025-09-07T22:00+00:00
+US_FED_FOMC_STMT_2001-05-15;FOMC Statement;US;America/New_York;2001-05-15T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20010515/;2025-09-07T22:00+00:00
+US_BLS_NFP_2001-06-01;Employment Situation (Nonfarm Payrolls);US;America/New_York;2001-06-01T08:30;BLS;2001-05;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:00+00:00
+US_FED_FOMC_RATE_2001-06-27;FOMC Interest Rate Decision;US;America/New_York;2001-06-27T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20010627/;2025-09-07T22:00+00:00
+US_FED_FOMC_STMT_2001-06-27;FOMC Statement;US;America/New_York;2001-06-27T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20010627/;2025-09-07T22:00+00:00
+US_BLS_NFP_2001-07-06;Employment Situation (Nonfarm Payrolls);US;America/New_York;2001-07-06T08:30;BLS;2001-06;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:00+00:00
+US_BLS_NFP_2001-08-03;Employment Situation (Nonfarm Payrolls);US;America/New_York;2001-08-03T08:30;BLS;2001-07;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:00+00:00
+US_FED_FOMC_RATE_2001-08-21;FOMC Interest Rate Decision;US;America/New_York;2001-08-21T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20010821/;2025-09-07T22:00+00:00
+US_FED_FOMC_STMT_2001-08-21;FOMC Statement;US;America/New_York;2001-08-21T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20010821/;2025-09-07T22:00+00:00
+US_BLS_NFP_2001-09-07;Employment Situation (Nonfarm Payrolls);US;America/New_York;2001-09-07T08:30;BLS;2001-08;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:00+00:00
+US_FED_FOMC_RATE_2001-10-02;FOMC Interest Rate Decision;US;America/New_York;2001-10-02T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20011002/;2025-09-07T22:00+00:00
+US_FED_FOMC_STMT_2001-10-02;FOMC Statement;US;America/New_York;2001-10-02T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20011002/;2025-09-07T22:00+00:00
+US_BLS_NFP_2001-10-05;Employment Situation (Nonfarm Payrolls);US;America/New_York;2001-10-05T08:30;BLS;2001-09;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:00+00:00
+US_BLS_NFP_2001-11-02;Employment Situation (Nonfarm Payrolls);US;America/New_York;2001-11-02T08:30;BLS;2001-10;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:00+00:00
+US_FED_FOMC_RATE_2001-11-06;FOMC Interest Rate Decision;US;America/New_York;2001-11-06T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20011106/;2025-09-07T22:00+00:00
+US_FED_FOMC_STMT_2001-11-06;FOMC Statement;US;America/New_York;2001-11-06T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20011106/;2025-09-07T22:00+00:00
+US_BLS_NFP_2001-12-07;Employment Situation (Nonfarm Payrolls);US;America/New_York;2001-12-07T08:30;BLS;2001-11;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:00+00:00
+US_FED_FOMC_RATE_2001-12-11;FOMC Interest Rate Decision;US;America/New_York;2001-12-11T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20011211/;2025-09-07T22:00+00:00
+US_FED_FOMC_STMT_2001-12-11;FOMC Statement;US;America/New_York;2001-12-11T14:15;Federal Reserve Board;;high;;https://www.federalreserve.gov/boarddocs/press/general/2001/20011211/;2025-09-07T22:00+00:00

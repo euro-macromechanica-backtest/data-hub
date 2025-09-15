@@ -1,0 +1,29 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_FOMC_RATE_2010-01-27;FOMC Interest Rate Decision;US;America/New_York;2010-01-27T14:15;Federal Reserve Board;2010-01;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_FOMC_STATEMENT_2010-01-27;FOMC Statement;US;America/New_York;2010-01-27T14:15;Federal Reserve Board;2010-01;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_NFP_2010-01;The Employment Situation (NFP);US;America/New_York;2010-02-05T08:30;Bureau of Labor Statistics;2010-01;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-08T22:15:09Z
+US_NFP_2010-02;The Employment Situation (NFP);US;America/New_York;2010-03-05T08:30;Bureau of Labor Statistics;2010-02;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-08T22:15:09Z
+US_FOMC_RATE_2010-03-16;FOMC Interest Rate Decision;US;America/New_York;2010-03-16T14:15;Federal Reserve Board;2010-03;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_FOMC_STATEMENT_2010-03-16;FOMC Statement;US;America/New_York;2010-03-16T14:15;Federal Reserve Board;2010-03;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_NFP_2010-03;The Employment Situation (NFP);US;America/New_York;2010-04-02T08:30;Bureau of Labor Statistics;2010-03;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-08T22:15:09Z
+US_FOMC_RATE_2010-04-28;FOMC Interest Rate Decision;US;America/New_York;2010-04-28T14:15;Federal Reserve Board;2010-04;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_FOMC_STATEMENT_2010-04-28;FOMC Statement;US;America/New_York;2010-04-28T14:15;Federal Reserve Board;2010-04;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_NFP_2010-04;The Employment Situation (NFP);US;America/New_York;2010-05-07T08:30;Bureau of Labor Statistics;2010-04;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-08T22:15:09Z
+US_NFP_2010-05;The Employment Situation (NFP);US;America/New_York;2010-06-04T08:30;Bureau of Labor Statistics;2010-05;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-08T22:15:09Z
+US_FOMC_RATE_2010-06-23;FOMC Interest Rate Decision;US;America/New_York;2010-06-23T14:15;Federal Reserve Board;2010-06;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_FOMC_STATEMENT_2010-06-23;FOMC Statement;US;America/New_York;2010-06-23T14:15;Federal Reserve Board;2010-06;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_NFP_2010-06;The Employment Situation (NFP);US;America/New_York;2010-07-02T08:30;Bureau of Labor Statistics;2010-06;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-08T22:15:09Z
+US_NFP_2010-07;The Employment Situation (NFP);US;America/New_York;2010-08-06T08:30;Bureau of Labor Statistics;2010-07;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-08T22:15:09Z
+US_FOMC_RATE_2010-08-10;FOMC Interest Rate Decision;US;America/New_York;2010-08-10T14:15;Federal Reserve Board;2010-08;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_FOMC_STATEMENT_2010-08-10;FOMC Statement;US;America/New_York;2010-08-10T14:15;Federal Reserve Board;2010-08;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_NFP_2010-08;The Employment Situation (NFP);US;America/New_York;2010-09-03T08:30;Bureau of Labor Statistics;2010-08;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-08T22:15:09Z
+US_FOMC_RATE_2010-09-21;FOMC Interest Rate Decision;US;America/New_York;2010-09-21T14:15;Federal Reserve Board;2010-09;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_FOMC_STATEMENT_2010-09-21;FOMC Statement;US;America/New_York;2010-09-21T14:15;Federal Reserve Board;2010-09;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_NFP_2010-09;The Employment Situation (NFP);US;America/New_York;2010-10-08T08:30;Bureau of Labor Statistics;2010-09;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-08T22:15:09Z
+US_FOMC_RATE_2010-11-03;FOMC Interest Rate Decision;US;America/New_York;2010-11-03T14:15;Federal Reserve Board;2010-11;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_FOMC_STATEMENT_2010-11-03;FOMC Statement;US;America/New_York;2010-11-03T14:15;Federal Reserve Board;2010-11;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_NFP_2010-10;The Employment Situation (NFP);US;America/New_York;2010-11-05T08:30;Bureau of Labor Statistics;2010-10;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-08T22:15:09Z
+US_NFP_2010-11;The Employment Situation (NFP);US;America/New_York;2010-12-03T08:30;Bureau of Labor Statistics;2010-11;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-08T22:15:09Z
+US_FOMC_RATE_2010-12-14;FOMC Interest Rate Decision;US;America/New_York;2010-12-14T14:15;Federal Reserve Board;2010-12;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_FOMC_STATEMENT_2010-12-14;FOMC Statement;US;America/New_York;2010-12-14T14:15;Federal Reserve Board;2010-12;high;;https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm;2025-09-08T22:15:09Z
+US_NFP_2010-12;The Employment Situation (NFP);US;America/New_York;2011-01-07T08:30;Bureau of Labor Statistics;2010-12;high;;https://www.bls.gov/bls/news-release/empsit.htm;2025-09-08T22:15:09Z

@@ -1,0 +1,25 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_CPI;CPI (Consumer Price Index);US;America/New_York;2011-02-17T08:30;BLS;2011-01;high;;https://www.bls.gov/news.release/archives/cpi_02172011.pdf;2025-09-09T10:15:10Z
+US_CPI;CPI (Consumer Price Index);US;America/New_York;2011-03-17T08:30;BLS;2011-02;high;;https://www.bls.gov/news.release/archives/cpi_03172011.pdf;2025-09-09T10:15:10Z
+US_CPI;CPI (Consumer Price Index);US;America/New_York;2011-04-15T08:30;BLS;2011-03;high;;https://www.bls.gov/news.release/archives/cpi_04152011.pdf;2025-09-09T10:15:10Z
+US_CPI;CPI (Consumer Price Index);US;America/New_York;2011-05-13T08:30;BLS;2011-04;high;;https://www.bls.gov/news.release/archives/cpi_05132011.pdf;2025-09-09T10:15:10Z
+US_CPI;CPI (Consumer Price Index);US;America/New_York;2011-06-15T08:30;BLS;2011-05;high;;https://www.bls.gov/news.release/archives/cpi_06152011.pdf;2025-09-09T10:15:10Z
+US_CPI;CPI (Consumer Price Index);US;America/New_York;2011-07-15T08:30;BLS;2011-06;high;;https://www.bls.gov/news.release/archives/cpi_07152011.pdf;2025-09-09T10:15:10Z
+US_CPI;CPI (Consumer Price Index);US;America/New_York;2011-08-18T08:30;BLS;2011-07;high;;https://www.bls.gov/news.release/archives/cpi_08182011.pdf;2025-09-09T10:15:10Z
+US_CPI;CPI (Consumer Price Index);US;America/New_York;2011-09-15T08:30;BLS;2011-08;high;;https://www.bls.gov/news.release/archives/cpi_09152011.pdf;2025-09-09T10:15:10Z
+US_CPI;CPI (Consumer Price Index);US;America/New_York;2011-10-19T08:30;BLS;2011-09;high;;https://www.bls.gov/news.release/archives/cpi_10192011.pdf;2025-09-09T10:15:10Z
+US_CPI;CPI (Consumer Price Index);US;America/New_York;2011-11-16T08:30;BLS;2011-10;high;;https://www.bls.gov/news.release/archives/cpi_11162011.pdf;2025-09-09T10:15:10Z
+US_CPI;CPI (Consumer Price Index);US;America/New_York;2011-12-16T08:30;BLS;2011-11;high;;https://www.bls.gov/news.release/archives/cpi_12162011.pdf;2025-09-09T10:15:10Z
+US_CPI;CPI (Consumer Price Index);US;America/New_York;2012-01-19T08:30;BLS;2011-12;high;;https://www.bls.gov/news.release/archives/cpi_01192012.pdf;2025-09-09T10:15:10Z
+US_PCE;PCE (Personal Income & Outlays);US;America/New_York;2011-02-28T08:30;BEA;2011-01;high;;https://www.bea.gov/news/2011/personal-income-and-outlays-january-2011;2025-09-09T10:15:10Z
+US_PCE;PCE (Personal Income & Outlays);US;America/New_York;2011-03-28T08:30;BEA;2011-02;high;;https://www.bea.gov/news/2011/personal-income-and-outlays-february-2011;2025-09-09T10:15:10Z
+US_PCE;PCE (Personal Income & Outlays);US;America/New_York;2011-04-29T08:30;BEA;2011-03;high;;https://www.bea.gov/sites/default/files/2020-03/pi0311.pdf;2025-09-09T10:15:10Z
+US_PCE;PCE (Personal Income & Outlays);US;America/New_York;2011-05-27T08:30;BEA;2011-04;high;;https://www.bea.gov/sites/default/files/newsreleases/national/pi/2011/pdf/pi0411.pdf;2025-09-09T10:15:10Z
+US_PCE;PCE (Personal Income & Outlays);US;America/New_York;2011-06-27T08:30;BEA;2011-05;high;;https://www.bea.gov/sites/default/files/2020-03/pi0511.pdf;2025-09-09T10:15:10Z
+US_PCE;PCE (Personal Income & Outlays);US;America/New_York;2011-08-02T08:30;BEA;2011-06;high;;https://www.bea.gov/news/2011/personal-income-and-outlays-june-2011;2025-09-09T10:15:10Z
+US_PCE;PCE (Personal Income & Outlays);US;America/New_York;2011-08-29T08:30;BEA;2011-07;high;;https://www.bea.gov/news/2011/personal-income-and-outlays-july-2011;2025-09-09T10:15:10Z
+US_PCE;PCE (Personal Income & Outlays);US;America/New_York;2011-09-30T08:30;BEA;2011-08;high;;https://www.bea.gov/sites/default/files/2020-03/pi0811.pdf;2025-09-09T10:15:10Z
+US_PCE;PCE (Personal Income & Outlays);US;America/New_York;2011-10-28T08:30;BEA;2011-09;high;;https://www.bea.gov/sites/default/files/2020-03/pi0911.pdf;2025-09-09T10:15:10Z
+US_PCE;PCE (Personal Income & Outlays);US;America/New_York;2011-11-23T08:30;BEA;2011-10;high;;https://www.bea.gov/sites/default/files/2020-03/pi1011.pdf;2025-09-09T10:15:10Z
+US_PCE;PCE (Personal Income & Outlays);US;America/New_York;2011-12-23T08:30;BEA;2011-11;high;;https://www.bea.gov/news/2011/personal-income-and-outlays-november-2011;2025-09-09T10:15:10Z
+US_PCE;PCE (Personal Income & Outlays);US;America/New_York;2012-01-30T08:30;BEA;2011-12;high;;https://www.bea.gov/sites/default/files/2020-03/pi1211.pdf;2025-09-09T10:15:10Z

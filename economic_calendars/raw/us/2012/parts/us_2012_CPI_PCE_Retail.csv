@@ -1,0 +1,37 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_RETAIL_SALES_ADVANCE_2012-01-12;Retail Sales (Advance);US;America/New_York;2012-01-12T08:30;U.S. Census Bureau;2012-01;high;;https://www2.census.gov/marts/adv1201.pdf;2025-09-09T12:37Z
+US_CPI_2012-01-19;CPI;US;America/New_York;2012-01-19T08:30;Bureau of Labor Statistics;2012-01;high;;https://www.bls.gov/schedule/2012/home.htm;2025-09-09T12:37Z
+US_PCE_2012-01-30;PCE;US;America/New_York;2012-01-30T08:30;Bureau of Economic Analysis;2012-01;high;;https://apps.bea.gov/scb/pdf/2011/12%20December/1211_news%20release.pdf;2025-09-09T12:37Z
+US_RETAIL_SALES_ADVANCE_2012-02-14;Retail Sales (Advance);US;America/New_York;2012-02-14T08:30;U.S. Census Bureau;2012-02;high;;https://www2.census.gov/marts/adv1202.pdf;2025-09-09T12:37Z
+US_CPI_2012-02-17;CPI;US;America/New_York;2012-02-17T08:30;Bureau of Labor Statistics;2012-02;high;;https://www.bls.gov/schedule/2012/home.htm;2025-09-09T12:37Z
+US_PCE_2012-03-01;PCE;US;America/New_York;2012-03-01T08:30;Bureau of Economic Analysis;2012-03;high;;https://apps.bea.gov/scb/pdf/2011/12%20December/1211_news%20release.pdf;2025-09-09T12:37Z
+US_RETAIL_SALES_ADVANCE_2012-03-13;Retail Sales (Advance);US;America/New_York;2012-03-13T08:30;U.S. Census Bureau;2012-03;high;;https://www2.census.gov/marts/adv1203.pdf;2025-09-09T12:37Z
+US_CPI_2012-03-16;CPI;US;America/New_York;2012-03-16T08:30;Bureau of Labor Statistics;2012-03;high;;https://www.bls.gov/schedule/2012/home.htm;2025-09-09T12:37Z
+US_PCE_2012-03-30;PCE;US;America/New_York;2012-03-30T08:30;Bureau of Economic Analysis;2012-03;high;;https://apps.bea.gov/scb/pdf/2011/12%20December/1211_news%20release.pdf;2025-09-09T12:37Z
+US_CPI_2012-04-13;CPI;US;America/New_York;2012-04-13T08:30;Bureau of Labor Statistics;2012-04;high;;https://www.bls.gov/schedule/2012/home.htm;2025-09-09T12:37Z
+US_RETAIL_SALES_ADVANCE_2012-04-16;Retail Sales (Advance);US;America/New_York;2012-04-16T08:30;U.S. Census Bureau;2012-04;high;;https://www2.census.gov/marts/adv1204.pdf;2025-09-09T12:37Z
+US_PCE_2012-04-30;PCE;US;America/New_York;2012-04-30T08:30;Bureau of Economic Analysis;2012-04;high;;https://apps.bea.gov/scb/pdf/2011/12%20December/1211_news%20release.pdf;2025-09-09T12:37Z
+US_CPI_2012-05-15;CPI;US;America/New_York;2012-05-15T08:30;Bureau of Labor Statistics;2012-05;high;;https://www.bls.gov/schedule/2012/home.htm;2025-09-09T12:37Z
+US_RETAIL_SALES_ADVANCE_2012-05-15;Retail Sales (Advance);US;America/New_York;2012-05-15T08:30;U.S. Census Bureau;2012-05;high;;https://www2.census.gov/marts/adv1205.pdf;2025-09-09T12:37Z
+US_PCE_2012-06-01;PCE;US;America/New_York;2012-06-01T08:30;Bureau of Economic Analysis;2012-06;high;;https://apps.bea.gov/scb/pdf/2011/12%20December/1211_news%20release.pdf;2025-09-09T12:37Z
+US_RETAIL_SALES_ADVANCE_2012-06-13;Retail Sales (Advance);US;America/New_York;2012-06-13T08:30;U.S. Census Bureau;2012-06;high;;https://www2.census.gov/marts/adv1206.pdf;2025-09-09T12:37Z
+US_CPI_2012-06-14;CPI;US;America/New_York;2012-06-14T08:30;Bureau of Labor Statistics;2012-06;high;;https://www.bls.gov/schedule/2012/home.htm;2025-09-09T12:37Z
+US_PCE_2012-06-29;PCE;US;America/New_York;2012-06-29T08:30;Bureau of Economic Analysis;2012-06;high;;https://apps.bea.gov/scb/pdf/2011/12%20December/1211_news%20release.pdf;2025-09-09T12:37Z
+US_RETAIL_SALES_ADVANCE_2012-07-16;Retail Sales (Advance);US;America/New_York;2012-07-16T08:30;U.S. Census Bureau;2012-07;high;;https://www2.census.gov/marts/adv1207.pdf;2025-09-09T12:37Z
+US_CPI_2012-07-17;CPI;US;America/New_York;2012-07-17T08:30;Bureau of Labor Statistics;2012-07;high;;https://www.bls.gov/schedule/2012/home.htm;2025-09-09T12:37Z
+US_PCE_2012-07-31;PCE;US;America/New_York;2012-07-31T08:30;Bureau of Economic Analysis;2012-07;high;;https://apps.bea.gov/scb/pdf/2011/12%20December/1211_news%20release.pdf;2025-09-09T12:37Z
+US_RETAIL_SALES_ADVANCE_2012-08-14;Retail Sales (Advance);US;America/New_York;2012-08-14T08:30;U.S. Census Bureau;2012-08;high;;https://www2.census.gov/marts/adv1208.pdf;2025-09-09T12:37Z
+US_CPI_2012-08-15;CPI;US;America/New_York;2012-08-15T08:30;Bureau of Labor Statistics;2012-08;high;;https://www.bls.gov/schedule/2012/home.htm;2025-09-09T12:37Z
+US_PCE_2012-08-30;PCE;US;America/New_York;2012-08-30T08:30;Bureau of Economic Analysis;2012-08;high;;https://apps.bea.gov/scb/pdf/2011/12%20December/1211_news%20release.pdf;2025-09-09T12:37Z
+US_CPI_2012-09-14;CPI;US;America/New_York;2012-09-14T08:30;Bureau of Labor Statistics;2012-09;high;;https://www.bls.gov/schedule/2012/home.htm;2025-09-09T12:37Z
+US_RETAIL_SALES_ADVANCE_2012-09-14;Retail Sales (Advance);US;America/New_York;2012-09-14T08:30;U.S. Census Bureau;2012-09;high;;https://www2.census.gov/marts/adv1209.pdf;2025-09-09T12:37Z
+US_PCE_2012-09-28;PCE;US;America/New_York;2012-09-28T08:30;Bureau of Economic Analysis;2012-09;high;;https://apps.bea.gov/scb/pdf/2011/12%20December/1211_news%20release.pdf;2025-09-09T12:37Z
+US_RETAIL_SALES_ADVANCE_2012-10-15;Retail Sales (Advance);US;America/New_York;2012-10-15T08:30;U.S. Census Bureau;2012-10;high;;https://www2.census.gov/marts/adv1210.pdf;2025-09-09T12:37Z
+US_CPI_2012-10-16;CPI;US;America/New_York;2012-10-16T08:30;Bureau of Labor Statistics;2012-10;high;;https://www.bls.gov/schedule/2012/home.htm;2025-09-09T12:37Z
+US_PCE_2012-10-29;PCE;US;America/New_York;2012-10-29T08:30;Bureau of Economic Analysis;2012-10;high;;https://apps.bea.gov/scb/pdf/2011/12%20December/1211_news%20release.pdf;2025-09-09T12:37Z
+US_RETAIL_SALES_ADVANCE_2012-11-14;Retail Sales (Advance);US;America/New_York;2012-11-14T08:30;U.S. Census Bureau;2012-11;high;;https://www2.census.gov/marts/adv1211.pdf;2025-09-09T12:37Z
+US_CPI_2012-11-15;CPI;US;America/New_York;2012-11-15T08:30;Bureau of Labor Statistics;2012-11;high;;https://www.bls.gov/schedule/2012/home.htm;2025-09-09T12:37Z
+US_PCE_2012-11-30;PCE;US;America/New_York;2012-11-30T08:30;Bureau of Economic Analysis;2012-11;high;;https://apps.bea.gov/scb/pdf/2011/12%20December/1211_news%20release.pdf;2025-09-09T12:37Z
+US_RETAIL_SALES_ADVANCE_2012-12-13;Retail Sales (Advance);US;America/New_York;2012-12-13T08:30;U.S. Census Bureau;2012-12;high;;https://www2.census.gov/marts/adv1212.pdf;2025-09-09T12:37Z
+US_CPI_2012-12-14;CPI;US;America/New_York;2012-12-14T08:30;Bureau of Labor Statistics;2012-12;high;;https://www.bls.gov/schedule/2012/home.htm;2025-09-09T12:37Z
+US_PCE_2012-12-21;PCE;US;America/New_York;2012-12-21T08:30;Bureau of Economic Analysis;2012-12;high;;https://apps.bea.gov/scb/pdf/2011/12%20December/1211_news%20release.pdf;2025-09-09T12:37Z

@@ -1,0 +1,37 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_CPI;CPI;US;America/New_York;2017-01-18T08:30;BLS;2016-12;high;;https://www.bls.gov/news.release/archives/cpi_01182017.pdf;2025-09-09T21:50
+US_CPI;CPI;US;America/New_York;2017-02-15T08:30;BLS;2017-01;high;;https://www.bls.gov/news.release/archives/cpi_02152017.htm;2025-09-09T21:50
+US_CPI;CPI;US;America/New_York;2017-03-15T08:30;BLS;2017-02;high;;https://www.bls.gov/news.release/archives/cpi_03152017.htm;2025-09-09T21:50
+US_CPI;CPI;US;America/New_York;2017-04-14T08:30;BLS;2017-03;high;;https://www.bls.gov/news.release/archives/cpi_04142017.htm;2025-09-09T21:50
+US_CPI;CPI;US;America/New_York;2017-05-12T08:30;BLS;2017-04;high;;https://www.bls.gov/news.release/archives/cpi_05122017.htm;2025-09-09T21:50
+US_CPI;CPI;US;America/New_York;2017-06-14T08:30;BLS;2017-05;high;;https://www.bls.gov/news.release/archives/cpi_06142017.htm;2025-09-09T21:50
+US_CPI;CPI;US;America/New_York;2017-07-14T08:30;BLS;2017-06;high;;https://www.bls.gov/news.release/archives/cpi_07142017.htm;2025-09-09T21:50
+US_CPI;CPI;US;America/New_York;2017-08-11T08:30;BLS;2017-07;high;;https://www.bls.gov/news.release/archives/cpi_08112017.htm;2025-09-09T21:50
+US_CPI;CPI;US;America/New_York;2017-09-14T08:30;BLS;2017-08;high;;https://www.bls.gov/news.release/archives/cpi_09142017.htm;2025-09-09T21:50
+US_CPI;CPI;US;America/New_York;2017-10-13T08:30;BLS;2017-09;high;;https://www.bls.gov/news.release/archives/cpi_10132017.htm;2025-09-09T21:50
+US_CPI;CPI;US;America/New_York;2017-11-15T08:30;BLS;2017-10;high;;https://www.bls.gov/news.release/archives/cpi_11152017.htm;2025-09-09T21:50
+US_CPI;CPI;US;America/New_York;2017-12-13T08:30;BLS;2017-11;high;;https://www.bls.gov/news.release/archives/cpi_12132017.htm;2025-09-09T21:50
+US_PCE;PCE;US;America/New_York;2017-01-30T08:30;BEA;2016-12;high;;https://www.bea.gov/news/2017/personal-income-and-outlays-december-2016;2025-09-09T21:50
+US_PCE;PCE;US;America/New_York;2017-03-01T08:30;BEA;2017-01;high;;https://www.bea.gov/news/2017/personal-income-and-outlays-january-2017;2025-09-09T21:50
+US_PCE;PCE;US;America/New_York;2017-03-31T08:30;BEA;2017-02;high;;https://www.bea.gov/news/2017/personal-income-and-outlays-february-2017;2025-09-09T21:50
+US_PCE;PCE;US;America/New_York;2017-05-01T08:30;BEA;2017-03;high;;https://www.bea.gov/news/2017/personal-income-and-outlays-march-2017;2025-09-09T21:50
+US_PCE;PCE;US;America/New_York;2017-05-30T08:30;BEA;2017-04;high;;https://www.bea.gov/news/2017/personal-income-and-outlays-april-2017;2025-09-09T21:50
+US_PCE;PCE;US;America/New_York;2017-06-30T08:30;BEA;2017-05;high;;https://www.bea.gov/news/2017/personal-income-and-outlays-may-2017;2025-09-09T21:50
+US_PCE;PCE;US;America/New_York;2017-08-01T08:30;BEA;2017-06;high;;https://www.bea.gov/news/2017/personal-income-and-outlays-june-2017-annual-update-2014-through-may-2017;2025-09-09T21:50
+US_PCE;PCE;US;America/New_York;2017-08-31T08:30;BEA;2017-07;high;;https://www.bea.gov/news/2017/personal-income-and-outlays-july-2017;2025-09-09T21:50
+US_PCE;PCE;US;America/New_York;2017-09-29T08:30;BEA;2017-08;high;;https://www.bea.gov/news/2017/personal-income-and-outlays-august-2017;2025-09-09T21:50
+US_PCE;PCE;US;America/New_York;2017-10-30T08:30;BEA;2017-09;high;;https://www.bea.gov/news/2017/personal-income-and-outlays-september-2017;2025-09-09T21:50
+US_PCE;PCE;US;America/New_York;2017-11-30T08:30;BEA;2017-10;high;;https://www.bea.gov/news/2017/personal-income-and-outlays-october-2017;2025-09-09T21:50
+US_PCE;PCE;US;America/New_York;2017-12-22T08:30;BEA;2017-11;high;;https://www.bea.gov/news/2017/personal-income-and-outlays-november-2017;2025-09-09T21:50
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2017-01-13T08:30;Census;2016-12;high;;https://www2.census.gov/marts/adv1612.pdf;2025-09-09T21:50
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2017-02-15T08:30;Census;2017-01;high;;https://www2.census.gov/marts/adv1701.pdf;2025-09-09T21:50
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2017-03-15T08:30;Census;2017-02;high;;https://www2.census.gov/marts/adv1702.pdf;2025-09-09T21:50
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2017-04-14T08:30;Census;2017-03;high;;https://www2.census.gov/marts/adv1703.pdf;2025-09-09T21:50
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2017-05-12T08:30;Census;2017-04;high;;https://www2.census.gov/marts/adv1704.pdf;2025-09-09T21:50
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2017-06-14T08:30;Census;2017-05;high;;https://www2.census.gov/marts/adv1705.pdf;2025-09-09T21:50
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2017-07-14T08:30;Census;2017-06;high;;https://www2.census.gov/marts/adv1706.pdf;2025-09-09T21:50
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2017-08-15T08:30;Census;2017-07;high;;https://www2.census.gov/marts/adv1707.pdf;2025-09-09T21:50
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2017-09-15T08:30;Census;2017-08;high;;https://www2.census.gov/marts/adv1708.pdf;2025-09-09T21:50
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2017-10-13T08:30;Census;2017-09;high;;https://www2.census.gov/marts/adv1709.pdf;2025-09-09T21:50
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2017-11-15T08:30;Census;2017-10;high;;https://www2.census.gov/marts/adv1710.pdf;2025-09-09T21:50
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2017-12-14T08:30;Census;2017-11;high;;https://www2.census.gov/marts/adv1711.pdf;2025-09-09T21:50

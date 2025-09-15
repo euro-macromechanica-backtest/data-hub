@@ -1,0 +1,3 @@
+event_id;event;datetime_utc;country;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_FED_SWAPLINES_3MOPS_20110915_0700;Coordinated U.S. dollar liquidity-providing operations (3‑month) — central banks;2011-09-15T11:00:00+00:00;US;Federal Reserve Board + ECB + BoE + BoJ + SNB + BoC;;high;unscheduled;https://www.federalreserve.gov/newsevents/pressreleases/monetary20110915a.htm;2025-09-09T11:03:39.095595Z
+US_FED_SWAPLINES_PRICING_20111130_0700;"Coordinated central bank action: lower pricing on USD swap lines; bilateral swaps established";2011-11-30T12:00:00+00:00;US;Federal Reserve Board + ECB + BoE + BoJ + SNB + BoC;;high;unscheduled;https://www.federalreserve.gov/newsevents/pressreleases/monetary20111130a.htm;2025-09-09T11:03:39.095595Z

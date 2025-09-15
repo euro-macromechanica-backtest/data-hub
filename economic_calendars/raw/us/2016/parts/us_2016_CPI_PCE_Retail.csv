@@ -1,0 +1,37 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_RETAIL_SALES_ADV;Advance Retail Sales (MARTS);US;America/New_York;2016-01-15T08:30;U.S. Census Bureau;2015-12;high;;https://www2.census.gov/marts/adv1512.pdf;2025-09-09T20:07Z
+US_CPI;Consumer Price Index (CPI);US;America/New_York;2016-01-20T08:30;Bureau of Labor Statistics;2015-12;high;;https://www.bls.gov/news.release/archives/cpi_01202016.pdf;2025-09-09T20:07Z
+US_PCE;Personal Income & Outlays (PCE);US;America/New_York;2016-02-01T08:30;Bureau of Economic Analysis;2015-12;high;;https://www.bea.gov/news/2016/personal-income-and-outlays-december-2015;2025-09-09T20:07Z
+US_RETAIL_SALES_ADV;Advance Retail Sales (MARTS);US;America/New_York;2016-02-12T08:30;U.S. Census Bureau;2016-01;high;;https://www2.census.gov/marts/adv1601.pdf;2025-09-09T20:07Z
+US_CPI;Consumer Price Index (CPI);US;America/New_York;2016-02-19T08:30;Bureau of Labor Statistics;2016-01;high;;https://www.bls.gov/news.release/archives/cpi_02192016.pdf;2025-09-09T20:07Z
+US_PCE;Personal Income & Outlays (PCE);US;America/New_York;2016-02-26T10:00;Bureau of Economic Analysis;2016-01;high;;https://www.bea.gov/news/2016/personal-income-and-outlays-january-2016;2025-09-09T20:07Z
+US_RETAIL_SALES_ADV;Advance Retail Sales (MARTS);US;America/New_York;2016-03-15T08:30;U.S. Census Bureau;2016-02;high;;https://www2.census.gov/marts/adv1602.pdf;2025-09-09T20:07Z
+US_CPI;Consumer Price Index (CPI);US;America/New_York;2016-03-16T08:30;Bureau of Labor Statistics;2016-02;high;;https://www.bls.gov/news.release/archives/cpi_03162016.htm;2025-09-09T20:07Z
+US_PCE;Personal Income & Outlays (PCE);US;America/New_York;2016-03-28T08:30;Bureau of Economic Analysis;2016-02;high;;https://www.bea.gov/news/2016/personal-income-and-outlays-february-2016;2025-09-09T20:07Z
+US_RETAIL_SALES_ADV;Advance Retail Sales (MARTS);US;America/New_York;2016-04-13T08:30;U.S. Census Bureau;2016-03;high;;https://www2.census.gov/marts/adv1603.pdf;2025-09-09T20:07Z
+US_CPI;Consumer Price Index (CPI);US;America/New_York;2016-04-14T08:30;Bureau of Labor Statistics;2016-03;high;;https://www.bls.gov/news.release/archives/cpi_04142016.htm;2025-09-09T20:07Z
+US_PCE;Personal Income & Outlays (PCE);US;America/New_York;2016-04-29T08:30;Bureau of Economic Analysis;2016-03;high;;https://www.bea.gov/news/2016/personal-income-and-outlays-march-2016;2025-09-09T20:07Z
+US_RETAIL_SALES_ADV;Advance Retail Sales (MARTS);US;America/New_York;2016-05-13T08:30;U.S. Census Bureau;2016-04;high;;https://www2.census.gov/marts/adv1604.pdf;2025-09-09T20:07Z
+US_CPI;Consumer Price Index (CPI);US;America/New_York;2016-05-17T08:30;Bureau of Labor Statistics;2016-04;high;;https://www.bls.gov/news.release/archives/cpi_05172016.htm;2025-09-09T20:07Z
+US_PCE;Personal Income & Outlays (PCE);US;America/New_York;2016-05-31T08:30;Bureau of Economic Analysis;2016-04;high;;https://www.bea.gov/news/2016/personal-income-and-outlays-april-2016;2025-09-09T20:07Z
+US_RETAIL_SALES_ADV;Advance Retail Sales (MARTS);US;America/New_York;2016-06-14T08:30;U.S. Census Bureau;2016-05;high;;https://www2.census.gov/marts/adv1605.pdf;2025-09-09T20:07Z
+US_CPI;Consumer Price Index (CPI);US;America/New_York;2016-06-16T08:30;Bureau of Labor Statistics;2016-05;high;;https://www.bls.gov/news.release/archives/cpi_06162016.htm;2025-09-09T20:07Z
+US_PCE;Personal Income & Outlays (PCE);US;America/New_York;2016-06-29T08:30;Bureau of Economic Analysis;2016-05;high;;https://www.bea.gov/news/2016/personal-income-and-outlays-may-2016;2025-09-09T20:07Z
+US_RETAIL_SALES_ADV;Advance Retail Sales (MARTS);US;America/New_York;2016-07-15T08:30;U.S. Census Bureau;2016-06;high;;https://www2.census.gov/marts/adv1606.pdf;2025-09-09T20:07Z
+US_CPI;Consumer Price Index (CPI);US;America/New_York;2016-07-15T08:30;Bureau of Labor Statistics;2016-06;high;;https://www.bls.gov/news.release/archives/cpi_07152016.htm;2025-09-09T20:07Z
+US_PCE;Personal Income & Outlays (PCE);US;America/New_York;2016-08-02T08:30;Bureau of Economic Analysis;2016-06;high;;https://www.bea.gov/news/2016/personal-income-and-outlays-june-2016;2025-09-09T20:07Z
+US_RETAIL_SALES_ADV;Advance Retail Sales (MARTS);US;America/New_York;2016-08-12T08:30;U.S. Census Bureau;2016-07;high;;https://www2.census.gov/marts/adv1607.pdf;2025-09-09T20:07Z
+US_CPI;Consumer Price Index (CPI);US;America/New_York;2016-08-16T08:30;Bureau of Labor Statistics;2016-07;high;;https://www.bls.gov/news.release/archives/cpi_08162016.htm;2025-09-09T20:07Z
+US_PCE;Personal Income & Outlays (PCE);US;America/New_York;2016-08-29T08:30;Bureau of Economic Analysis;2016-07;high;;https://www.bea.gov/news/2016/personal-income-and-outlays-july-2016;2025-09-09T20:07Z
+US_RETAIL_SALES_ADV;Advance Retail Sales (MARTS);US;America/New_York;2016-09-15T08:30;U.S. Census Bureau;2016-08;high;;https://www2.census.gov/marts/adv1608.pdf;2025-09-09T20:07Z
+US_CPI;Consumer Price Index (CPI);US;America/New_York;2016-09-16T08:30;Bureau of Labor Statistics;2016-08;high;;https://www.bls.gov/news.release/archives/cpi_09162016.htm;2025-09-09T20:07Z
+US_PCE;Personal Income & Outlays (PCE);US;America/New_York;2016-09-30T08:30;Bureau of Economic Analysis;2016-08;high;;https://www.bea.gov/news/2016/personal-income-and-outlays-august-2016;2025-09-09T20:07Z
+US_RETAIL_SALES_ADV;Advance Retail Sales (MARTS);US;America/New_York;2016-10-14T08:30;U.S. Census Bureau;2016-09;high;;https://www2.census.gov/marts/adv1609.pdf;2025-09-09T20:07Z
+US_CPI;Consumer Price Index (CPI);US;America/New_York;2016-10-18T08:30;Bureau of Labor Statistics;2016-09;high;;https://www.bls.gov/news.release/archives/cpi_10182016.htm;2025-09-09T20:07Z
+US_PCE;Personal Income & Outlays (PCE);US;America/New_York;2016-10-31T08:30;Bureau of Economic Analysis;2016-09;high;;https://www.bea.gov/news/2016/personal-income-and-outlays-september-2016;2025-09-09T20:07Z
+US_RETAIL_SALES_ADV;Advance Retail Sales (MARTS);US;America/New_York;2016-11-15T08:30;U.S. Census Bureau;2016-10;high;;https://www2.census.gov/marts/adv1610.pdf;2025-09-09T20:07Z
+US_CPI;Consumer Price Index (CPI);US;America/New_York;2016-11-17T08:30;Bureau of Labor Statistics;2016-10;high;;https://www.bls.gov/news.release/archives/cpi_11172016.htm;2025-09-09T20:07Z
+US_PCE;Personal Income & Outlays (PCE);US;America/New_York;2016-11-30T08:30;Bureau of Economic Analysis;2016-10;high;;https://www.bea.gov/news/2016/personal-income-and-outlays-october-2016;2025-09-09T20:07Z
+US_RETAIL_SALES_ADV;Advance Retail Sales (MARTS);US;America/New_York;2016-12-14T08:30;U.S. Census Bureau;2016-11;high;;https://www2.census.gov/marts/adv1611.pdf;2025-09-09T20:07Z
+US_CPI;Consumer Price Index (CPI);US;America/New_York;2016-12-15T08:30;Bureau of Labor Statistics;2016-11;high;;https://www.bls.gov/news.release/archives/cpi_12152016.htm;2025-09-09T20:07Z
+US_PCE;Personal Income & Outlays (PCE);US;America/New_York;2016-12-22T10:00;Bureau of Economic Analysis;2016-11;high;;https://www.bea.gov/news/2016/personal-income-and-outlays-november-2016;2025-09-09T20:07Z

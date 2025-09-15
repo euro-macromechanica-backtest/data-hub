@@ -1,0 +1,37 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_CPI_20050119;CPI;US;America/New_York;2005-01-19T08:30;Bureau of Labor Statistics;2004-12;high;;https://www.bls.gov/news.release/archives/cpi_01192005.pdf;2025-09-08T12:51:56Z
+US_CPI_20050223;CPI;US;America/New_York;2005-02-23T08:30;Bureau of Labor Statistics;2005-01;high;;https://www.bls.gov/news.release/archives/cpi_02232005.pdf;2025-09-08T12:51:56Z
+US_CPI_20050323;CPI;US;America/New_York;2005-03-23T08:30;Bureau of Labor Statistics;2005-02;high;;https://www.bls.gov/news.release/archives/cpi_03232005.pdf;2025-09-08T12:51:56Z
+US_CPI_20050420;CPI;US;America/New_York;2005-04-20T08:30;Bureau of Labor Statistics;2005-03;high;;https://www.bls.gov/news.release/archives/cpi_04202005.pdf;2025-09-08T12:51:56Z
+US_CPI_20050518;CPI;US;America/New_York;2005-05-18T08:30;Bureau of Labor Statistics;2005-04;high;;https://www.bls.gov/news.release/archives/cpi_05182005.pdf;2025-09-08T12:51:56Z
+US_CPI_20050615;CPI;US;America/New_York;2005-06-15T08:30;Bureau of Labor Statistics;2005-05;high;;https://www.bls.gov/news.release/archives/cpi_06152005.pdf;2025-09-08T12:51:56Z
+US_CPI_20050714;CPI;US;America/New_York;2005-07-14T08:30;Bureau of Labor Statistics;2005-06;high;;https://www.bls.gov/news.release/archives/cpi_07142005.pdf;2025-09-08T12:51:56Z
+US_CPI_20050816;CPI;US;America/New_York;2005-08-16T08:30;Bureau of Labor Statistics;2005-07;high;;https://www.bls.gov/news.release/archives/cpi_08162005.pdf;2025-09-08T12:51:56Z
+US_CPI_20050915;CPI;US;America/New_York;2005-09-15T08:30;Bureau of Labor Statistics;2005-08;high;;https://www.bls.gov/news.release/archives/cpi_09152005.pdf;2025-09-08T12:51:56Z
+US_CPI_20051014;CPI;US;America/New_York;2005-10-14T08:30;Bureau of Labor Statistics;2005-09;high;;https://www.bls.gov/news.release/archives/cpi_10142005.pdf;2025-09-08T12:51:56Z
+US_CPI_20051116;CPI;US;America/New_York;2005-11-16T08:30;Bureau of Labor Statistics;2005-10;high;;https://www.bls.gov/news.release/archives/cpi_11162005.pdf;2025-09-08T12:51:56Z
+US_CPI_20051215;CPI;US;America/New_York;2005-12-15T08:30;Bureau of Labor Statistics;2005-11;high;;https://www.bls.gov/news.release/archives/cpi_12152005.pdf;2025-09-08T12:51:56Z
+US_PCE_20050131;Personal Income & Outlays (PCE);US;America/New_York;2005-01-31T08:30;Bureau of Economic Analysis;2004-12;high;;https://www.bea.gov/news/2005/personal-income-and-outlays-december-2004;2025-09-08T12:51:56Z
+US_PCE_20050228;Personal Income & Outlays (PCE);US;America/New_York;2005-02-28T08:30;Bureau of Economic Analysis;2005-01;high;;https://www.bea.gov/news/2005/personal-income-and-outlays-january-2005;2025-09-08T12:51:56Z
+US_PCE_20050331;Personal Income & Outlays (PCE);US;America/New_York;2005-03-31T08:30;Bureau of Economic Analysis;2005-02;high;;https://www.bea.gov/news/2005/personal-income-and-outlays-february-2005;2025-09-08T12:51:56Z
+US_PCE_20050429;Personal Income & Outlays (PCE);US;America/New_York;2005-04-29T08:30;Bureau of Economic Analysis;2005-03;high;;https://www.bea.gov/news/2005/personal-income-and-outlays-march-2005;2025-09-08T12:51:56Z
+US_PCE_20050527;Personal Income & Outlays (PCE);US;America/New_York;2005-05-27T08:30;Bureau of Economic Analysis;2005-04;high;;https://www.bea.gov/news/2005/personal-income-and-outlays-april-2005;2025-09-08T12:51:56Z
+US_PCE_20050627;Personal Income & Outlays (PCE);US;America/New_York;2005-06-27T08:30;Bureau of Economic Analysis;2005-05;high;;https://www.bea.gov/news/2005/personal-income-and-outlays-may-2005;2025-09-08T12:51:56Z
+US_PCE_20050802;Personal Income & Outlays (PCE);US;America/New_York;2005-08-02T08:30;Bureau of Economic Analysis;2005-06;high;;https://www.bea.gov/index.php/news/2005/personal-income-and-outlays-june-2005;2025-09-08T12:51:56Z
+US_PCE_20050901;Personal Income & Outlays (PCE);US;America/New_York;2005-09-01T08:30;Bureau of Economic Analysis;2005-07;high;;https://www.bea.gov/news/2005/personal-income-and-outlays-july-2005;2025-09-08T12:51:56Z
+US_PCE_20050930;Personal Income & Outlays (PCE);US;America/New_York;2005-09-30T08:30;Bureau of Economic Analysis;2005-08;high;;https://www.bea.gov/news/2005/personal-income-and-outlays-august-2005;2025-09-08T12:51:56Z
+US_PCE_20051031;Personal Income & Outlays (PCE);US;America/New_York;2005-10-31T08:30;Bureau of Economic Analysis;2005-09;high;;https://www.bea.gov/news/2005/personal-income-and-outlays-september-2005;2025-09-08T12:51:56Z
+US_PCE_20051201;Personal Income & Outlays (PCE);US;America/New_York;2005-12-01T08:30;Bureau of Economic Analysis;2005-10;high;;https://www.bea.gov/news/2005/personal-income-and-outlays-october-2005;2025-09-08T12:51:56Z
+US_PCE_20051222;Personal Income & Outlays (PCE);US;America/New_York;2005-12-22T08:30;Bureau of Economic Analysis;2005-11;high;;https://www.bea.gov/news/2005/personal-income-and-outlays-november-2005;2025-09-08T12:51:56Z
+US_RetailSales_Advance_20050113;Retail Sales (Advance);US;America/New_York;2005-01-13T08:30;U.S. Census Bureau;2004-12;high;;https://www2.census.gov/marts/adv0412.pdf;2025-09-08T12:51:56Z
+US_RetailSales_Advance_20050215;Retail Sales (Advance);US;America/New_York;2005-02-15T08:30;U.S. Census Bureau;2005-01;high;;https://www2.census.gov/marts/adv0501.pdf;2025-09-08T12:51:56Z
+US_RetailSales_Advance_20050315;Retail Sales (Advance);US;America/New_York;2005-03-15T08:30;U.S. Census Bureau;2005-02;high;;https://www2.census.gov/marts/adv0502.pdf;2025-09-08T12:51:56Z
+US_RetailSales_Advance_20050413;Retail Sales (Advance);US;America/New_York;2005-04-13T08:30;U.S. Census Bureau;2005-03;high;;https://www2.census.gov/marts/adv0503.pdf;2025-09-08T12:51:56Z
+US_RetailSales_Advance_20050512;Retail Sales (Advance);US;America/New_York;2005-05-12T08:30;U.S. Census Bureau;2005-04;high;;https://www2.census.gov/marts/adv0504.pdf;2025-09-08T12:51:56Z
+US_RetailSales_Advance_20050614;Retail Sales (Advance);US;America/New_York;2005-06-14T08:30;U.S. Census Bureau;2005-05;high;;https://www2.census.gov/marts/adv0505.pdf;2025-09-08T12:51:56Z
+US_RetailSales_Advance_20050714;Retail Sales (Advance);US;America/New_York;2005-07-14T08:30;U.S. Census Bureau;2005-06;high;;https://www2.census.gov/marts/adv0506.pdf;2025-09-08T12:51:56Z
+US_RetailSales_Advance_20050811;Retail Sales (Advance);US;America/New_York;2005-08-11T08:30;U.S. Census Bureau;2005-07;high;;https://www2.census.gov/marts/adv0507.pdf;2025-09-08T12:51:56Z
+US_RetailSales_Advance_20050914;Retail Sales (Advance);US;America/New_York;2005-09-14T08:30;U.S. Census Bureau;2005-08;high;;https://www2.census.gov/marts/adv0508.pdf;2025-09-08T12:51:56Z
+US_RetailSales_Advance_20051014;Retail Sales (Advance);US;America/New_York;2005-10-14T08:30;U.S. Census Bureau;2005-09;high;;https://www2.census.gov/marts/adv0509.pdf;2025-09-08T12:51:56Z
+US_RetailSales_Advance_20051115;Retail Sales (Advance);US;America/New_York;2005-11-15T08:30;U.S. Census Bureau;2005-10;high;;https://www2.census.gov/marts/adv0510.pdf;2025-09-08T12:51:56Z
+US_RetailSales_Advance_20051213;Retail Sales (Advance);US;America/New_York;2005-12-13T08:30;U.S. Census Bureau;2005-11;high;;https://www2.census.gov/marts/adv0511.pdf;2025-09-08T12:51:56Z

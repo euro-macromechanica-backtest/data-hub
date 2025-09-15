@@ -1,0 +1,13 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_RETAIL_SALES_2011-01;Retail Sales (Advance);US;America/New_York;2011-02-15T08:30;U.S. Census Bureau;2011-01;high;;https://www2.census.gov/marts/adv1101.pdf;2025-09-09T10:34:17.537388Z
+US_RETAIL_SALES_2011-02;Retail Sales (Advance);US;America/New_York;2011-03-11T08:30;U.S. Census Bureau;2011-02;high;;https://www2.census.gov/marts/adv1102.pdf;2025-09-09T10:34:17.537388Z
+US_RETAIL_SALES_2011-03;Retail Sales (Advance);US;America/New_York;2011-04-13T08:30;U.S. Census Bureau;2011-03;high;;https://www2.census.gov/marts/adv1103.pdf;2025-09-09T10:34:17.537388Z
+US_RETAIL_SALES_2011-04;Retail Sales (Advance);US;America/New_York;2011-05-12T08:30;U.S. Census Bureau;2011-04;high;;https://www2.census.gov/marts/adv1104.pdf;2025-09-09T10:34:17.537388Z
+US_RETAIL_SALES_2011-05;Retail Sales (Advance);US;America/New_York;2011-06-14T08:30;U.S. Census Bureau;2011-05;high;;https://www2.census.gov/marts/adv1105.pdf;2025-09-09T10:34:17.537388Z
+US_RETAIL_SALES_2011-06;Retail Sales (Advance);US;America/New_York;2011-07-14T08:30;U.S. Census Bureau;2011-06;high;;https://www2.census.gov/marts/adv1106.pdf;2025-09-09T10:34:17.537388Z
+US_RETAIL_SALES_2011-07;Retail Sales (Advance);US;America/New_York;2011-08-12T08:30;U.S. Census Bureau;2011-07;high;;https://www2.census.gov/marts/adv1107.pdf;2025-09-09T10:34:17.537388Z
+US_RETAIL_SALES_2011-08;Retail Sales (Advance);US;America/New_York;2011-09-14T08:30;U.S. Census Bureau;2011-08;high;;https://www2.census.gov/marts/adv1108.pdf;2025-09-09T10:34:17.537388Z
+US_RETAIL_SALES_2011-09;Retail Sales (Advance);US;America/New_York;2011-10-14T08:30;U.S. Census Bureau;2011-09;high;;https://www2.census.gov/marts/adv1109.pdf;2025-09-09T10:34:17.537388Z
+US_RETAIL_SALES_2011-10;Retail Sales (Advance);US;America/New_York;2011-11-15T08:30;U.S. Census Bureau;2011-10;high;;https://www2.census.gov/marts/adv1110.pdf;2025-09-09T10:34:17.537388Z
+US_RETAIL_SALES_2011-11;Retail Sales (Advance);US;America/New_York;2011-12-13T08:30;U.S. Census Bureau;2011-11;high;;https://www2.census.gov/historical/marts/adv1111.pdf;2025-09-09T10:34:17.537388Z
+US_RETAIL_SALES_2011-12;Retail Sales (Advance);US;America/New_York;2012-01-12T08:30;U.S. Census Bureau;2011-12;high;;https://www2.census.gov/marts/adv1112.pdf;2025-09-09T10:34:17.537388Z

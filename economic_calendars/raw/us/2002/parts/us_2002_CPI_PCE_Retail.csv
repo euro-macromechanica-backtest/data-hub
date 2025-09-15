@@ -1,0 +1,36 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_CPI;CPI;US;America/New_York;2002-01-16T08:30;BLS;2001-12;high;;https://www.bls.gov/schedule/2002/home.htm;2025-09-07T23:37:47
+US_CPI;CPI;US;America/New_York;2002-02-20T08:30;BLS;2002-01;high;;https://www.bls.gov/schedule/2002/home.htm;2025-09-07T23:37:47
+US_CPI;CPI;US;America/New_York;2002-03-21T08:30;BLS;2002-02;high;;https://www.bls.gov/schedule/2002/home.htm;2025-09-07T23:37:47
+US_CPI;CPI;US;America/New_York;2002-04-16T08:30;BLS;2002-03;high;;https://www.bls.gov/schedule/2002/home.htm;2025-09-07T23:37:47
+US_CPI;CPI;US;America/New_York;2002-05-15T08:30;BLS;2002-04;high;;https://www.bls.gov/schedule/2002/home.htm;2025-09-07T23:37:47
+US_CPI;CPI;US;America/New_York;2002-06-18T08:30;BLS;2002-05;high;;https://www.bls.gov/schedule/2002/home.htm;2025-09-07T23:37:47
+US_CPI;CPI;US;America/New_York;2002-07-19T08:30;BLS;2002-06;high;;https://www.bls.gov/schedule/2002/home.htm;2025-09-07T23:37:47
+US_CPI;CPI;US;America/New_York;2002-08-16T08:30;BLS;2002-07;high;;https://www.bls.gov/schedule/2002/home.htm;2025-09-07T23:37:47
+US_CPI;CPI;US;America/New_York;2002-09-18T08:30;BLS;2002-08;high;;https://www.bls.gov/schedule/2002/home.htm;2025-09-07T23:37:47
+US_CPI;CPI;US;America/New_York;2002-10-18T08:30;BLS;2002-09;high;;https://www.bls.gov/schedule/2002/home.htm;2025-09-07T23:37:47
+US_CPI;CPI;US;America/New_York;2002-11-19T08:30;BLS;2002-10;high;;https://www.bls.gov/schedule/2002/home.htm;2025-09-07T23:37:47
+US_CPI;CPI;US;America/New_York;2002-12-17T08:30;BLS;2002-11;high;;https://www.bls.gov/schedule/2002/home.htm;2025-09-07T23:37:47
+US_PCE;PCE;US;America/New_York;2002-01-31T08:30;BEA;2001-12;high;;https://www.bea.gov/news/2002/personal-income-december-2001;2025-09-07T23:37:47
+US_PCE;PCE;US;America/New_York;2002-03-01T08:30;BEA;2002-01;high;;https://www.bea.gov/news/2002/personal-income-december-2001;2025-09-07T23:37:47
+US_PCE;PCE;US;America/New_York;2002-03-29T08:30;BEA;2002-02;high;;https://www.bea.gov/news/2002/personal-income-december-2001;2025-09-07T23:37:47
+US_PCE;PCE;US;America/New_York;2002-04-29T08:30;BEA;2002-03;high;;https://www.bea.gov/news/2002/personal-income-december-2001;2025-09-07T23:37:47
+US_PCE;PCE;US;America/New_York;2002-05-28T08:30;BEA;2002-04;high;;https://www.bea.gov/news/2002/personal-income-december-2001;2025-09-07T23:37:47
+US_PCE;PCE;US;America/New_York;2002-06-28T08:30;BEA;2002-05;high;;https://www.bea.gov/news/2002/personal-income-december-2001;2025-09-07T23:37:47
+US_PCE;PCE;US;America/New_York;2002-08-02T08:30;BEA;2002-06;high;;https://www.bea.gov/news/2002/personal-income-december-2001;2025-09-07T23:37:47
+US_PCE;PCE;US;America/New_York;2002-08-30T08:30;BEA;2002-07;high;;https://www.bea.gov/news/2002/personal-income-december-2001;2025-09-07T23:37:47
+US_PCE;PCE;US;America/New_York;2002-09-30T08:30;BEA;2002-08;high;;https://www.bea.gov/news/2002/personal-income-december-2001;2025-09-07T23:37:47
+US_PCE;PCE;US;America/New_York;2002-11-01T08:30;BEA;2002-09;high;;https://www.bea.gov/news/2002/personal-income-december-2001;2025-09-07T23:37:47
+US_PCE;PCE;US;America/New_York;2002-11-27T08:30;BEA;2002-10;high;;https://www.bea.gov/news/2002/personal-income-december-2001;2025-09-07T23:37:47
+US_PCE;PCE;US;America/New_York;2002-12-23T08:30;BEA;2002-11;high;;https://www.bea.gov/news/2002/personal-income-december-2001;2025-09-07T23:37:47
+US_RetailSales_Advance;Retail Sales (Advance);US;America/New_York;2002-02-13T08:30;U.S. Census Bureau;2002-01;high;;https://www2.census.gov/marts/adv0201.pdf;2025-09-07T23:37:47
+US_RetailSales_Advance;Retail Sales (Advance);US;America/New_York;2002-03-13T08:30;U.S. Census Bureau;2002-02;high;;https://www2.census.gov/marts/adv0202.pdf;2025-09-07T23:37:47
+US_RetailSales_Advance;Retail Sales (Advance);US;America/New_York;2002-04-12T08:30;U.S. Census Bureau;2002-03;high;;https://www2.census.gov/marts/adv0203.pdf;2025-09-07T23:37:47
+US_RetailSales_Advance;Retail Sales (Advance);US;America/New_York;2002-05-14T08:30;U.S. Census Bureau;2002-04;high;;https://www2.census.gov/marts/adv0204.pdf;2025-09-07T23:37:47
+US_RetailSales_Advance;Retail Sales (Advance);US;America/New_York;2002-06-13T08:30;U.S. Census Bureau;2002-05;high;;https://www2.census.gov/marts/adv0205.pdf;2025-09-07T23:37:47
+US_RetailSales_Advance;Retail Sales (Advance);US;America/New_York;2002-07-12T08:30;U.S. Census Bureau;2002-06;high;;https://www2.census.gov/marts/adv0206.pdf;2025-09-07T23:37:47
+US_RetailSales_Advance;Retail Sales (Advance);US;America/New_York;2002-08-13T08:30;U.S. Census Bureau;2002-07;high;;https://www2.census.gov/retail/releases/historical/marts/adv0207.pdf;2025-09-07T23:37:47
+US_RetailSales_Advance;Retail Sales (Advance);US;America/New_York;2002-09-13T08:30;U.S. Census Bureau;2002-08;high;;https://www2.census.gov/marts/adv0208.pdf;2025-09-07T23:37:47
+US_RetailSales_Advance;Retail Sales (Advance);US;America/New_York;2002-10-11T08:30;U.S. Census Bureau;2002-09;high;;https://www2.census.gov/marts/adv0209.pdf;2025-09-07T23:37:47
+US_RetailSales_Advance;Retail Sales (Advance);US;America/New_York;2002-11-14T08:30;U.S. Census Bureau;2002-10;high;;https://www2.census.gov/historical/marts/adv0210.pdf;2025-09-07T23:37:47
+US_RetailSales_Advance;Retail Sales (Advance);US;America/New_York;2002-12-12T08:30;U.S. Census Bureau;2002-11;high;;https://www2.census.gov/marts/adv0211.pdf;2025-09-07T23:37:47

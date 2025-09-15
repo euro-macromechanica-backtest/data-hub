@@ -1,0 +1,37 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_CPI;CPI;US;America/New_York;2020-01-14T08:30;BLS;2019-12;high;;https://www.bls.gov/news.release/archives/cpi_01142020.pdf;2025-09-10T10:38:29Z
+US_CPI;CPI;US;America/New_York;2020-02-13T08:30;BLS;2020-01;high;;https://www.bls.gov/news.release/archives/cpi_02132020.pdf;2025-09-10T10:38:29Z
+US_CPI;CPI;US;America/New_York;2020-03-11T08:30;BLS;2020-02;high;;https://www.bls.gov/news.release/archives/cpi_03112020.pdf;2025-09-10T10:38:29Z
+US_CPI;CPI;US;America/New_York;2020-04-10T08:30;BLS;2020-03;high;;https://www.bls.gov/news.release/archives/cpi_04102020.pdf;2025-09-10T10:38:29Z
+US_CPI;CPI;US;America/New_York;2020-05-12T08:30;BLS;2020-04;high;;https://www.bls.gov/news.release/archives/cpi_05122020.pdf;2025-09-10T10:38:29Z
+US_CPI;CPI;US;America/New_York;2020-06-10T08:30;BLS;2020-05;high;;https://www.bls.gov/news.release/archives/cpi_06102020.pdf;2025-09-10T10:38:29Z
+US_CPI;CPI;US;America/New_York;2020-07-14T08:30;BLS;2020-06;high;;https://www.bls.gov/news.release/archives/cpi_07142020.pdf;2025-09-10T10:38:29Z
+US_CPI;CPI;US;America/New_York;2020-08-12T08:30;BLS;2020-07;high;;https://www.bls.gov/news.release/archives/cpi_08122020.pdf;2025-09-10T10:38:29Z
+US_CPI;CPI;US;America/New_York;2020-09-11T08:30;BLS;2020-08;high;;https://www.bls.gov/news.release/archives/cpi_09112020.pdf;2025-09-10T10:38:29Z
+US_CPI;CPI;US;America/New_York;2020-10-13T08:30;BLS;2020-09;high;;https://www.bls.gov/news.release/archives/cpi_10132020.pdf;2025-09-10T10:38:29Z
+US_CPI;CPI;US;America/New_York;2020-11-12T08:30;BLS;2020-10;high;;https://www.bls.gov/news.release/archives/cpi_11122020.pdf;2025-09-10T10:38:29Z
+US_CPI;CPI;US;America/New_York;2020-12-10T08:30;BLS;2020-11;high;;https://www.bls.gov/news.release/archives/cpi_12102020.pdf;2025-09-10T10:38:29Z
+US_PCE;PCE;US;America/New_York;2020-01-31T08:30;BEA;2019-12;high;;https://www.bea.gov/news/2020/personal-income-and-outlays-december-2019;2025-09-10T10:38:29Z
+US_PCE;PCE;US;America/New_York;2020-02-28T08:30;BEA;2020-01;high;;https://www.bea.gov/news/2020/personal-income-and-outlays-january-2020;2025-09-10T10:38:29Z
+US_PCE;PCE;US;America/New_York;2020-03-27T08:30;BEA;2020-02;high;;https://www.bea.gov/news/2020/personal-income-and-outlays-february-2020;2025-09-10T10:38:29Z
+US_PCE;PCE;US;America/New_York;2020-04-30T08:30;BEA;2020-03;high;;https://www.bea.gov/news/2020/personal-income-and-outlays-march-2020;2025-09-10T10:38:29Z
+US_PCE;PCE;US;America/New_York;2020-05-29T08:30;BEA;2020-04;high;;https://www.bea.gov/news/2020/personal-income-and-outlays-april-2020;2025-09-10T10:38:29Z
+US_PCE;PCE;US;America/New_York;2020-06-26T08:30;BEA;2020-05;high;;https://www.bea.gov/news/2020/personal-income-and-outlays-may-2020;2025-09-10T10:38:29Z
+US_PCE;PCE;US;America/New_York;2020-07-31T08:30;BEA;2020-06;high;;https://www.bea.gov/news/2020/personal-income-and-outlays-june-2020-and-annual-update;2025-09-10T10:38:29Z
+US_PCE;PCE;US;America/New_York;2020-08-28T08:30;BEA;2020-07;high;;https://www.bea.gov/news/2020/personal-income-and-outlays-july-2020;2025-09-10T10:38:29Z
+US_PCE;PCE;US;America/New_York;2020-10-01T08:30;BEA;2020-08;high;;https://www.bea.gov/news/2020/personal-income-and-outlays-august-2020;2025-09-10T10:38:29Z
+US_PCE;PCE;US;America/New_York;2020-10-30T08:30;BEA;2020-09;high;;https://www.bea.gov/news/2020/personal-income-and-outlays-september-2020;2025-09-10T10:38:29Z
+US_PCE;PCE;US;America/New_York;2020-11-25T10:00;BEA;2020-10;high;;https://www.bea.gov/news/2020/personal-income-and-outlays-october-2020;2025-09-10T10:38:29Z
+US_PCE;PCE;US;America/New_York;2020-12-23T08:30;BEA;2020-11;high;;https://www.bea.gov/news/2020/personal-income-and-outlays-november-2020;2025-09-10T10:38:29Z
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2020-01-16T08:30;Census;2019-12;high;;https://www2.census.gov/marts/adv1912.pdf;2025-09-10T10:38:29Z
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2020-02-14T08:30;Census;2020-01;high;;https://www2.census.gov/retail/releases/historical/marts/adv2001.pdf;2025-09-10T10:38:29Z
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2020-03-17T08:30;Census;2020-02;high;;https://www2.census.gov/retail/releases/historical/marts/adv2002.pdf;2025-09-10T10:38:29Z
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2020-04-15T08:30;Census;2020-03;high;;https://www2.census.gov/retail/releases/historical/marts/adv2003.pdf;2025-09-10T10:38:29Z
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2020-05-15T08:30;Census;2020-04;high;;https://www2.census.gov/retail/releases/historical/marts/adv2004.pdf;2025-09-10T10:38:29Z
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2020-06-16T08:30;Census;2020-05;high;;https://www2.census.gov/retail/releases/historical/marts/adv2005.pdf;2025-09-10T10:38:29Z
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2020-07-16T08:30;Census;2020-06;high;;https://www2.census.gov/retail/releases/historical/marts/adv2006.pdf;2025-09-10T10:38:29Z
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2020-08-14T08:30;Census;2020-07;high;;https://www2.census.gov/retail/releases/historical/marts/adv2007.pdf;2025-09-10T10:38:29Z
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2020-09-16T08:30;Census;2020-08;high;;https://www2.census.gov/retail/releases/historical/marts/adv2008.pdf;2025-09-10T10:38:29Z
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2020-10-16T08:30;Census;2020-09;high;;https://www2.census.gov/retail/releases/historical/marts/adv2009.pdf;2025-09-10T10:38:29Z
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2020-11-17T08:30;Census;2020-10;high;;https://www2.census.gov/retail/releases/historical/marts/adv2010.pdf;2025-09-10T10:38:29Z
+US_RETAIL_SALES;Retail Sales;US;America/New_York;2020-12-16T08:30;Census;2020-11;high;;https://www2.census.gov/retail/releases/historical/marts/adv2011.pdf;2025-09-10T10:38:29Z

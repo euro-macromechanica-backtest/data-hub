@@ -1,0 +1,2 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+EZ_ECB_MPD_UNSCHED_2001-09-17;Monetary policy decision (rates) — UNSCHEDULED;EZ;Europe/Berlin;2001-09-17T15:30;European Central Bank;2001-09;high;"unscheduled; no_advance_notice";https://www.ecb.europa.eu/press/pr/date/2001/html/pr010917.en.html;2025-09-10T21:06Z

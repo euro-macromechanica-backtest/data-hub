@@ -1,0 +1,37 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US-CPI-2008-01;CPI;US;America/New_York;2008-02-20T08:30;BLS;2008-01;high;;https://www.bls.gov/schedule/2008/home.htm;2025-09-08T18:38Z
+US-CPI-2008-02;CPI;US;America/New_York;2008-03-14T08:30;BLS;2008-02;high;;https://www.bls.gov/news.release/archives/cpi_03142008.pdf;2025-09-08T18:38Z
+US-CPI-2008-03;CPI;US;America/New_York;2008-04-16T08:30;BLS;2008-03;high;;https://www.bls.gov/news.release/archives/cpi_04162008.pdf;2025-09-08T18:38Z
+US-CPI-2008-04;CPI;US;America/New_York;2008-05-14T08:30;BLS;2008-04;high;;https://www.bls.gov/news.release/archives/cpi_05142008.pdf;2025-09-08T18:38Z
+US-CPI-2008-05;CPI;US;America/New_York;2008-06-13T08:30;BLS;2008-05;high;;https://www.bls.gov/news.release/archives/cpi_06132008.pdf;2025-09-08T18:38Z
+US-CPI-2008-06;CPI;US;America/New_York;2008-07-16T08:30;BLS;2008-06;high;;https://www.bls.gov/news.release/archives/cpi_07162008.htm;2025-09-08T18:38Z
+US-CPI-2008-07;CPI;US;America/New_York;2008-08-14T08:30;BLS;2008-07;high;;https://www.bls.gov/schedule/2008/home.htm;2025-09-08T18:38Z
+US-CPI-2008-08;CPI;US;America/New_York;2008-09-16T08:30;BLS;2008-08;high;;https://www.bls.gov/schedule/2008/home.htm;2025-09-08T18:38Z
+US-CPI-2008-09;CPI;US;America/New_York;2008-10-16T08:30;BLS;2008-09;high;;https://www.bls.gov/schedule/2008/home.htm;2025-09-08T18:38Z
+US-CPI-2008-10;CPI;US;America/New_York;2008-11-19T08:30;BLS;2008-10;high;;https://www.bls.gov/news.release/archives/cpi_11192008.htm;2025-09-08T18:38Z
+US-CPI-2008-11;CPI;US;America/New_York;2008-12-16T08:30;BLS;2008-11;high;;https://www.bls.gov/schedule/2008/home.htm;2025-09-08T18:38Z
+US-CPI-2008-12;CPI;US;America/New_York;2009-01-16T08:30;BLS;2008-12;high;;https://www.bls.gov/news.release/archives/cpi_01162009.pdf;2025-09-08T18:38Z
+US-PCE-2008-01;PCE;US;America/New_York;2008-02-29T08:30;BEA;2008-01;high;;https://www.bea.gov/news/2008/personal-income-and-outlays-january-2008;2025-09-08T18:38Z
+US-PCE-2008-02;PCE;US;America/New_York;2008-03-28T08:30;BEA;2008-02;high;;https://www.bea.gov/news/2008/personal-income-and-outlays-february-2008;2025-09-08T18:38Z
+US-PCE-2008-03;PCE;US;America/New_York;2008-05-01T08:30;BEA;2008-03;high;;https://www.bea.gov/news/2008/personal-income-and-outlays-march-2008;2025-09-08T18:38Z
+US-PCE-2008-04;PCE;US;America/New_York;2008-05-30T08:30;BEA;2008-04;high;;https://www.bea.gov/news/2008/personal-income-and-outlays-april-2008;2025-09-08T18:38Z
+US-PCE-2008-05;PCE;US;America/New_York;2008-06-27T08:30;BEA;2008-05;high;;https://www.bea.gov/news/2008/personal-income-and-outlays-may-2008;2025-09-08T18:38Z
+US-PCE-2008-06;PCE;US;America/New_York;2008-08-04T08:30;BEA;2008-06;high;;https://apps.bea.gov/scb/issues/2008/08august/0808newsreleases.pdf;2025-09-08T18:38Z
+US-PCE-2008-07;PCE;US;America/New_York;2008-08-29T08:30;BEA;2008-07;high;;https://apps.bea.gov/scb/issues/2008/08august/0808newsreleases.pdf;2025-09-08T18:38Z
+US-PCE-2008-08;PCE;US;America/New_York;2008-09-29T08:30;BEA;2008-08;high;;https://www.bea.gov/news/2008/personal-income-and-outlays-august-2008;2025-09-08T18:38Z
+US-PCE-2008-09;PCE;US;America/New_York;2008-10-31T08:30;BEA;2008-09;high;;https://www.bea.gov/news/2008/personal-income-and-outlays-september-2008;2025-09-08T18:38Z
+US-PCE-2008-10;PCE;US;America/New_York;2008-11-26T08:30;BEA;2008-10;high;;https://www.bea.gov/news/2008/personal-income-and-outlays-october-2008;2025-09-08T18:38Z
+US-PCE-2008-11;PCE;US;America/New_York;2008-12-24T08:30;BEA;2008-11;high;;https://www.bea.gov/news/2008/personal-income-and-outlays-november-2008;2025-09-08T18:38Z
+US-PCE-2008-12;PCE;US;America/New_York;2009-02-02T08:30;BEA;2008-12;high;;https://www.bea.gov/news/2009/personal-income-and-outlays-december-2008;2025-09-08T18:38Z
+US-RetailSales-2008-01;Retail Sales (Advance);US;America/New_York;2008-02-13T08:30;Census Bureau;2008-01;high;;https://www2.census.gov/retail/releases/historical/marts/adv0801.pdf;2025-09-08T18:38Z
+US-RetailSales-2008-02;Retail Sales (Advance);US;America/New_York;2008-03-13T08:30;Census Bureau;2008-02;high;;https://www2.census.gov/marts/adv0802.pdf;2025-09-08T18:38Z
+US-RetailSales-2008-03;Retail Sales (Advance);US;America/New_York;2008-04-14T08:30;Census Bureau;2008-03;high;;https://www2.census.gov/retail/releases/historical/marts/adv0803.pdf;2025-09-08T18:38Z
+US-RetailSales-2008-04;Retail Sales (Advance);US;America/New_York;2008-05-13T08:30;Census Bureau;2008-04;high;;https://www2.census.gov/historical/marts/adv0804.pdf;2025-09-08T18:38Z
+US-RetailSales-2008-05;Retail Sales (Advance);US;America/New_York;2008-06-12T08:30;Census Bureau;2008-05;high;;https://www2.census.gov/marts/adv0805.pdf;2025-09-08T18:38Z
+US-RetailSales-2008-06;Retail Sales (Advance);US;America/New_York;2008-07-15T08:30;Census Bureau;2008-06;high;;https://www2.census.gov/retail/releases/historical/marts/adv0806.pdf;2025-09-08T18:38Z
+US-RetailSales-2008-07;Retail Sales (Advance);US;America/New_York;2008-08-13T08:30;Census Bureau;2008-07;high;;https://www2.census.gov/historical/marts/adv0807.pdf;2025-09-08T18:38Z
+US-RetailSales-2008-08;Retail Sales (Advance);US;America/New_York;2008-09-12T08:30;Census Bureau;2008-08;high;;https://www2.census.gov/marts/adv0808.pdf;2025-09-08T18:38Z
+US-RetailSales-2008-09;Retail Sales (Advance);US;America/New_York;2008-10-15T08:30;Census Bureau;2008-09;high;;https://www2.census.gov/retail/releases/historical/marts/adv0809.pdf;2025-09-08T18:38Z
+US-RetailSales-2008-10;Retail Sales (Advance);US;America/New_York;2008-11-14T08:30;Census Bureau;2008-10;high;;https://www2.census.gov/marts/adv0810.pdf;2025-09-08T18:38Z
+US-RetailSales-2008-11;Retail Sales (Advance);US;America/New_York;2008-12-12T08:30;Census Bureau;2008-11;high;;https://www2.census.gov/marts/adv0811.pdf;2025-09-08T18:38Z
+US-RetailSales-2008-12;Retail Sales (Advance);US;America/New_York;2009-01-14T08:30;Census Bureau;2008-12;high;;https://www2.census.gov/marts/adv0812.pdf;2025-09-08T18:38Z

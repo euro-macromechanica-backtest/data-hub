@@ -1,0 +1,34 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_FOMC_STATEMENT_2020-01-29;FOMC Statement;US;America/New_York;2020-01-29T14:00;Federal Reserve;2020-01;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20200129a.htm;2025-09-10T10:05Z
+US_FOMC_INTEREST_RATE_DECISION_2020-01-29;FOMC Interest Rate Decision;US;America/New_York;2020-01-29T14:00;Federal Reserve;2020-01;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20200129a.htm;2025-09-10T10:05Z
+US_FOMC_PRESS_CONFERENCE_2020-01-29;FOMC Press Conference;US;America/New_York;2020-01-29T14:30;Federal Reserve;2020-01;high;;https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20200129.pdf;2025-09-10T10:05Z
+US_FOMC_STATEMENT_2020-04-29;FOMC Statement;US;America/New_York;2020-04-29T14:00;Federal Reserve;2020-04;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20200429a.htm;2025-09-10T10:05Z
+US_FOMC_INTEREST_RATE_DECISION_2020-04-29;FOMC Interest Rate Decision;US;America/New_York;2020-04-29T14:00;Federal Reserve;2020-04;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20200429a.htm;2025-09-10T10:05Z
+US_FOMC_PRESS_CONFERENCE_2020-04-29;FOMC Press Conference;US;America/New_York;2020-04-29T14:30;Federal Reserve;2020-04;high;;https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20200429.pdf;2025-09-10T10:05Z
+US_FOMC_STATEMENT_2020-06-10;FOMC Statement;US;America/New_York;2020-06-10T14:00;Federal Reserve;2020-06;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20200610a.htm;2025-09-10T10:05Z
+US_FOMC_INTEREST_RATE_DECISION_2020-06-10;FOMC Interest Rate Decision;US;America/New_York;2020-06-10T14:00;Federal Reserve;2020-06;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20200610a.htm;2025-09-10T10:05Z
+US_FOMC_PRESS_CONFERENCE_2020-06-10;FOMC Press Conference;US;America/New_York;2020-06-10T14:30;Federal Reserve;2020-06;high;;https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20200610.pdf;2025-09-10T10:05Z
+US_FOMC_STATEMENT_2020-07-29;FOMC Statement;US;America/New_York;2020-07-29T14:00;Federal Reserve;2020-07;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20200729a.htm;2025-09-10T10:05Z
+US_FOMC_INTEREST_RATE_DECISION_2020-07-29;FOMC Interest Rate Decision;US;America/New_York;2020-07-29T14:00;Federal Reserve;2020-07;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20200729a.htm;2025-09-10T10:05Z
+US_FOMC_PRESS_CONFERENCE_2020-07-29;FOMC Press Conference;US;America/New_York;2020-07-29T14:30;Federal Reserve;2020-07;high;;https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20200729.pdf;2025-09-10T10:05Z
+US_FOMC_STATEMENT_2020-09-16;FOMC Statement;US;America/New_York;2020-09-16T14:00;Federal Reserve;2020-09;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20200916a.htm;2025-09-10T10:05Z
+US_FOMC_INTEREST_RATE_DECISION_2020-09-16;FOMC Interest Rate Decision;US;America/New_York;2020-09-16T14:00;Federal Reserve;2020-09;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20200916a.htm;2025-09-10T10:05Z
+US_FOMC_PRESS_CONFERENCE_2020-09-16;FOMC Press Conference;US;America/New_York;2020-09-16T14:30;Federal Reserve;2020-09;high;;https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20200916.pdf;2025-09-10T10:05Z
+US_FOMC_STATEMENT_2020-11-05;FOMC Statement;US;America/New_York;2020-11-05T14:00;Federal Reserve;2020-11;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20201105a.htm;2025-09-10T10:05Z
+US_FOMC_INTEREST_RATE_DECISION_2020-11-05;FOMC Interest Rate Decision;US;America/New_York;2020-11-05T14:00;Federal Reserve;2020-11;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20201105a.htm;2025-09-10T10:05Z
+US_FOMC_PRESS_CONFERENCE_2020-11-05;FOMC Press Conference;US;America/New_York;2020-11-05T14:30;Federal Reserve;2020-11;high;;https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20201105.pdf;2025-09-10T10:05Z
+US_FOMC_STATEMENT_2020-12-16;FOMC Statement;US;America/New_York;2020-12-16T14:00;Federal Reserve;2020-12;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20201216a.htm;2025-09-10T10:05Z
+US_FOMC_INTEREST_RATE_DECISION_2020-12-16;FOMC Interest Rate Decision;US;America/New_York;2020-12-16T14:00;Federal Reserve;2020-12;high;;https://www.federalreserve.gov/newsevents/pressreleases/monetary20201216a.htm;2025-09-10T10:05Z
+US_FOMC_PRESS_CONFERENCE_2020-12-16;FOMC Press Conference;US;America/New_York;2020-12-16T14:30;Federal Reserve;2020-12;high;;https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20201216.pdf;2025-09-10T10:05Z
+US_NFP_2020-01-10;Employment Situation (NFP);US;America/New_York;2020-01-10T08:30;Bureau of Labor Statistics;2020-01;high;;https://www.bls.gov/schedule/2020/;2025-09-10T10:05Z
+US_NFP_2020-02-07;Employment Situation (NFP);US;America/New_York;2020-02-07T08:30;Bureau of Labor Statistics;2020-02;high;;https://www.bls.gov/schedule/2020/;2025-09-10T10:05Z
+US_NFP_2020-03-06;Employment Situation (NFP);US;America/New_York;2020-03-06T08:30;Bureau of Labor Statistics;2020-03;high;;https://www.bls.gov/schedule/2020/;2025-09-10T10:05Z
+US_NFP_2020-04-03;Employment Situation (NFP);US;America/New_York;2020-04-03T08:30;Bureau of Labor Statistics;2020-04;high;;https://www.bls.gov/schedule/2020/;2025-09-10T10:05Z
+US_NFP_2020-05-08;Employment Situation (NFP);US;America/New_York;2020-05-08T08:30;Bureau of Labor Statistics;2020-05;high;;https://www.bls.gov/schedule/2020/;2025-09-10T10:05Z
+US_NFP_2020-06-05;Employment Situation (NFP);US;America/New_York;2020-06-05T08:30;Bureau of Labor Statistics;2020-06;high;;https://www.bls.gov/schedule/2020/;2025-09-10T10:05Z
+US_NFP_2020-07-02;Employment Situation (NFP);US;America/New_York;2020-07-02T08:30;Bureau of Labor Statistics;2020-07;high;;https://www.bls.gov/schedule/2020/;2025-09-10T10:05Z
+US_NFP_2020-08-07;Employment Situation (NFP);US;America/New_York;2020-08-07T08:30;Bureau of Labor Statistics;2020-08;high;;https://www.bls.gov/schedule/2020/;2025-09-10T10:05Z
+US_NFP_2020-09-04;Employment Situation (NFP);US;America/New_York;2020-09-04T08:30;Bureau of Labor Statistics;2020-09;high;;https://www.bls.gov/schedule/2020/;2025-09-10T10:05Z
+US_NFP_2020-10-02;Employment Situation (NFP);US;America/New_York;2020-10-02T08:30;Bureau of Labor Statistics;2020-10;high;;https://www.bls.gov/schedule/2020/;2025-09-10T10:05Z
+US_NFP_2020-11-06;Employment Situation (NFP);US;America/New_York;2020-11-06T08:30;Bureau of Labor Statistics;2020-11;high;;https://www.bls.gov/schedule/2020/;2025-09-10T10:05Z
+US_NFP_2020-12-04;Employment Situation (NFP);US;America/New_York;2020-12-04T08:30;Bureau of Labor Statistics;2020-12;high;;https://www.bls.gov/schedule/2020/;2025-09-10T10:05Z

@@ -1,0 +1,37 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_RETAIL_SALES_ADV_2013-01-15;Retail Sales (Advance);US;America/New_York;2013-01-15T08:30;U.S. Census Bureau;2013-01;high;;https://www2.census.gov/retail/releases/historical/marts/adv1212.pdf;2025-09-09T14:33Z
+US_CPI_2013-01-16;CPI;US;America/New_York;2013-01-16T08:30;Bureau of Labor Statistics;2013-01;high;;https://www.bls.gov/news.release/archives/cpi_01162013.htm;2025-09-09T14:33Z
+US_PCE_2013-01-31;PCE;US;America/New_York;2013-01-31T08:30;Bureau of Economic Analysis;2013-01;high;;https://www.bea.gov/news/2013/personal-income-and-outlays-december-2012;2025-09-09T14:33Z
+US_RETAIL_SALES_ADV_2013-02-13;Retail Sales (Advance);US;America/New_York;2013-02-13T08:30;U.S. Census Bureau;2013-02;high;;https://www2.census.gov/retail/releases/historical/marts/adv1301.pdf;2025-09-09T14:33Z
+US_CPI_2013-02-21;CPI;US;America/New_York;2013-02-21T08:30;Bureau of Labor Statistics;2013-02;high;;https://www.bls.gov/news.release/archives/cpi_02212013.htm;2025-09-09T14:33Z
+US_PCE_2013-03-01;PCE;US;America/New_York;2013-03-01T08:30;Bureau of Economic Analysis;2013-03;high;;https://www.bea.gov/news/2013/personal-income-and-outlays-january-2013;2025-09-09T14:33Z
+US_RETAIL_SALES_ADV_2013-03-13;Retail Sales (Advance);US;America/New_York;2013-03-13T08:30;U.S. Census Bureau;2013-03;high;;https://www2.census.gov/retail/releases/historical/marts/adv1302.pdf;2025-09-09T14:33Z
+US_CPI_2013-03-15;CPI;US;America/New_York;2013-03-15T08:30;Bureau of Labor Statistics;2013-03;high;;https://www.bls.gov/news.release/archives/cpi_03152013.htm;2025-09-09T14:33Z
+US_PCE_2013-03-29;PCE;US;America/New_York;2013-03-29T08:30;Bureau of Economic Analysis;2013-03;high;;https://www.bea.gov/news/2013/personal-income-and-outlays-february-2013;2025-09-09T14:33Z
+US_RETAIL_SALES_ADV_2013-04-12;Retail Sales (Advance);US;America/New_York;2013-04-12T08:30;U.S. Census Bureau;2013-04;high;;https://www2.census.gov/retail/releases/historical/marts/adv1303.pdf;2025-09-09T14:33Z
+US_CPI_2013-04-16;CPI;US;America/New_York;2013-04-16T08:30;Bureau of Labor Statistics;2013-04;high;;https://www.bls.gov/news.release/archives/cpi_04162013.htm;2025-09-09T14:33Z
+US_PCE_2013-04-29;PCE;US;America/New_York;2013-04-29T08:30;Bureau of Economic Analysis;2013-04;high;;https://www.bea.gov/news/2013/personal-income-and-outlays-march-2013;2025-09-09T14:33Z
+US_RETAIL_SALES_ADV_2013-05-13;Retail Sales (Advance);US;America/New_York;2013-05-13T08:30;U.S. Census Bureau;2013-05;high;;https://www2.census.gov/retail/releases/historical/marts/adv1304.pdf;2025-09-09T14:33Z
+US_CPI_2013-05-16;CPI;US;America/New_York;2013-05-16T08:30;Bureau of Labor Statistics;2013-05;high;;https://www.bls.gov/news.release/archives/cpi_05162013.htm;2025-09-09T14:33Z
+US_PCE_2013-05-31;PCE;US;America/New_York;2013-05-31T08:30;Bureau of Economic Analysis;2013-05;high;;https://www.bea.gov/news/2013/personal-income-and-outlays-april-2013;2025-09-09T14:33Z
+US_RETAIL_SALES_ADV_2013-06-13;Retail Sales (Advance);US;America/New_York;2013-06-13T08:30;U.S. Census Bureau;2013-06;high;;https://www2.census.gov/retail/releases/historical/marts/adv1305.pdf;2025-09-09T14:33Z
+US_CPI_2013-06-18;CPI;US;America/New_York;2013-06-18T08:30;Bureau of Labor Statistics;2013-06;high;;https://www.bls.gov/news.release/archives/cpi_06182013.htm;2025-09-09T14:33Z
+US_PCE_2013-06-27;PCE;US;America/New_York;2013-06-27T08:30;Bureau of Economic Analysis;2013-06;high;;https://www.bea.gov/news/2013/personal-income-and-outlays-may-2013;2025-09-09T14:33Z
+US_RETAIL_SALES_ADV_2013-07-15;Retail Sales (Advance);US;America/New_York;2013-07-15T08:30;U.S. Census Bureau;2013-07;high;;https://www2.census.gov/retail/releases/historical/marts/adv1306.pdf;2025-09-09T14:33Z
+US_CPI_2013-07-16;CPI;US;America/New_York;2013-07-16T08:30;Bureau of Labor Statistics;2013-07;high;;https://www.bls.gov/news.release/archives/cpi_07162013.htm;2025-09-09T14:33Z
+US_PCE_2013-08-02;PCE;US;America/New_York;2013-08-02T08:30;Bureau of Economic Analysis;2013-08;high;;https://www.bea.gov/news/2013/personal-income-and-outlays-june-2013;2025-09-09T14:33Z
+US_RETAIL_SALES_ADV_2013-08-13;Retail Sales (Advance);US;America/New_York;2013-08-13T08:30;U.S. Census Bureau;2013-08;high;;https://www2.census.gov/retail/releases/historical/marts/adv1307.pdf;2025-09-09T14:33Z
+US_CPI_2013-08-15;CPI;US;America/New_York;2013-08-15T08:30;Bureau of Labor Statistics;2013-08;high;;https://www.bls.gov/news.release/archives/cpi_08152013.htm;2025-09-09T14:33Z
+US_PCE_2013-08-30;PCE;US;America/New_York;2013-08-30T08:30;Bureau of Economic Analysis;2013-08;high;;https://www.bea.gov/news/2013/personal-income-and-outlays-july-2013;2025-09-09T14:33Z
+US_RETAIL_SALES_ADV_2013-09-13;Retail Sales (Advance);US;America/New_York;2013-09-13T08:30;U.S. Census Bureau;2013-09;high;;https://www2.census.gov/retail/releases/historical/marts/adv1308.pdf;2025-09-09T14:33Z
+US_CPI_2013-09-17;CPI;US;America/New_York;2013-09-17T08:30;Bureau of Labor Statistics;2013-09;high;;https://www.bls.gov/news.release/archives/cpi_09172013.htm;2025-09-09T14:33Z
+US_PCE_2013-09-27;PCE;US;America/New_York;2013-09-27T08:30;Bureau of Economic Analysis;2013-09;high;;https://www.bea.gov/news/2013/personal-income-and-outlays-august-2013;2025-09-09T14:33Z
+US_RETAIL_SALES_ADV_2013-10-29;Retail Sales (Advance);US;America/New_York;2013-10-29T08:30;U.S. Census Bureau;2013-10;high;rescheduled due to federal government shutdown (Census);https://www2.census.gov/retail/releases/historical/marts/adv1309.pdf;2025-09-09T14:33Z
+US_CPI_2013-10-30;CPI;US;America/New_York;2013-10-30T08:30;Bureau of Labor Statistics;2013-10;high;rescheduled due to federal government shutdown (BLS);https://www.bls.gov/news.release/archives/cpi_10302013.htm;2025-09-09T14:33Z
+US_PCE_2013-11-08;PCE;US;America/New_York;2013-11-08T08:30;Bureau of Economic Analysis;2013-11;high;rescheduled due to federal government shutdown (BEA);https://www.bea.gov/news/2013/personal-income-and-outlays-september-2013;2025-09-09T14:33Z
+US_CPI_2013-11-20;CPI;US;America/New_York;2013-11-20T08:30;Bureau of Labor Statistics;2013-11;high;;https://www.bls.gov/news.release/archives/cpi_11202013.htm;2025-09-09T14:33Z
+US_RETAIL_SALES_ADV_2013-11-20;Retail Sales (Advance);US;America/New_York;2013-11-20T08:30;U.S. Census Bureau;2013-11;high;rescheduled due to federal government shutdown (Census);https://www2.census.gov/retail/releases/historical/marts/adv1310.pdf;2025-09-09T14:33Z
+US_PCE_2013-12-06;PCE;US;America/New_York;2013-12-06T08:30;Bureau of Economic Analysis;2013-12;high;rescheduled due to federal government shutdown (BEA);https://www.bea.gov/news/2013/personal-income-and-outlays-october-2013;2025-09-09T14:33Z
+US_RETAIL_SALES_ADV_2013-12-12;Retail Sales (Advance);US;America/New_York;2013-12-12T08:30;U.S. Census Bureau;2013-12;high;;https://www2.census.gov/retail/releases/historical/marts/adv1311.pdf;2025-09-09T14:33Z
+US_CPI_2013-12-17;CPI;US;America/New_York;2013-12-17T08:30;Bureau of Labor Statistics;2013-12;high;;https://www.bls.gov/news.release/archives/cpi_12172013.htm;2025-09-09T14:33Z
+US_PCE_2013-12-23;PCE;US;America/New_York;2013-12-23T08:30;Bureau of Economic Analysis;2013-12;high;;https://www.bea.gov/news/2013/personal-income-and-outlays-november-2013;2025-09-09T14:33Z

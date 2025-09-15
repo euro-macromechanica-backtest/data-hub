@@ -1,0 +1,34 @@
+event_id;event;country;source_tz;local_dt;source;period_label;impact;notes;source_url;retrieved_at_utc
+US_RetailSales;Retail Sales (Advance);US;America/New_York;2001-02-13 08:30:00;U.S. Census Bureau;2001-01;high;;https://www2.census.gov/marts/adv0101.pdf;2025-09-07T22:40:08.093831Z
+US_CPI;CPI;US;America/New_York;2001-02-21 08:30:00;Bureau of Labor Statistics;2001-01;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:27:34.597863Z
+US_PCE;PCE;US;America/New_York;2001-03-01 08:30:00;Bureau of Economic Analysis;2001-01;high;;https://www.bea.gov/news/2001/personal-income-and-outlays-january-2001;2025-09-07T22:27:34.598097Z
+US_RetailSales;Retail Sales (Advance);US;America/New_York;2001-03-13 08:30:00;U.S. Census Bureau;2001-02;high;;https://www2.census.gov/marts/adv0102.pdf;2025-09-07T22:40:08.093855Z
+US_CPI;CPI;US;America/New_York;2001-03-21 08:30:00;Bureau of Labor Statistics;2001-02;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:27:34.597899Z
+US_PCE;PCE;US;America/New_York;2001-03-30 08:30:00;Bureau of Economic Analysis;2001-02;high;;https://www.bea.gov/news/2001/personal-income-and-outlays-february-2001;2025-09-07T22:27:34.598105Z
+US_RetailSales;Retail Sales (Advance);US;America/New_York;2001-04-13 08:30:00;U.S. Census Bureau;2001-03;high;;https://www2.census.gov/marts/adv0103.pdf;2025-09-07T22:40:08.093863Z
+US_CPI;CPI;US;America/New_York;2001-04-17 08:30:00;Bureau of Labor Statistics;2001-03;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:27:34.597907Z
+US_PCE;PCE;US;America/New_York;2001-04-30 08:30:00;Bureau of Economic Analysis;2001-03;high;;https://www.bea.gov/news/2001/personal-income-and-outlays-march-2001;2025-09-07T22:27:34.598110Z
+US_RetailSales;Retail Sales (Advance);US;America/New_York;2001-05-15 08:30:00;U.S. Census Bureau;2001-04;high;;https://www2.census.gov/marts/adv0104.pdf;2025-09-07T22:40:08.093868Z
+US_CPI;CPI;US;America/New_York;2001-05-16 08:30:00;Bureau of Labor Statistics;2001-04;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:27:34.597914Z
+US_PCE;PCE;US;America/New_York;2001-05-29 08:30:00;Bureau of Economic Analysis;2001-04;high;;https://www.bea.gov/news/2001/personal-income-and-outlays-april-2001;2025-09-07T22:27:34.598115Z
+US_RetailSales;Retail Sales (Advance);US;America/New_York;2001-06-13 08:30:00;U.S. Census Bureau;2001-05;high;;https://www2.census.gov/marts/adv0105.pdf;2025-09-07T22:40:08.093872Z
+US_CPI;CPI;US;America/New_York;2001-06-15 08:30:00;Bureau of Labor Statistics;2001-05;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:27:34.597922Z
+US_PCE;PCE;US;America/New_York;2001-07-02 08:30:00;Bureau of Economic Analysis;2001-05;high;;https://www.bea.gov/news/2001/personal-income-and-outlays-may-2001;2025-09-07T22:27:34.598119Z
+US_RetailSales;Retail Sales (Advance);US;America/New_York;2001-07-13 08:30:00;U.S. Census Bureau;2001-06;high;;https://www2.census.gov/marts/adv0106.pdf;2025-09-07T22:40:08.093878Z
+US_CPI;CPI;US;America/New_York;2001-07-18 08:30:00;Bureau of Labor Statistics;2001-06;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:27:34.597927Z
+US_PCE;PCE;US;America/New_York;2001-07-31 08:30:00;Bureau of Economic Analysis;2001-06;high;;https://www.bea.gov/news/2001/personal-income-and-outlays-june-2001;2025-09-07T22:27:34.598123Z
+US_RetailSales;Retail Sales (Advance);US;America/New_York;2001-08-14 08:30:00;U.S. Census Bureau;2001-07;high;;https://www2.census.gov/marts/adv0107.pdf;2025-09-07T22:40:08.093885Z
+US_CPI;CPI;US;America/New_York;2001-08-16 08:30:00;Bureau of Labor Statistics;2001-07;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:27:34.597931Z
+US_PCE;PCE;US;America/New_York;2001-08-30 08:30:00;Bureau of Economic Analysis;2001-07;high;;https://www.bea.gov/news/2001/personal-income-and-outlays-july-2001;2025-09-07T22:27:34.598127Z
+US_RetailSales;Retail Sales (Advance);US;America/New_York;2001-09-14 08:30:00;U.S. Census Bureau;2001-08;high;;https://www2.census.gov/retail/releases/historical/marts/adv0108.pdf;2025-09-07T22:40:08.093893Z
+US_CPI;CPI;US;America/New_York;2001-09-18 08:30:00;Bureau of Labor Statistics;2001-08;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:27:34.597936Z
+US_PCE;PCE;US;America/New_York;2001-10-01 08:30:00;Bureau of Economic Analysis;2001-08;high;;https://www.bea.gov/news/2001/personal-income-and-outlays-august-2001;2025-09-07T22:27:34.598131Z
+US_RetailSales;Retail Sales (Advance);US;America/New_York;2001-10-12 08:30:00;U.S. Census Bureau;2001-09;high;;https://www2.census.gov/retail/releases/historical/marts/adv0109.pdf;2025-09-07T22:40:08.093901Z
+US_CPI;CPI;US;America/New_York;2001-10-19 08:30:00;Bureau of Labor Statistics;2001-09;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:27:34.597941Z
+US_PCE;PCE;US;America/New_York;2001-11-01 08:30:00;Bureau of Economic Analysis;2001-09;high;;https://www.bea.gov/news/2001/personal-income-september-2001;2025-09-07T22:27:34.598135Z
+US_RetailSales;Retail Sales (Advance);US;America/New_York;2001-11-14 08:30:00;U.S. Census Bureau;2001-10;high;;https://www2.census.gov/retail/releases/historical/marts/adv0110.pdf;2025-09-07T22:40:08.093908Z
+US_CPI;CPI;US;America/New_York;2001-11-16 08:30:00;Bureau of Labor Statistics;2001-10;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:27:34.597945Z
+US_PCE;PCE;US;America/New_York;2001-12-03 08:30:00;Bureau of Economic Analysis;2001-10;high;;https://www.bea.gov/news/2001/personal-income-and-outlays-october-2001;2025-09-07T22:27:34.598139Z
+US_RetailSales;Retail Sales (Advance);US;America/New_York;2001-12-13 08:30:00;U.S. Census Bureau;2001-11;high;;https://www2.census.gov/retail/releases/historical/marts/adv0111.pdf;2025-09-07T22:40:08.093914Z
+US_CPI;CPI;US;America/New_York;2001-12-14 08:30:00;Bureau of Labor Statistics;2001-11;high;;https://www.bls.gov/schedule/2001/home.htm;2025-09-07T22:27:34.597950Z
+US_PCE;PCE;US;America/New_York;2001-12-21 08:30:00;Bureau of Economic Analysis;2001-11;high;;https://www.bea.gov/news/2001/personal-income-and-outlays-november-2001;2025-09-07T22:27:34.598143Z
