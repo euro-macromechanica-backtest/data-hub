@@ -1,0 +1,6 @@
+bucket,count,percent_of_all_gaps,all_gaps_total
+5–15 min,26,1.4517,1791
+15–30 min,1,0.0558,1791
+30–60 min,1,0.0558,1791
+60–180 min,0,0.0000,1791
+≥180 min,0,0.0000,1791
