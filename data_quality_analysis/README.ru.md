@@ -31,5 +31,5 @@
 
 ## 🔍 Прозрачность и воспроизводимость
 
-Анализ отчётов выполнен с помощью **[minute data analyzer](https://github.com/euro-macromechanica-backtest/data-preparation-toolkit/minute_data_analyzer)** в **data-preparation-toolkit**.  
+Анализ отчётов выполнен с помощью **[minute data analyzer](https://github.com/euro-macromechanica-backtest/data-preparation-toolkit/tree/main/minute_data_analyzer)** в **data-preparation-toolkit**.  
 **Единый манифест SHA-256 годовых манифестов** расположен в `/integrity/data_quality_analysis` и снабжён **GPG-подписью** и **OTS-якорем (OpenTimestamps)**.
