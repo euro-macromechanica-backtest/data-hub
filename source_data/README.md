@@ -1,13 +1,13 @@
-# 📂 EUR/USD Minute Data — Raw, Prepared, and Gap Reports. Source: [HistData](https://www.histdata.com)
+# 📂 EUR/USD & GBP/USD Minute Data — Raw, Prepared, and Gap Reports. Source: [HistData](https://www.histdata.com)
 
-**EUR/USD minute data (January 2001 through August 31, 2025)**
+**EUR/USD minute data (January 2001 through August 31, 2025) & GBP/USD (January 2008 through August 31, 2025)**
 
 ## 📌 Source & Format
 
 The history comes from **[HistData](https://www.histdata.com)** in **Generic ASCII M1** format:  
 <http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURUSD>
 
-Scope: **EURUSD M1 only** (no other instruments).
+<http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/GBPUSD>
 
 ---
 
@@ -32,8 +32,9 @@ Paths: `tick_data_reference/...`
 To provide transparency and prove the authenticity of the source data, we publish:
 
 1. **Unified SHA-256 manifest `eurusd_raw_2001-2025-08.sha256`** — includes all raw yearly M1 files obtained from HistData.  
-2. **Unified SHA-256 manifest `eurusd_prepared_2001-2025-08.sha256`** — includes all prepared yearly M1 files.  
+2. **Unified SHA-256 manifests `eurusd_prepared_2001-2025-08.sha256` & `gbpusd_prepared_2008-2025-08.sha256`** — include all prepared yearly M1 files.  
 3. **Unified SHA-256 manifest `status_reports_2001-2025-08.sha256`** — includes all gap-report text files that accompany the raw yearly M1 data from HistData.  
+4. **Unified SHA-256 manifest ``gbpusd_raw_status_reports_2008-2025-08.sha256`** - includes all raw yearly M1 files and all gap-report text files that accompany the raw yearly M1 data from HistData
 4. **SHA-256 hashes, GPG signatures, and OTS anchors for a random sample of monthly tick data** from HistData — as a reference illustrating known limitations in tick feeds.
 
 Each manifest is itself published with a **SHA-256 hash**, a **GPG signature**, and an **OpenTimestamps (OTS) anchor** recorded on-chain.

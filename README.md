@@ -29,7 +29,7 @@ The final data‑quality verdict and the rules for including years in **baseline
 
 ## 🔐 Integrity artifacts
 
-- All **RAW minute data** and gap **text reports** for **EUR/USD (Jan 2001 — Aug 2025)** under `source_data/raw/**` are accompanied by roll‑up `.sha256` manifests (SHA‑256 of all yearly files), a **GPG signature**, and an **OpenTimestamps (OTS)** anchor — attesting to the acquisition time.  
+- All **RAW minute data** and gap **text reports** for **EUR/USD (Jan 2001 — Aug 2025) & GBP/USD (Jan 2008- Aug 2025)** under `source_data/raw/**` are accompanied by roll‑up `.sha256` manifests (SHA‑256 of all yearly files), a **GPG signature**, and an **OpenTimestamps (OTS)** anchor — attesting to the acquisition time.  
 - All **PREPARED minute data** under `source_data/prepared/` — likewise: roll‑up `.sha256` / GPG / OTS.  
 - Compiled **economic calendars** under `economic_calendars/` — likewise: roll‑up `.sha256` / GPG / OTS.  
 - CSV files for the M5 gap assessment are accompanied by an `artifacts.sha256` manifest listing the **SHA-256 hashes of all input and output files**, enabling verification that outputs match the declared inputs without content changes. Additionally, a roll-up manifest aggregating all **.sha256 manifests, a GPG signature, and an OpenTimestamps (OTS) anchor** are provided.
